@@ -1,36 +1,51 @@
 # English
 English grammar.
 
-
-
 ## The Alphabet
-
-- A (Ei)   
-- B (Bi)  
-- C (Ci)  
-- D (Di) 
-- E (I) 
-- F (Éf)
-- G (Dji)
-- H (Eitch)
-- I (Ai)
-- J (Djei)  
-- K (Kei)
-- L (Él)
-- M (Em)
-- N (En)
-- O (Ôu)
-- P (Pi)
-- Q (Quiu)
-- R (Ár)
-- S (És)
-- T (Ti)
-- U (Iú)
-- V (Vi)
-- W (Dâbou-iu)
-- X (Écs)
-- Y (Uái)
-- Z (Zi/Zéd)
+<table>
+    <tr>
+        <td>A (Ei)</td>
+        <td>G (Dji)</td>
+        <td>M (Em)</td>
+        <td>S (És)</td>
+        <td>Y (Uái)</td>
+    </tr>
+    <tr>
+        <td>B (Bi)</td>
+        <td>H (Eitch)</td>
+        <td>N (En)</td>
+        <td>T (Ti)</td>
+        <td>Z (Zi/Zéd)</td>
+    </tr>
+    <tr>
+        <td>C (Ci)</td>
+        <td>I (Ai)</td>
+        <td>O (Ôu)</td>
+        <td>U (Iú)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>D (Di)</td>
+        <td>J (Djei)</td>
+        <td>P (Pi)</td>
+        <td>V (Vi)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>E (I)</td>
+        <td>K (Kei)</td>
+        <td>Q (Quiu)</td>
+        <td>W (Dâbou-iu)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>F (Éf)</td>
+        <td>L (Él)</td>
+        <td>R (Ár)</td>
+        <td>X (Écs)</td>
+        <td></td>
+    </tr>
+</table>
   
 ## Personal Pronouns
 
@@ -53,8 +68,8 @@ Ex: It is red.
 - They (Eles - Elas)
 
 ### Object Pronouns
-* Os object pronouns são os que sofrem a ação na frase.
-* São empregados após verbos e preposições
+* Os object pronouns são os sujeitos que sofrem a ação na frase.
+* São empregados após verbos e preposições.
 * Não variam em grau.
 
 Ex: I like her.  
