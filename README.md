@@ -85,14 +85,25 @@ Ex: It is red.
 Ex: I like her.  
 Ex: I want to  find it.
 
-- Me (me - mim - comigo)
-- You (te - ti - lhe - o - você - contigo)
-- Him (ele - lhe - o - lo - no)
-- Her (ela - lhe - a - la - na)
-- It (ele - ela - o - a - lhe - lo - la - no - na)
-- Us (nós - no - conosco)
-- You (vocês - conosco - lhes - los - nos - os - as)
-- Them (eles - elas - os - as - los - las - nos - nas - lhes)
+<table>
+    <tr>
+        <td>Me (me - mim - comigo)</td>
+        <td>It (ele - ela - o - a - lhe - lo - la - no - na)</td>
+    </tr>
+     <tr>
+        <td>You (te - ti - lhe - o - você - contigo)</td>
+        <td>Us (nós - no - conosco)</td>
+    </tr>
+     <tr>
+        <td>Him (ele - lhe - o - lo - no)</td>
+        <td>You (vocês - conosco - lhes - los - nos - os - as)</td>
+    </tr>
+     <tr>
+        <td>Her (ela - lhe - a - la - na)</td>
+        <td>Them (eles - elas - os - as - los - las - nos - nas - lhes)</td>
+    </tr>
+</table>
+
 
 
 
