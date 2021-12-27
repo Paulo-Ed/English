@@ -58,14 +58,24 @@ English grammar.
 Ex: He is very tall.    
 Ex: It is red.
 
-- I (Eu)
-- You (Você - Tú)
-- He (Ele)
-- She (Ela)
-- It (Ele - Ela)
-- We (Nós)
-- You (Vocês - Vós)
-- They (Eles - Elas)
+<table>
+    <tr>
+        <td>I (Eu)</td>
+        <td>It (Ele - Ela)</td>
+    </tr>
+     <tr>
+        <td>You (Você - Tú)</td>
+        <td>We (Nós)</td>
+    </tr>
+     <tr>
+        <td>He (Ele)</td>
+        <td>You (Vocês - Vós)</td>
+    </tr>
+     <tr>
+        <td>She (Ela)</td>
+        <td>They (Eles - Elas)</td>
+    </tr>
+</table>
 
 ### Object Pronouns
 * Os object pronouns são os sujeitos que sofrem a ação na frase.
