@@ -167,7 +167,7 @@ Ex: This phone is his.
   - Demonstrative pronouns, quando tem a função de substituir o substantivo na frase. Ele surge antes do verbo ou sozinho na frase.
   - Demonstrative adjectives, quando tem a função de atribuir qualidade ao substantivo o descrevendo. Ele surge antes do substantivo.
 * O This é usado para indicar algo próximo de quem fala, o These é a sua forma no plural.
-* O That é usado para indicar algo longe de quem fala, o These é sua forma no plural.
+* O That é usado para indicar algo longe de quem fala, o Those é sua forma no plural.
 
 Ex: This computer is mine.  
 Ex: Those pens are mine.  
