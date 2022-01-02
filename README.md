@@ -165,7 +165,7 @@ Ex: This phone is his.
 * Os demonstrative pronouns não variam em gênero, mas variam em número (singular - plural).
 * São classificados em:
   - Demonstrative pronouns, quando tem a função de substituir o substantivo na frase. Ele surge antes do verbo ou sozinho na frase.
-  - Demonstrative adjectives, quando tem a função de atribuir qualidade ao substantivo o descrevendo. Ele surge antes do nome.
+  - Demonstrative adjectives, quando tem a função de atribuir qualidade ao substantivo o descrevendo. Ele surge antes do substantivo.
 * O This é usado para indicar algo próximo de quem fala, o These é a sua forma no plural.
 * O That é usado para indicar algo longe de quem fala, o These é sua forma no plural.
 
