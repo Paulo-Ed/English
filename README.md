@@ -4,45 +4,45 @@ English grammar.
 ## The Alphabet
 <table>
     <tr>
-        <td>A (Ei)</td>
-        <td>G (Dji)</td>
-        <td>M (Em)</td>
-        <td>S (És)</td>
-        <td>Y (Uái)</td>
+        <td><b>A</b> (Ei)</td>
+        <td><b>G</b> (Dji)</td>
+        <td><b>M</b> (Em)</td>
+        <td><b>S</b> (És)</td>
+        <td><b>Y</b> (Uái)</td>
     </tr>
     <tr>
-        <td>B (Bi)</td>
-        <td>H (Eitch)</td>
-        <td>N (En)</td>
-        <td>T (Ti)</td>
-        <td>Z (Zi/Zéd)</td>
+        <td><b>B</b> (Bi)</td>
+        <td><b>H</b> (Eitch)</td>
+        <td><b>N</b> (En)</td>
+        <td><b>T</b> (Ti)</td>
+        <td><b>Z</b> (Zi/Zéd)</td>
     </tr>
     <tr>
-        <td>C (Ci)</td>
-        <td>I (Ai)</td>
-        <td>O (Ôu)</td>
-        <td>U (Iú)</td>
+        <td><b>C</b> (Ci)</td>
+        <td><b>I</b> (Ai)</td>
+        <td><b>O</b> (Ôu)</td>
+        <td><b>U</b> (Iú)</td>
         <td></td>
     </tr>
     <tr>
-        <td>D (Di)</td>
-        <td>J (Djei)</td>
-        <td>P (Pi)</td>
-        <td>V (Vi)</td>
+        <td><b>D</b> (Di)</td>
+        <td><b>J</b> (Djei)</td>
+        <td><b>P</b> (Pi)</td>
+        <td><b>V</b> (Vi)</td>
         <td></td>
     </tr>
     <tr>
-        <td>E (I)</td>
-        <td>K (Kei)</td>
-        <td>Q (Quiu)</td>
-        <td>W (Dâbou-iu)</td>
+        <td><b>E</b> (I)</td>
+        <td><b>K</b> (Kei)</td>
+        <td><b>Q</b> (Quiu)</td>
+        <td><b>W</b> (Dâbou-iu)</td>
         <td></td>
     </tr>
     <tr>
-        <td>F (Éf)</td>
-        <td>L (Él)</td>
-        <td>R (Ár)</td>
-        <td>X (Écs)</td>
+        <td><b>F</b> (Éf)</td>
+        <td><b>L</b> (Él)</td>
+        <td><b>R</b>(Ár)</td>
+        <td><b>X</b> (Écs)</td>
         <td></td>
     </tr>
 </table>
@@ -60,20 +60,20 @@ Ex: It is red.
 
 <table>
     <tr>
-        <td>I (Eu)</td>
-        <td>It (Ele - Ela)</td>
+        <td><b>I</b> (Eu)</td>
+        <td><b>It</b> (Ele - Ela)</td>
     </tr>
      <tr>
-        <td>You (Você - Tú)</td>
-        <td>We (Nós)</td>
+        <td><b>You</b> (Você - Tú)</td>
+        <td><b>We</b> (Nós)</td>
     </tr>
      <tr>
-        <td>He (Ele)</td>
-        <td>You (Vocês - Vós)</td>
+        <td><b>He</b> (Ele)</td>
+        <td><b>You</b> (Vocês - Vós)</td>
     </tr>
      <tr>
-        <td>She (Ela)</td>
-        <td>They (Eles - Elas)</td>
+        <td><b>She</b> (Ela)</td>
+        <td><b>They</b> (Eles - Elas)</td>
     </tr>
 </table>
 
@@ -87,25 +87,101 @@ Ex: I want to  find it.
 
 <table>
     <tr>
-        <td>Me (me - mim - comigo)</td>
-        <td>It (ele - ela - o - a - lhe - lo - la - no - na)</td>
+        <td><b>Me</b> (me - mim - comigo)</td>
+        <td><b>It</b> (ele - ela - o - a - lhe - lo - la - no - na)</td>
     </tr>
      <tr>
-        <td>You (te - ti - lhe - o - você - contigo)</td>
-        <td>Us (nós - no - conosco)</td>
+        <td><b>You</b> (te - ti - lhe - o - você - contigo)</td>
+        <td><b>Us</b> (nós - no - conosco)</td>
     </tr>
      <tr>
-        <td>Him (ele - lhe - o - lo - no)</td>
-        <td>You (vocês - conosco - lhes - los - nos - os - as)</td>
+        <td><b>Him</b> (ele - lhe - o - lo - no)</td>
+        <td><b>You</b> (vocês - conosco - lhes - los - nos - os - as)</td>
     </tr>
      <tr>
-        <td>Her (ela - lhe - a - la - na)</td>
-        <td>Them (eles - elas - os - as - los - las - nos - nas - lhes)</td>
+        <td><b>Her</b> (ela - lhe - a - la - na)</td>
+        <td><b>Them</b> (eles - elas - os - as - los - las - nos - nas - lhes)</td>
     </tr>
 </table>
 
+## Possessive Pronouns
 
+### Possessive Adjectives
+* Atuam como adjetivos na frase e são acompanhados por um substantivo.
+* Eles são utilizados para indicar posse.
+* Não são flexionados em grau (singular - plural).
 
+Ex: Her mother is old.  
+Ex: His name is Paulo.
 
+<table>
+    <tr>
+        <td><b>My</b> (Meu - Minha)</td>
+        <td><b>Its</b> (Dele - Dela)</td>
+    </tr>
+     <tr>
+        <td><b>Your</b> (Teu - Tua)</td>
+        <td><b>Our</b> (Nosso - Nossa)</td>
+    </tr>
+     <tr>
+        <td><b>His</b> (Dele)</td>
+        <td><b>Your</b> (Nosso - Nossa - Seu - Sua - De vocês)</td>
+    </tr>
+     <tr>
+        <td><b>Her</b> (Dela)</td>
+        <td><b>Their</b> (Deles - Delas)</td>
+    </tr>
+</table>
+
+### Possessive Pronouns
+* Funcionam como substantivo na frase.
+* Geralmente aparecem no fim da frase, exercendo a função do sujeito.
+  
+Ex: The girl is mine.
+Ex: This phone is his.
+
+<table>
+    <tr>
+        <td><b>Mine</b> (Meu - Minha)</td>
+        <td><b>Its</b> (Dele - Dela)</td>
+    </tr>
+     <tr>
+        <td><b>Yours</b> (Teu - Tua - Seu - Sua)</td>
+        <td><b>Ours</b> (Nosso - Nossa)</td>
+    </tr>
+     <tr>
+        <td><b>His</b> (Dele)</td>
+        <td><b>Yours</b> (Nosso - Nossa - Seu - Sua - De vocês)</td>
+    </tr>
+     <tr>
+        <td><b>Hers</b> (Dela)</td>
+        <td><b>Theirs</b> (Deles - Delas)</td>
+    </tr>
+</table>
+
+## Demonstrative Pronouns
+
+* São utilizados para indicar algo e mostrar sua posição no espaço.
+* Os demonstrative pronouns não variam em gênero, mas variam em número (singular - plural).
+* São classificados em:
+  - Demonstrative pronouns, quando tem a função de substituir o substantivo na frase. Ele surge antes do verbo ou sozinho na frase.
+  - Demonstrative adjectives, quando tem a função de atribuir qualidade ao substantivo o descrevendo. Ele surge antes do nome.
+* O This é usado para indicar algo próximo de quem fala, o These é a sua forma no plural.
+* O That é usado para indicar algo longe de quem fala, o These é sua forma no plural.
+
+Ex: This computer is mine.  
+Ex: Those pens are mine.  
+Ex: Do you like that?  
+
+<table>
+    <tr>
+        <td><b>This</b> (Este - Esta - Isto)</td>
+        <td><b>These</b> (Estes - Estas)</td>
+    </tr>
+     <tr>
+        <td><b>That</b> (Esse - Essa - Isso - Aquele - Aquela - Aquilo)</td>
+        <td><b>Those</b> (Esses - Essas - Aqueles - Aquelas)</td>
+    </tr>
+</table>
 
 
