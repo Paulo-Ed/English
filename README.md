@@ -79,8 +79,8 @@ Ex: It is red.
 
 ### Object Pronouns
 * Os object pronouns são os sujeitos que sofrem a ação na frase.
-* São empregados após verbos e preposições.
-* Não variam em grau.
+* São empregados após verbos e preposições, aparecendo geralmente no meio ou no fim da frase.
+* Não variam em grau, sendo utilizados no singular e no plural.
 
 Ex: I like her.  
 Ex: I want to  find it.
