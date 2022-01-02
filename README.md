@@ -137,7 +137,7 @@ Ex: His name is Paulo.
 * Funcionam como substantivo na frase.
 * Geralmente aparecem no fim da frase, exercendo a função do sujeito.
   
-Ex: The girl is mine.
+Ex: The girl is mine.  
 Ex: This phone is his.
 
 <table>
