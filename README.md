@@ -267,3 +267,44 @@ Ex: What are you doing?
     </tr>
 </table>
 
+## Reflexive Pronouns
+
+* São utilizados para indicar uma ação realizada pelo sujeito que incide sobre ele mesmo.
+* Geralmente aparecem após o verbo, concordando com o sujeito da oração.
+* No singular possuem a terminação -self e no plural -selves.
+* Classificação:
+  - Na função reflexiva, a ação do verbo cai sobre o próprio sujeito. O reflexive pronoun vem após o sujeito.
+  - Na função enfática, o pronome da ênfase ao sujeito da ação. O reflexive pronoun vem após o sujeito, ou após o objeto da frase.
+  - Na função idiomática, o sujeito pratica a ação sozinho. O reflexive pronoun é precedido pela preposição by.
+
+### Reciprocal Pronouns
+* São termos utilizados para se referir a mais de uma pessoa ou coisa.
+* O Each other é usado, quando o sujeito referência duas pessoas ou coisas, indicando reciprocidade.
+* O One another é usado, quando o sujeito quer referênciar mais de duas pessoas ou coisas, também indicando reciprocidade.
+
+Ex: I looked at myself in the mirror.  
+Ex: She hurt herself.  
+Ex: We amused ourselves.  
+Ex: They are proud of themselves.  
+Ex: Did tou go to school by yourselves?  
+Ex: Natalie and John kissed each other.  
+Ex: They kissed one another.  
+
+<table>
+    <tr>
+        <td><b>Myself</b> (A mim mesmo - Me)</td>
+        <td><b>Itself</b> (A si mesmo - A si mesma - Se)</td>
+    </tr>
+    <tr>
+        <td><b>Yourself</b> (A ti - A você mesmo - A você mesma - Te - Se)</td>
+        <td><b>Ourselves</b> (A nós mesmos - A nós mesmas - Nos)</td>
+    </tr>
+    <tr>
+        <td><b>Himself</b> (A si - A ele mesmo - Se)</td>
+        <td><b>Yourselves</b> (A vós - A vocês mesmos - A vocês mesmas - Vós - Se)</td>
+    </tr>
+    <tr>
+        <td><b>Herself</b> (A si - A ela mesma - Se)</td>
+        <td><b>Themselves</b> (A si - A eles mesmos - A elas mesmas - Se)</td>
+    </tr>
+</table>
