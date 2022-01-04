@@ -223,3 +223,47 @@ Ex: I don't know what it is.
         <td><b>What</b> (O que)</td>
     </tr>
 </table>
+
+## Question Words
+
+* São pronomes interrogativos, utilizados para fazer perguntas.
+* Na frase as question words aparecem antes dos verbos auxiliares e/ou verbos modais.
+* Usos:
+  - O What é utilizado para perguntas gerais que possuem uma resposta aberta.
+  - O Which é utilizado para perguntas com um conjunto de respostas definidas por quem realiza a pergunta.
+  - O Who é utilizado para especificar quem realizou a ação da pergunta.
+  - O Whom é utilizado para especificar quem sofreu a ação da pergunta.
+  - O How pode vim com auxiliares que mudam seu sentido de atribuição.
+  - O How much é utilizado para coisas incontáveis e o How many para coisas contáveis.
+
+Ex: Who is he?  
+Ex: What are you doing?
+
+<table>
+    <tr>
+        <td><b>Who</b> (Quem)</td>
+        <td><b>What</b> (O que - Que - Qual)</td>
+        <td><b>How many</b> (Quantos - Quantas)</td>
+    </tr>
+    <tr>
+        <td><b>Whom</b> (Quem)</td>
+        <td><b>Where</b> (Onde)</td>
+        <td><b>How much</b> (Quanto)</td>
+    </tr>
+    <tr>
+        <td><b>Whose</b> (De quem)</td>
+        <td><b>When</b> (Quando)</td>
+        <td><b>How long</b> (Quanto tempo)</td>
+    </tr>
+    <tr>
+        <td><b>Why</b> (Por que)</td>
+        <td><b>How</b> (Como)</td>
+        <td><b>How far</b> (Quão longe)</td>
+    </tr>
+    <tr>
+        <td><b>Which</b> (Qual - Quais)</td>
+        <td><b>How old</b> (Quantos anos)</td>
+        <td><b></b></td>
+    </tr>
+</table>
+
