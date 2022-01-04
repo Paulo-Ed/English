@@ -184,4 +184,42 @@ Ex: Do you like that?
     </tr>
 </table>
 
+## Relative Pronouns
 
+* Os relative pronouns são utilizados como sujeito ou objeto na frase, em relação ao verbo principal.
+* Eles fazem referência a algo que já foi citado na frase.
+* Possuem duas funções:
+  - Na função de sujeito, os relative pronouns são acompanhados por um verbo.
+  - Na função de objeto, os relative pronouns são seguidos por um substantivo ou pronome.  
+* Usos:
+  - O Who e o Whom são utilizados para indicar pessoas.
+  - O Which é utilizado para coisas.
+  - O That é utilizado para pessoas e coisas.
+  - O Whose é utilizado para posse tanto para pessoas como para coisas.
+  - O Where faz referência a lugares.
+  - O When é utilizado para indicar tempo.
+  - O What faz referência ao sujeito ou objeto.
+* Os relatives pronouns também são utilizados como pronomes interrogativos.
+
+Ex: The man who lives here is a programmer.  
+Ex: I know where the books are.  
+Ex: I don't know what it is.  
+
+<table>
+    <tr>
+        <td><b>Who</b> (Quem - Que - O qual)</td>
+        <td><b>Where</b> (Onde - Em que - No que - No qual - Na qual - Nos quais - Nas quais)</td>
+    </tr>
+    <tr>
+        <td><b>Whom</b> (Quem)</td>
+        <td><b>When</b> (Quando - Em que - No qual - Na qual - Nos quais - Nas quais)</td>
+    </tr>
+    <tr>
+        <td><b>Whose</b> (Cujo - Cuja - Cujos - Cujas)</td>
+        <td><b>That</b> (Que)</td>
+    </tr>
+    <tr>
+        <td><b>Which</b> (Que - O qual - O que)</td>
+        <td><b>What</b> (O que)</td>
+    </tr>
+</table>
