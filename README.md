@@ -428,32 +428,34 @@ Ex: Everything is possible.
 <table>
     <tr>
         <td><b>One</b> (Algum - Alguma - A gente - Certo - Um certo)</td>
-        <td><b>Fewer</b> (Menos)</td>
-        <td><b>Both</b> (Ambos - Ambas)</td>
+        <td><b>Such</b> (Tal - Tais)</td>
     </tr>
     <tr>
         <td><b>All</b> (Tudo - Todo - Todos - Toda - Todas)</td>
-        <td><b>Each</b> (Cada)</td>
-        <td><b>Enough</b> (Bastante - Suficiente)</td>
+        <td><b>Other</b> (Outro - Outros - Outra - Outras)</td> 
     </tr>
     <tr>
         <td><b>Much</b> (Muito - Muitas)</td>
-        <td><b>Such</b> (Tal - Tais)</td>
-        <td><b>Several</b> (Vários - Várias)</td> 
+        <td><b>Another</b> (Outro - Outra)</td>
     </tr>
     <tr>
         <td><b>Many</b> (Muitos - Muitas)</td>
-        <td><b>Other</b> (Outro - Outros - Outra - Outras)</td>
+        <td><b>Either</b> (Um ou outro - Uma ou outra - Cada)</td>
+    </tr>
+    <tr>
+        <td><b>Little</b> (Pouco - Pouca)</td>
         <td><b>Neither</b> (Nem um nem outro - Nem uma nem outra - Nenhum dos dois - Nenhuma das duas)</td>
     </tr>
     <tr>
-        <td><b>Litte</b> (Pouco - Pouca)</td>
-        <td><b>Another</b> (Outro - Outra)</td>
-        <td><b></b></td>
+        <td><b>Few</b> (Poucos - Poucas)</td>
+        <td><b>Enough</b> (Bastante - Suficiente)</td>
     </tr>
     <tr>
-        <td><b>Few</b> (Poucos - Poucas)</td>
-        <td><b>Either</b> (Um ou outro - Uma ou outra - Cada)</td>
-        <td><b></b></td> 
+        <td><b>Fewer</b> (Menos)</td>
+        <td><b>Several</b> (Vários - Várias)</td>
+    </tr>
+    <tr>
+        <td><b>Each</b> (Cada)</td>
+        <td><b>Both</b> (Ambos - Ambas)</td>
     </tr>
 </table>
