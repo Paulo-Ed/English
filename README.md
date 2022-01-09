@@ -308,3 +308,150 @@ Ex: They kissed one another.
         <td><b>Themselves</b> (A si - A eles mesmos - A elas mesmas - Se)</td>
     </tr>
 </table>
+
+## Indefinite Pronouns
+
+* Os indefinite pronouns, são utilizados para substituir ou acompanhar o substantivo de forma imprecisa ou indeterminada.
+* Podem agir com função de substantivo ou adjetivo na frase.
+* Muitos dos indefinite pronouns são formados na combinação com as palavras some, any, no e every.
+* Usos:
+  - Para indicar pessoas os indefinite pronouns terminam com -body ou -one.
+  - Para indicar coisas terminam com -thing.
+  - Para indicar lugares terminam com -where.
+
+### Some
+* O termo some, quando usado sozinho significa: Algum, Alguns, Um, Uns, Uma, Umas, Alguma, Algumas, Algo, Cerca de, Certo, Certos, Certa, Certas, Um pouco de.
+* O some e suas variações, são utilizados para frases afirmativas e em alguns casos em frases interrogativas.
+
+Ex: Somewhere in Brazil.  
+Ex: We are looking for something to eat.  
+Ex: I will get there someway.  
+
+<table>
+    <tr>
+        <td><b>Somebody</b> (Alguém)</td>
+    </tr>
+    <tr>
+        <td><b>Someone</b> (Alguém)</td>
+    </tr>
+    <tr>
+        <td><b>Something</b> (Algo)</td>
+    </tr>
+    <tr>
+        <td><b>Somewhere</b> (Em algum lugar)</td>
+    </tr>
+    <tr>
+        <td><b>Someway</b> (De alguma maneira)</td>  
+    </tr>
+</table>
+
+### Any
+* O termo any, quando usado sozinho significa: Qualquer, Quaisquer, Algum, Alguns, Alguma, Algumas, Nenhum, Nenhuma, Um, Uns, Uma, Umas.
+* O any e suas combinações são utilizados em frases negativas ou interrogativas.
+
+Ex: I would go anywhere with you.  
+Ex: I didn't hear anything.  
+
+<table>
+    <tr>
+        <td><b>Anybody</b> (Ninguém)</td>
+    </tr>
+    <tr>
+        <td><b>Anyone</b> (Qualquer um - Ninguém)</td>
+    </tr>
+    <tr>
+        <td><b>Anything</b> (Nada)</td>
+    </tr>
+    <tr>
+        <td><b>Anywhere</b> (Qualquer lugar)</td>
+    </tr>
+    <tr>
+        <td><b>Anyway</b> (De qualquer forma - De qualquer jeito)</td>  
+    </tr>
+</table>
+
+### No
+* O no é utilizado como adjetivo, o none é usado como substantivo, ambos significam: Nenhum, Nenhuma.
+* São utilizados em frases negativas.
+
+Ex: Diana threw a party, but nobody showed up.  
+Ex: None of these apples is ripe.  
+Ex: I have nothing in my purse.  
+
+<table>
+    <tr>
+        <td><b>Nobody</b> (Ninguém)</td>
+    </tr>
+    <tr>
+        <td><b>No one</b> (Ninguém)</td>
+    </tr>
+    <tr>
+        <td><b>None</b> (Nenhum - Nenhuma)</td>
+    </tr>
+    <tr>
+        <td><b>Nothing</b> (Nada)</td>
+    </tr>
+    <tr>
+        <td><b>Nowhere</b> (Em nenhum lugar)</td>  
+    </tr>
+    <tr>
+        <td><b>No way</b> (De jeito nenhum)</td>  
+    </tr>
+</table>
+
+### Every
+* O every siginifica: Todo, Todos, Toda, Todas, Cada.
+* São utilizados para frases afirmativas ou interrogativas.
+
+Ex: Everybody hates Chris.  
+Ex: Everything is possible.  
+
+<table>
+    <tr>
+        <td><b>Everybody</b> (Toda a gente - Todo o mundo)</td>
+    </tr>
+    <tr>
+        <td><b>Everyone</b> (Todos - Todo o mundo)</td>
+    </tr>
+    <tr>
+        <td><b>Everything</b> (Tudo)</td>
+    </tr>
+    <tr>
+        <td><b>Everywhere</b> (Em todos os lugares)</td>
+    </tr>
+    <tr>
+        <td><b>Every way</b> (De todo jeito - De todos os sentidos)</td>  
+    </tr>
+</table>
+
+### Other Indefinite Pronouns
+<table>
+    <tr>
+        <td><b>One</b> (Algum - Alguma - A gente - Certo - Um certo)</td>
+        <td><b>Fewer</b> (Menos)</td>
+        <td><b>Both</b> (Ambos - Ambas)</td>
+    </tr>
+    <tr>
+        <td><b>All</b> (Tudo - Todo - Todos - Toda - Todas)</td>
+        <td><b>Each</b> (Cada)</td>
+        <td><b>Enough</b> (Bastante - Suficiente)</td>
+    </tr>
+    <tr>
+        <td><b>Much</b> (Muito - Muitas)</td>
+        <td><b>Such</b> (Tal - Tais)</td>
+        <td><b>Several</b> (Vários - Várias)</td> 
+    </tr>
+    <tr>
+        <td><b>Many</b> (Muitos - Muitas)</td>
+        <td><b>Other</b> (Outro - Outros - Outra - Outras)</td>
+        <td><b>Neither</b> (Nem um nem outro - Nem uma nem outra - Nenhum dos dois - Nenhuma das duas)</td>
+    </tr>
+    <tr>
+        <td><b>Litte</b> (Pouco - Pouca)</td>
+        <td><b>Another</b> (Outro - Outra)</td>  
+    </tr>
+    <tr>
+        <td><b>Few</b> (Poucos - Poucas)</td>
+        <td><b>Either</b> (Um ou outro - Uma ou outra - Cada)</td>  
+    </tr>
+</table>
