@@ -448,10 +448,12 @@ Ex: Everything is possible.
     </tr>
     <tr>
         <td><b>Litte</b> (Pouco - Pouca)</td>
-        <td><b>Another</b> (Outro - Outra)</td>  
+        <td><b>Another</b> (Outro - Outra)</td>
+        <td><b></b></td>
     </tr>
     <tr>
         <td><b>Few</b> (Poucos - Poucas)</td>
-        <td><b>Either</b> (Um ou outro - Uma ou outra - Cada)</td>  
+        <td><b>Either</b> (Um ou outro - Uma ou outra - Cada)</td>
+        <td><b></b></td> 
     </tr>
 </table>
