@@ -459,3 +459,85 @@ Ex: Everything is possible.
         <td><b>Both</b> (Ambos - Ambas)</td>
     </tr>
 </table>
+
+## Articles
+
+### Definite Articles
+* No inglês, o the é o único artigo definido, sendo o mesmo tanto no singular como no plural.
+* Ele é usado para se referir a algo específico que já foi mencionado.
+* Usos:
+  - Substantivos únicos.
+  - Nomes geográficos.
+  - Adjetivos no plural com função de substantivo.
+  - Nomes compostos de países que já integram o the no seu nome.
+  - Nomes de família.
+  - Instrumentos musicais.
+  - Ritmos musicais e danças.
+  - Numerais ordinais.
+* Quando não usar:
+  - Nomes de pessoas.
+  - Nomes de lugares.
+  - Línguas.
+  - Esportes.
+  - Disciplinas.
+  - Pronomes possessivos.
+  - Substantivos no plural usados com sentido geral.
+  - Dias da semana.
+  - Cores.
+  - Cargos acompanhados de um nome próprio.
+  - Expressões de tempo com last e next.
+
+Ex: I like to play the piano.  
+Ex: The jacksons are a famous family.  
+Ex: The united states of america.  
+
+<table>
+    <tr>
+        <td><b>The</b> (O - Os - A - As)</td>    
+    </tr>
+</table>
+
+### Indefinite Articles
+* Os indefinite articles, são utilizados quando nos referimos a algo em geral, não especificado.
+* São usados apenas no singular.
+* O artigo A é usado em palavras que começam com uma consoante ou por um som de consoante.
+* O artigo An é usado em palavras que começam com uma vogal, ou por um som de vogal.
+* Outros usos:
+  - Profissões.
+  - Substantivos contáveis.
+* Quando não usar:
+  - Substantivos incontáveis.
+
+Ex: He is a professor.  
+Ex: She is eating an apple.  
+Ex: This is a dictionary.  
+
+<table>
+    <tr>
+        <td><b>A</b> (Um - Uma)</td>    
+    </tr>
+    <tr>
+        <td><b>An</b> (Um - Uma)</td>     
+    </tr>
+</table>
+
+## Tempos Verbais
+
+## Simple Present
+
+* É empregado para indicar ações habituais que ocorrem no presente.
+* Também é utilizado para expressar verdades universais, sentimentos, desejos, opiniões e preferências.
+* Geralmente frases no simple present apresentam expressões de tempo.
+* A conjugação de frases no simple present, variam de acordo com a pessoa verbal, terminação do verbo e tipo de frase (afirmativa - negativa - interrogativa).
+
+### Affirmative Form
+* A regra geral é usar o verbo conjugado no infinitivo sem o to, para os pronomes i, you, we e they. Já para os pronomes he, she e it adiciona-se o -s, -es ou -ies ao verbo.
+* Regras específicas:
+  - Para verbos terminados em -o, -z, -ss, -ch, -sh e -x adiciona-se -es.
+  - Para verbos terminados em -y precedido de consoante, retira-se o -y e adiociona-se -ies.
+  - Para verbos terminados em -y precedido de vogal adiciona-se -s.
+* Estrutura da frase:
+  - Sujeito + verbo principal + complemento
+
+Ex: She watches tv series every day.  
+Ex: I live in Brazil.  
