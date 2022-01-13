@@ -215,7 +215,7 @@ Ex: Do you like that?
   - O ***where*** faz referência a lugares.
   - O ***when*** é utilizado para indicar tempo.
   - O ***what*** faz referência ao sujeito ou objeto.
-* Os *relatives pronouns* também são utilizados como pronomes interrogativos.
+* Os *Relative pronouns* também são utilizados como pronomes interrogativos.
 
 Ex: The man who lives here is a programmer.  
 Ex: I know where the books are.  
