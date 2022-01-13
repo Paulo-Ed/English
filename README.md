@@ -57,7 +57,7 @@ English grammar.
 
 #### SUBJECT PRONOUNS
 
-* Os *subject pronouns* são os sujeitos que praticam a ação na frase.
+* Os *Subject pronouns* são os sujeitos que praticam a ação na frase.
 * Eles substituem nomes próprios ou substantivos na frase.
 * Aparecem no início da frase e são utilizados no singular e no plural.
 * Variam em gênero (masculino, feminino e neutro).
@@ -86,7 +86,7 @@ Ex: It is red.
 
 #### OBJECT PRONOUNS
 
-* Os *object pronouns* são os sujeitos que sofrem a ação na frase.
+* Os *Object pronouns* são os sujeitos que sofrem a ação na frase.
 * São empregados após verbos e preposições, aparecendo geralmente no meio ou no fim da frase.
 * Não variam em grau, sendo utilizados no singular e no plural.
 
@@ -176,7 +176,7 @@ Ex: This phone is his.
 ## Demonstrative Pronouns
 
 * São utilizados para indicar algo e mostrar sua posição no espaço.
-* Os *demonstrative pronouns* não variam em gênero, mas variam em número (singular - plural).
+* Os *Demonstrative pronouns* não variam em gênero, mas variam em número (singular - plural).
 * São classificados em:
   - *Demonstrative pronouns*, quando tem a função de substituir o substantivo na frase. Ele surge antes do verbo ou sozinho na frase.
   - *Demonstrative adjectives*, quando tem a função de atribuir qualidade ao substantivo o descrevendo. Ele surge antes do substantivo.
@@ -202,7 +202,7 @@ Ex: Do you like that?
 
 ## Relative Pronouns
 
-* Os *relative pronouns* são utilizados como sujeito ou objeto na frase, em relação ao verbo principal.
+* Os *Relative pronouns* são utilizados como sujeito ou objeto na frase, em relação ao verbo principal.
 * Eles fazem referência a algo que já foi citado na frase.
 * Possuem duas funções:
   - Na função de sujeito, os relative pronouns são acompanhados por um verbo.
@@ -245,7 +245,7 @@ Ex: I don't know what it is.
 ## Question Words
 
 * São pronomes interrogativos, utilizados para fazer perguntas.
-* Na frase as *question words* aparecem antes dos verbos auxiliares e/ou verbos modais.
+* Na frase as *Question words* aparecem antes dos verbos auxiliares e/ou verbos modais.
 * Usos:
   - O ***what*** é utilizado para perguntas gerais que possuem uma resposta aberta.
   - O ***which*** é utilizado para perguntas com um conjunto de respostas definidas por quem realiza a pergunta.
@@ -293,9 +293,9 @@ Ex: What are you doing?
 * Geralmente aparecem após o verbo, concordando com o sujeito da oração.
 * No singular possuem a terminação ***-self*** e no plural ***-selves***.
 * Classificação:
-  - Na função reflexiva, a ação do verbo cai sobre o próprio sujeito. O *reflexive pronoun* vem após o sujeito.
-  - Na função enfática, o pronome da ênfase ao sujeito da ação. O *reflexive pronoun* vem após o sujeito, ou após o objeto da frase.
-  - Na função idiomática, o sujeito pratica a ação sozinho. O *reflexive pronoun* é precedido pela preposição ***by***.
+  - Na função reflexiva, a ação do verbo cai sobre o próprio sujeito. O *Reflexive pronoun* vem após o sujeito.
+  - Na função enfática, o pronome da ênfase ao sujeito da ação. O *Reflexive pronoun* vem após o sujeito, ou após o objeto da frase.
+  - Na função idiomática, o sujeito pratica a ação sozinho. O *Reflexive pronoun* é precedido pela preposição ***by***.
 
 #### RECIPROCAL PRONOUNS
 
@@ -334,7 +334,7 @@ Ex: They kissed one another.
 
 ## Indefinite Pronouns
 
-* Os *indefinite pronouns*, são utilizados para substituir ou acompanhar o substantivo de forma imprecisa ou indeterminada.
+* Os *Indefinite pronouns*, são utilizados para substituir ou acompanhar o substantivo de forma imprecisa ou indeterminada.
 * Podem agir com função de substantivo ou adjetivo na frase.
 * Muitos dos indefinite pronouns são formados na combinação com as palavras ***some, any, no*** e ***every***.
 * Usos:
@@ -562,11 +562,12 @@ Ex: This is a dictionary.
 * É empregado para indicar ações habituais que ocorrem no presente.
 * Também é utilizado para expressar verdades universais, sentimentos, desejos, opiniões e preferências.
 * Geralmente frases no simple present apresentam expressões de tempo.
-* A conjugação de frases no *simple present*, variam de acordo com a pessoa verbal, terminação do verbo e tipo de frase (afirmativa - negativa - interrogativa).
+* A conjugação de frases no *Simple present*, variam de acordo com a pessoa verbal, terminação do verbo e tipo de frase (afirmativa - negativa - interrogativa).
 
 ##### Affirmative Form
 
-* A regra geral é usar o verbo conjugado no infinitivo sem o ***to***, para os pronomes ***i, you, we*** e ***they***. Já para os pronomes ***he, she*** e ***it*** adiciona-se o ***-s, -es*** ou ***-ies*** ao verbo.
+* A regra geral é usar o verbo conjugado no infinitivo sem o ***to***, para os pronomes ***i, you, we*** e ***they***.
+* Para os pronomes ***he, she*** e ***it*** adiciona-se o ***-s, -es*** ou ***-ies*** ao verbo.
 * Regras específicas:
   - Para verbos terminados em ***-o, -z, -ss, -ch, -sh*** e ***-x*** adiciona-se ***-es***.
   - Para verbos terminados em ***-y*** precedido de consoante, retira-se o ***-y*** e adiociona-se ***-ies***.
@@ -579,11 +580,11 @@ Ex: I live in Brazil.
 
 ##### Negative Form
 
-* A forma negativa do *simple present* é formada com o uso dos verbos auxiliares ***do*** e ***does***.
+* A forma negativa do *Simple present* é formada com o uso dos verbos auxiliares ***do*** e ***does***.
 * O auxiliar ***do/does*** não é utilizado para o verbo *to be*.
 * O ***do*** é utilizado com os pronomes ***i, you, we*** e ***they***.  
 * O ***does*** é utilizado como verbo auxiliar dos pronomes ***he, she*** e ***it***.
-* Na forma negativa do *simple present*, o verbo sempre é usado no infinitivo sem o ***to***, mesmo quando usado na terceira pessoa do singular.
+* Na forma negativa do *Simple present*, o verbo sempre é usado no infinitivo sem o ***to***, mesmo quando usado na terceira pessoa do singular.
 * A construção da forma negativa pode ser feita na forma completa (do not - does not), ou na forma contraída (don't - doesn't).
 * Estrutura da frase:
   - Sujeito + verbo auxiliar + not + verbo principal + complemento
@@ -593,10 +594,10 @@ Ex: He does not go to the gym on weekends.
 
 ##### Interrogative Form
 
-* A forma interrogativa do *simple present* é formada com o uso dos verbos auxiliares ***do*** e ***does***.
+* A forma interrogativa do *Simple present* é formada com o uso dos verbos auxiliares ***do*** e ***does*** no início da frase.
 * O ***do*** é utilizado com os pronomes ***i, you, we*** e ***they***.  
 * O ***does*** é utilizado como verbo auxiliar dos pronomes ***he, she*** e ***it***.
-* Na forma interrogativa do *simple present*, o verbo sempre é usado no infinitivo sem o ***to***, mesmo quando usado na terceira pessoa do singular.
+* Na forma interrogativa do *Simple present*, o verbo sempre é usado no infinitivo sem o ***to***, mesmo quando usado na terceira pessoa do singular.
 * O ***do/does*** também é utilizado para se dar respostas curtas.
 * Estrutura da frase:
   - Verbo auxiliar + sujeito + verbo principal + complemento
@@ -604,4 +605,47 @@ Ex: He does not go to the gym on weekends.
 Ex: Do you arrive late?  
 Ex: Does he live in your house?  
 
+#### PRESENT CONTINUOS
 
+* É empregado para indicar ações temporárias ou contínuas que estão acontecendo no presente, no momento da fala.
+* É comum frases no *Present continuos*, estarem acompanhadas de advérbios de tempo como ***now***, ***at the moment*** e ***at present***.
+* No português o *Present continuos* corresponde ao gerúndio.
+
+##### Affirmative Form
+
+* É formado por um verbos principal e um verbo auxiliar.
+* O verbo ***to be*** no *Simple present*, funciona como o verbo auxiliar, enquanto o adiciona-se ***-ing*** ao final do verbo principal.
+* Nas frases afirmativas, pode-se usar as formas contraídas do verbo ***to be***.
+* Regras específicas:
+  - Para verbos terminados em ***-e*** precedido de consoante, retira-se a vogal e adiciona-se ***-ing***, com exceção do verbo ***to be***.
+  - Para verbos terminados em ***-ie*** troca-se a terminação por ***-y*** e adiciona-se ***-ing***.
+  - Para verbos monossilábicos ou dissílabos com terminação de consoante + vogal + consoante duplica-se a última consoante e adiciona-se ***-ing***, com exceção se a última consoante for ***w*** ou ***x*** em que não ocorre a duplicação ou se a sílaba tônica for a primeira, também não se dobra a consoante final.
+* Estrutura da frase:
+  - Sujeito + verbo auxiliar (to be) + verbo principal com -ing + complemento.
+
+Ex: I am studying english at the moment.  
+Ex: I am eating now.
+
+##### Negative Form
+
+* É formado com a adição do ***not*** depois do verbo auxiliar ***to be***.
+* Nas frases negativas, pode-se uasr as formas contraídas do verbo ***to be*** + ***not***, com exceção do ***am***.
+* Estrutura da frase:
+  - Sujeito + verbo auxiliar (to be) + not + verbo principal com -ing + complemento.
+
+Ex: I am not studying english at the moment.  
+Ex: She is not watching Tv.  
+
+##### Interrogative Form
+
+* É formado com o verbo auxiliar ***to be*** no início da frase.
+* Estrutura da frase:
+  - Verbo auxiliar (to be) + sujeito + verbo principal com -ing + complemento.
+
+Ex: Are you studying english at the moment?  
+Ex: Is she watching Tv?
+
+#### SIMPLE PAST
+
+* É usado para indicar ações feitas no passado já concluídas, ou seja, coisas que já aconteceram, que começaram e terminaram no passado.
+* É comum o uso de expressões temporais em frases no *Simple past*, como ***yesterday***, ***the day before yesterday***, ***last night***, ***last year***, ***last month***, ***last week*** e ***ago***.
