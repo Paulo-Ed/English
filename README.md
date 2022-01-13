@@ -55,7 +55,7 @@ English grammar.
 
 ## Personal Pronouns
 
-#### SUBJECT PRONOUNS
+> #### SUBJECT PRONOUNS
 
 * Os *Subject pronouns* são os sujeitos que praticam a ação na frase.
 * Eles substituem nomes próprios ou substantivos na frase.
@@ -84,7 +84,7 @@ Ex: It is red.
     </tr>
 </table>
 
-#### OBJECT PRONOUNS
+> #### OBJECT PRONOUNS
 
 * Os *Object pronouns* são os sujeitos que sofrem a ação na frase.
 * São empregados após verbos e preposições, aparecendo geralmente no meio ou no fim da frase.
@@ -116,7 +116,7 @@ Ex: I want to  find it.
 
 ## Possessive Pronouns
 
-#### POSSESSIVE ADJECTIVES
+> #### POSSESSIVE ADJECTIVES
 
 * Atuam como adjetivos na frase e são acompanhados por um substantivo.
 * Eles são utilizados para indicar posse.
@@ -144,7 +144,7 @@ Ex: His name is Paulo.
     </tr>
 </table>
 
-#### POSSESSIVE PRONOUNS
+> #### POSSESSIVE PRONOUNS
 
 * Funcionam como substantivo na frase.
 * Geralmente aparecem no fim da frase, exercendo a função do sujeito.
@@ -297,7 +297,7 @@ Ex: What are you doing?
   - Na função enfática, o pronome da ênfase ao sujeito da ação. O *Reflexive pronoun* vem após o sujeito, ou após o objeto da frase.
   - Na função idiomática, o sujeito pratica a ação sozinho. O *Reflexive pronoun* é precedido pela preposição ***by***.
 
-#### RECIPROCAL PRONOUNS
+> #### RECIPROCAL PRONOUNS
 
 * São termos utilizados para se referir a mais de uma pessoa ou coisa.
 * O ***each other*** é usado, quando o sujeito referência duas pessoas ou coisas, indicando reciprocidade.
@@ -342,7 +342,7 @@ Ex: They kissed one another.
   - Para indicar coisas terminam com ***-thing***.
   - Para indicar lugares terminam com ***-where***.
 
-#### SOME
+> #### SOME
 
 * O termo ***some***, quando usado sozinho significa: Algum, Alguns, Um, Uns, Uma, Umas, Alguma, Algumas, Algo, Cerca de, Certo, Certos, Certa, Certas, Um pouco de.
 * O ***some*** e suas variações, são utilizados para frases afirmativas e em alguns casos em frases interrogativas.
@@ -369,7 +369,7 @@ Ex: I will get there someway.
     </tr>
 </table>
 
-#### ANY
+> #### ANY
 
 * O termo ***any***, quando usado sozinho significa: Qualquer, Quaisquer, Algum, Alguns, Alguma, Algumas, Nenhum, Nenhuma, Um, Uns, Uma, Umas.
 * O ***any*** e suas combinações são utilizados em frases negativas ou interrogativas.
@@ -395,7 +395,7 @@ Ex: I didn't hear anything.
     </tr>
 </table>
 
-#### NO
+> #### NO
 
 * O ***no*** é utilizado como adjetivo, o none é usado como substantivo, ambos significam: Nenhum, Nenhuma.
 * São utilizados em frases negativas.
@@ -425,7 +425,7 @@ Ex: I have nothing in my purse.
     </tr>
 </table>
 
-#### EVERY
+> #### EVERY
 
 * O ***every*** siginifica: Todo, Todos, Toda, Todas, Cada.
 * São utilizados para frases afirmativas ou interrogativas.
@@ -451,7 +451,7 @@ Ex: Everything is possible.
     </tr>
 </table>
 
-#### OTHER INDEFINITE PRONOUNS
+> #### OTHER INDEFINITE PRONOUNS
 
 <table>
     <tr>
@@ -492,7 +492,7 @@ Ex: Everything is possible.
 
 ## Articles
 
-#### DEFINITE ARTICLES
+> #### DEFINITE ARTICLES
 
 * No inglês, o ***the*** é o único artigo definido, sendo o mesmo tanto no singular como no plural.
 * Ele é usado para se referir a algo específico que já foi mencionado.
@@ -528,7 +528,7 @@ Ex: The united states of america.
     </tr>
 </table>
 
-#### INDEFINITE ARTICLES
+> #### INDEFINITE ARTICLES
 
 * Os indefinite articles, são utilizados quando nos referimos a algo em geral, não especificado.
 * São usados apenas no singular.
@@ -557,14 +557,14 @@ Ex: This is a dictionary.
 
 ## Tempos Verbais
 
-#### SIMPLE PRESENT
+> #### SIMPLE PRESENT
 
 * É empregado para indicar ações habituais que ocorrem no presente.
 * Também é utilizado para expressar verdades universais, sentimentos, desejos, opiniões e preferências.
 * Geralmente frases no simple present apresentam expressões de tempo.
 * A conjugação de frases no *Simple present*, variam de acordo com a pessoa verbal, terminação do verbo e tipo de frase (afirmativa - negativa - interrogativa).
 
-##### Affirmative Form
+##### AFFIRMATIVE FORM
 
 * A regra geral é usar o verbo conjugado no infinitivo sem o ***to***, para os pronomes ***i, you, we*** e ***they***.
 * Para os pronomes ***he, she*** e ***it*** adiciona-se o ***-s, -es*** ou ***-ies*** ao verbo.
@@ -578,7 +578,7 @@ Ex: This is a dictionary.
 Ex: She watches tv series every day.  
 Ex: I live in Brazil.  
 
-##### Negative Form
+##### NEGATIVE FORM
 
 * A forma negativa do *Simple present* é formada com o uso dos verbos auxiliares ***do*** e ***does***.
 * O auxiliar ***do/does*** não é utilizado para o verbo *to be*.
@@ -592,7 +592,7 @@ Ex: I live in Brazil.
 Ex: I do not live in Brazil.  
 Ex: He does not go to the gym on weekends.  
 
-##### Interrogative Form
+##### INTERROGATIVE FORM
 
 * A forma interrogativa do *Simple present* é formada com o uso dos verbos auxiliares ***do*** e ***does*** no início da frase.
 * O ***do*** é utilizado com os pronomes ***i, you, we*** e ***they***.  
@@ -605,13 +605,13 @@ Ex: He does not go to the gym on weekends.
 Ex: Do you arrive late?  
 Ex: Does he live in your house?  
 
-#### PRESENT CONTINUOS
+> #### PRESENT CONTINUOS
 
 * É empregado para indicar ações temporárias ou contínuas que estão acontecendo no presente, no momento da fala.
 * É comum frases no *Present continuos*, estarem acompanhadas de advérbios de tempo como ***now***, ***at the moment*** e ***at present***.
 * No português o *Present continuos* corresponde ao gerúndio.
 
-##### Affirmative Form
+##### AFFIRMATIVE FORM
 
 * É formado por um verbo principal e um verbo auxiliar.
 * O verbo ***to be*** no *Simple present*, funciona como o verbo auxiliar, enquanto o adiciona-se ***-ing*** ao final do verbo principal.
@@ -626,7 +626,7 @@ Ex: Does he live in your house?
 Ex: I am studying english at the moment.  
 Ex: I am eating now.
 
-##### Negative Form
+##### NEGATIVE FORM
 
 * É formado com a adição do ***not*** depois do verbo auxiliar ***to be***.
 * Nas frases negativas, pode-se uasr as formas contraídas do verbo ***to be*** + ***not***, com exceção do ***am***.
@@ -636,7 +636,7 @@ Ex: I am eating now.
 Ex: I am not studying english at the moment.  
 Ex: She is not watching Tv.  
 
-##### Interrogative Form
+##### INTERROGATIVE FORM
 
 * É formado com o verbo auxiliar ***to be*** no início da frase.
 * Estrutura da frase:
@@ -645,12 +645,12 @@ Ex: She is not watching Tv.
 Ex: Are you studying english at the moment?  
 Ex: Is she watching Tv?
 
-#### SIMPLE PAST
+> #### SIMPLE PAST
 
 * É usado para indicar ações feitas no passado já concluídas, ou seja, coisas que já aconteceram, que começaram e terminaram no passado.
 * É comum o uso de expressões temporais em frases no *Simple past*, como ***yesterday***, ***the day before yesterday***, ***last night***, ***last year***, ***last month***, ***last week*** e ***ago***.
 
-##### Affirmative Form
+##### AFFIRMATIVE FORM
 
 * A regra geral é usar o verbo principal no infinitivo sem o ***to*** adicionando ao seu final a terminação ***-ed, -ied*** ou ***-d*** para os verbos regulares.
 * Para os verbos irregulares usa-se a forma do verbo para o passado.
