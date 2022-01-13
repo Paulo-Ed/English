@@ -1,7 +1,10 @@
-# English
+# ENGLISH
 English grammar.
 
+<br>
+
 ## The Alphabet
+
 <table>
     <tr>
         <td><b>A</b> (Ei)</td>
@@ -46,10 +49,13 @@ English grammar.
         <td></td>
     </tr>
 </table>
-  
+
+<br>
+
 ## Personal Pronouns
 
-### Subject Pronouns
+#### SUBJECT PRONOUNS
+
 * Os subject pronouns são os sujeitos que praticam a ação na frase.
 * Eles substituem nomes próprios ou substantivos na frase.
 * Aparecem no início da frase e são utilizados no singular e no plural.
@@ -77,7 +83,8 @@ Ex: It is red.
     </tr>
 </table>
 
-### Object Pronouns
+#### OBJECT PRONOUNS
+
 * Os object pronouns são os sujeitos que sofrem a ação na frase.
 * São empregados após verbos e preposições, aparecendo geralmente no meio ou no fim da frase.
 * Não variam em grau, sendo utilizados no singular e no plural.
@@ -104,9 +111,12 @@ Ex: I want to  find it.
     </tr>
 </table>
 
+<br>
+
 ## Possessive Pronouns
 
-### Possessive Adjectives
+#### POSSESSIVE ADJECTIVES
+
 * Atuam como adjetivos na frase e são acompanhados por um substantivo.
 * Eles são utilizados para indicar posse.
 * Não são flexionados em grau (singular - plural).
@@ -133,7 +143,8 @@ Ex: His name is Paulo.
     </tr>
 </table>
 
-### Possessive Pronouns
+#### POSSESSIVE PRONOUNS
+
 * Funcionam como substantivo na frase.
 * Geralmente aparecem no fim da frase, exercendo a função do sujeito.
   
@@ -159,6 +170,8 @@ Ex: This phone is his.
     </tr>
 </table>
 
+<br>
+
 ## Demonstrative Pronouns
 
 * São utilizados para indicar algo e mostrar sua posição no espaço.
@@ -166,8 +179,8 @@ Ex: This phone is his.
 * São classificados em:
   - Demonstrative pronouns, quando tem a função de substituir o substantivo na frase. Ele surge antes do verbo ou sozinho na frase.
   - Demonstrative adjectives, quando tem a função de atribuir qualidade ao substantivo o descrevendo. Ele surge antes do substantivo.
-* O This é usado para indicar algo próximo de quem fala, o These é a sua forma no plural.
-* O That é usado para indicar algo longe de quem fala, o Those é sua forma no plural.
+* O *This* é usado para indicar algo próximo de quem fala, o *These* é a sua forma no plural.
+* O *That* é usado para indicar algo longe de quem fala, o *Those* é sua forma no plural.
 
 Ex: This computer is mine.  
 Ex: Those pens are mine.  
@@ -184,6 +197,8 @@ Ex: Do you like that?
     </tr>
 </table>
 
+<br>
+
 ## Relative Pronouns
 
 * Os relative pronouns são utilizados como sujeito ou objeto na frase, em relação ao verbo principal.
@@ -192,13 +207,13 @@ Ex: Do you like that?
   - Na função de sujeito, os relative pronouns são acompanhados por um verbo.
   - Na função de objeto, os relative pronouns são seguidos por um substantivo ou pronome.  
 * Usos:
-  - O Who e o Whom são utilizados para indicar pessoas.
-  - O Which é utilizado para coisas.
-  - O That é utilizado para pessoas e coisas.
-  - O Whose é utilizado para posse tanto para pessoas como para coisas.
-  - O Where faz referência a lugares.
-  - O When é utilizado para indicar tempo.
-  - O What faz referência ao sujeito ou objeto.
+  - O *Who* e o *Whom* são utilizados para indicar pessoas.
+  - O *Which* é utilizado para coisas.
+  - O *That* é utilizado para pessoas e coisas.
+  - O *Whose* é utilizado para posse tanto para pessoas como para coisas.
+  - O *Where* faz referência a lugares.
+  - O *When* é utilizado para indicar tempo.
+  - O *What* faz referência ao sujeito ou objeto.
 * Os relatives pronouns também são utilizados como pronomes interrogativos.
 
 Ex: The man who lives here is a programmer.  
@@ -224,17 +239,19 @@ Ex: I don't know what it is.
     </tr>
 </table>
 
+<br>
+
 ## Question Words
 
 * São pronomes interrogativos, utilizados para fazer perguntas.
 * Na frase as question words aparecem antes dos verbos auxiliares e/ou verbos modais.
 * Usos:
-  - O What é utilizado para perguntas gerais que possuem uma resposta aberta.
-  - O Which é utilizado para perguntas com um conjunto de respostas definidas por quem realiza a pergunta.
-  - O Who é utilizado para especificar quem realizou a ação da pergunta.
-  - O Whom é utilizado para especificar quem sofreu a ação da pergunta.
-  - O How pode vim com auxiliares que mudam seu sentido de atribuição.
-  - O How much é utilizado para coisas incontáveis e o How many para coisas contáveis.
+  - O *What* é utilizado para perguntas gerais que possuem uma resposta aberta.
+  - O *Which* é utilizado para perguntas com um conjunto de respostas definidas por quem realiza a pergunta.
+  - O *Who* é utilizado para especificar quem realizou a ação da pergunta.
+  - O *Whom* é utilizado para especificar quem sofreu a ação da pergunta.
+  - O *How* pode vim com auxiliares que mudam seu sentido de atribuição.
+  - O *How much* é utilizado para coisas incontáveis e o *How many* para coisas contáveis.
 
 Ex: Who is he?  
 Ex: What are you doing?
@@ -267,20 +284,23 @@ Ex: What are you doing?
     </tr>
 </table>
 
+<br>
+
 ## Reflexive Pronouns
 
 * São utilizados para indicar uma ação realizada pelo sujeito que incide sobre ele mesmo.
 * Geralmente aparecem após o verbo, concordando com o sujeito da oração.
-* No singular possuem a terminação -self e no plural -selves.
+* No singular possuem a terminação *-self* e no plural *-selves*.
 * Classificação:
   - Na função reflexiva, a ação do verbo cai sobre o próprio sujeito. O reflexive pronoun vem após o sujeito.
   - Na função enfática, o pronome da ênfase ao sujeito da ação. O reflexive pronoun vem após o sujeito, ou após o objeto da frase.
-  - Na função idiomática, o sujeito pratica a ação sozinho. O reflexive pronoun é precedido pela preposição by.
+  - Na função idiomática, o sujeito pratica a ação sozinho. O reflexive pronoun é precedido pela preposição *by*.
 
-### Reciprocal Pronouns
+#### RECIPROCAL PRONOUNS
+
 * São termos utilizados para se referir a mais de uma pessoa ou coisa.
-* O Each other é usado, quando o sujeito referência duas pessoas ou coisas, indicando reciprocidade.
-* O One another é usado, quando o sujeito quer referênciar mais de duas pessoas ou coisas, também indicando reciprocidade.
+* O *Each other* é usado, quando o sujeito referência duas pessoas ou coisas, indicando reciprocidade.
+* O *One another* é usado, quando o sujeito quer referênciar mais de duas pessoas ou coisas, também indicando reciprocidade.
 
 Ex: I looked at myself in the mirror.  
 Ex: She hurt herself.  
@@ -309,19 +329,22 @@ Ex: They kissed one another.
     </tr>
 </table>
 
+<br>
+
 ## Indefinite Pronouns
 
 * Os indefinite pronouns, são utilizados para substituir ou acompanhar o substantivo de forma imprecisa ou indeterminada.
 * Podem agir com função de substantivo ou adjetivo na frase.
-* Muitos dos indefinite pronouns são formados na combinação com as palavras some, any, no e every.
+* Muitos dos indefinite pronouns são formados na combinação com as palavras *some, any, no* e *every*.
 * Usos:
-  - Para indicar pessoas os indefinite pronouns terminam com -body ou -one.
-  - Para indicar coisas terminam com -thing.
-  - Para indicar lugares terminam com -where.
+  - Para indicar pessoas os indefinite pronouns terminam com *-body* ou *-one*.
+  - Para indicar coisas terminam com *-thing*.
+  - Para indicar lugares terminam com *-where*.
 
-### Some
-* O termo some, quando usado sozinho significa: Algum, Alguns, Um, Uns, Uma, Umas, Alguma, Algumas, Algo, Cerca de, Certo, Certos, Certa, Certas, Um pouco de.
-* O some e suas variações, são utilizados para frases afirmativas e em alguns casos em frases interrogativas.
+#### SOME
+
+* O termo *Some*, quando usado sozinho significa: Algum, Alguns, Um, Uns, Uma, Umas, Alguma, Algumas, Algo, Cerca de, Certo, Certos, Certa, Certas, Um pouco de.
+* O *Some* e suas variações, são utilizados para frases afirmativas e em alguns casos em frases interrogativas.
 
 Ex: Somewhere in Brazil.  
 Ex: We are looking for something to eat.  
@@ -345,9 +368,10 @@ Ex: I will get there someway.
     </tr>
 </table>
 
-### Any
-* O termo any, quando usado sozinho significa: Qualquer, Quaisquer, Algum, Alguns, Alguma, Algumas, Nenhum, Nenhuma, Um, Uns, Uma, Umas.
-* O any e suas combinações são utilizados em frases negativas ou interrogativas.
+#### ANY
+
+* O termo *Any*, quando usado sozinho significa: Qualquer, Quaisquer, Algum, Alguns, Alguma, Algumas, Nenhum, Nenhuma, Um, Uns, Uma, Umas.
+* O *Any* e suas combinações são utilizados em frases negativas ou interrogativas.
 
 Ex: I would go anywhere with you.  
 Ex: I didn't hear anything.  
@@ -370,8 +394,9 @@ Ex: I didn't hear anything.
     </tr>
 </table>
 
-### No
-* O no é utilizado como adjetivo, o none é usado como substantivo, ambos significam: Nenhum, Nenhuma.
+#### NO
+
+* O *No* é utilizado como adjetivo, o none é usado como substantivo, ambos significam: Nenhum, Nenhuma.
 * São utilizados em frases negativas.
 
 Ex: Diana threw a party, but nobody showed up.  
@@ -399,8 +424,9 @@ Ex: I have nothing in my purse.
     </tr>
 </table>
 
-### Every
-* O every siginifica: Todo, Todos, Toda, Todas, Cada.
+#### EVERY
+
+* O *Every* siginifica: Todo, Todos, Toda, Todas, Cada.
 * São utilizados para frases afirmativas ou interrogativas.
 
 Ex: Everybody hates Chris.  
@@ -424,7 +450,8 @@ Ex: Everything is possible.
     </tr>
 </table>
 
-### Other Indefinite Pronouns
+#### OTHER INDEFINITE PRONOUNS
+
 <table>
     <tr>
         <td><b>One</b> (Algum - Alguma - A gente - Certo - Um certo)</td>
@@ -460,10 +487,13 @@ Ex: Everything is possible.
     </tr>
 </table>
 
+<br>
+
 ## Articles
 
-### Definite Articles
-* No inglês, o the é o único artigo definido, sendo o mesmo tanto no singular como no plural.
+#### DEFINITE ARTICLES
+
+* No inglês, o *The* é o único artigo definido, sendo o mesmo tanto no singular como no plural.
 * Ele é usado para se referir a algo específico que já foi mencionado.
 * Usos:
   - Substantivos únicos.
@@ -497,11 +527,12 @@ Ex: The united states of america.
     </tr>
 </table>
 
-### Indefinite Articles
+#### INDEFINITE ARTICLES
+
 * Os indefinite articles, são utilizados quando nos referimos a algo em geral, não especificado.
 * São usados apenas no singular.
-* O artigo A é usado em palavras que começam com uma consoante ou por um som de consoante.
-* O artigo An é usado em palavras que começam com uma vogal, ou por um som de vogal.
+* O artigo *A* é usado em palavras que começam com uma consoante ou por um som de consoante.
+* O artigo *An* é usado em palavras que começam com uma vogal, ou por um som de vogal.
 * Outros usos:
   - Profissões.
   - Substantivos contáveis.
@@ -521,21 +552,23 @@ Ex: This is a dictionary.
     </tr>
 </table>
 
+<br>
+
 ## Tempos Verbais
 
-## Simple Present
+#### SIMPLE PRESENT
 
 * É empregado para indicar ações habituais que ocorrem no presente.
 * Também é utilizado para expressar verdades universais, sentimentos, desejos, opiniões e preferências.
 * Geralmente frases no simple present apresentam expressões de tempo.
 * A conjugação de frases no simple present, variam de acordo com a pessoa verbal, terminação do verbo e tipo de frase (afirmativa - negativa - interrogativa).
 
-### Affirmative Form
-* A regra geral é usar o verbo conjugado no infinitivo sem o to, para os pronomes i, you, we e they. Já para os pronomes he, she e it adiciona-se o -s, -es ou -ies ao verbo.
+##### Affirmative Form
+* A regra geral é usar o verbo conjugado no infinitivo sem o *to*, para os pronomes *I, You, We* e *They*. Já para os pronomes *He, She* e *It* adiciona-se o *-s, -es* ou *-ies* ao verbo.
 * Regras específicas:
-  - Para verbos terminados em -o, -z, -ss, -ch, -sh e -x adiciona-se -es.
-  - Para verbos terminados em -y precedido de consoante, retira-se o -y e adiociona-se -ies.
-  - Para verbos terminados em -y precedido de vogal adiciona-se -s.
+  - Para verbos terminados em *-o, -z, -ss, -ch, -sh* e *-x* adiciona-se *-es*.
+  - Para verbos terminados em *-y* precedido de consoante, retira-se o *-y* e adiociona-se *-ies*.
+  - Para verbos terminados em *-y* precedido de vogal adiciona-se *-s*.
 * Estrutura da frase:
   - Sujeito + verbo principal + complemento
 
