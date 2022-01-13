@@ -664,4 +664,4 @@ Ex: Is she watching Tv?
   - Sujeito + verbo + complemento.
 
 Ex: I liked your computer.  
-Ex: She was to buy the phone.  
+Ex: She was at house.  
