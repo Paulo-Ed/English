@@ -57,10 +57,10 @@ English grammar.
 
 > #### SUBJECT PRONOUNS
 
-* Os *Subject pronouns* são os sujeitos que praticam a ação na frase.
-* Eles substituem nomes próprios ou substantivos na frase.
-* Aparecem no início da frase e são utilizados no singular e no plural.
-* Variam em gênero (masculino, feminino e neutro).
+* Os *Subject pronouns* são os sujeitos que praticam a ação na frase.  
+* Eles substituem nomes próprios ou substantivos na frase.  
+* Aparecem no início da frase e são utilizados no singular e no plural.  
+* Variam em gênero (masculino, feminino e neutro).  
     
 Ex: He is very tall.    
 Ex: It is red.
