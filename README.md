@@ -573,7 +573,7 @@ Ex: This is a dictionary.
   - Para verbos terminados em ***-y*** precedido de consoante, retira-se o ***-y*** e adiociona-se ***-ies***.
   - Para verbos terminados em ***-y*** precedido de vogal adiciona-se ***-s***.
 * Estrutura da frase:
-  - Sujeito + verbo principal + complemento
+  - Sujeito + verbo principal + complemento.
 
 Ex: She watches tv series every day.  
 Ex: I live in Brazil.  
@@ -587,7 +587,7 @@ Ex: I live in Brazil.
 * Na forma negativa do *Simple present*, o verbo sempre é usado no infinitivo sem o ***to***, mesmo quando usado na terceira pessoa do singular.
 * A construção da forma negativa pode ser feita na forma completa (do not - does not), ou na forma contraída (don't - doesn't).
 * Estrutura da frase:
-  - Sujeito + verbo auxiliar + not + verbo principal + complemento
+  - Sujeito + verbo auxiliar + not + verbo principal + complemento.
 
 Ex: I do not live in Brazil.  
 Ex: He does not go to the gym on weekends.  
@@ -600,7 +600,7 @@ Ex: He does not go to the gym on weekends.
 * Na forma interrogativa do *Simple present*, o verbo sempre é usado no infinitivo sem o ***to***, mesmo quando usado na terceira pessoa do singular.
 * O ***do/does*** também é utilizado para se dar respostas curtas.
 * Estrutura da frase:
-  - Verbo auxiliar + sujeito + verbo principal + complemento
+  - Verbo auxiliar + sujeito + verbo principal + complemento.
 
 Ex: Do you arrive late?  
 Ex: Does he live in your house?  
@@ -613,7 +613,7 @@ Ex: Does he live in your house?
 
 ##### Affirmative Form
 
-* É formado por um verbos principal e um verbo auxiliar.
+* É formado por um verbo principal e um verbo auxiliar.
 * O verbo ***to be*** no *Simple present*, funciona como o verbo auxiliar, enquanto o adiciona-se ***-ing*** ao final do verbo principal.
 * Nas frases afirmativas, pode-se usar as formas contraídas do verbo ***to be***.
 * Regras específicas:
@@ -649,3 +649,19 @@ Ex: Is she watching Tv?
 
 * É usado para indicar ações feitas no passado já concluídas, ou seja, coisas que já aconteceram, que começaram e terminaram no passado.
 * É comum o uso de expressões temporais em frases no *Simple past*, como ***yesterday***, ***the day before yesterday***, ***last night***, ***last year***, ***last month***, ***last week*** e ***ago***.
+
+##### Affirmative Form
+
+* A regra geral é usar o verbo principal no infinitivo sem o ***to*** adicionando ao seu final a terminação ***-ed, -ied*** ou ***-d*** para os verbos regulares.
+* Para os verbos irregulares usa-se a forma do verbo para o passado.
+* Regras específicas:
+  - Para verbos terminados em ***-e*** acrecenta-se ***-d*** no fim do verbo.
+  - Para verbos terminados em consoante + vogal + consoante duplica-se a última consoante e adiciona-se o ***-ed***.
+  - Para verbos terminados em ***-y*** precedido de consoante, retira-se o ***y*** e adiciona-se ***-ied***.
+  - Para verbos terminados em ***-y*** precedido de vogal, acidiona-se ***-ed***.
+  - Para os demais verbos regulares adiciona-se ***-ed***.
+* Estrutura da frase:
+  - Sujeito + verbo + complemento.
+
+Ex: I liked your computer.  
+Ex: She was to buy the phone.  
