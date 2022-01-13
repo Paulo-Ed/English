@@ -354,18 +354,15 @@ Ex: I will get there someway.
 <table>
     <tr>
         <td><b>Somebody</b> (Alguém)</td>
+        <td><b>Somewhere</b> (Em algum lugar)
     </tr>
     <tr>
         <td><b>Someone</b> (Alguém)</td>
+        <td><b>Someway</b> (De alguma maneira)
     </tr>
     <tr>
         <td><b>Something</b> (Algo)</td>
-    </tr>
-    <tr>
-        <td><b>Somewhere</b> (Em algum lugar)</td>
-    </tr>
-    <tr>
-        <td><b>Someway</b> (De alguma maneira)</td>  
+        <td><b></b></td>
     </tr>
 </table>
 
@@ -380,18 +377,15 @@ Ex: I didn't hear anything.
 <table>
     <tr>
         <td><b>Anybody</b> (Ninguém)</td>
-    </tr>
-    <tr>
-        <td><b>Anyone</b> (Qualquer um - Ninguém)</td>
-    </tr>
-    <tr>
-        <td><b>Anything</b> (Nada)</td>
-    </tr>
-    <tr>
         <td><b>Anywhere</b> (Qualquer lugar)</td>
     </tr>
     <tr>
-        <td><b>Anyway</b> (De qualquer forma - De qualquer jeito)</td>  
+        <td><b>Anyone</b> (Qualquer um - Ninguém)</td>
+        <td><b>Anyway</b> (De qualquer forma - De qualquer jeito)</td>
+    </tr>
+    <tr>
+        <td><b>Anything</b> (Nada)</td>
+        <td><b></b></td>
     </tr>
 </table>
 
@@ -407,21 +401,15 @@ Ex: I have nothing in my purse.
 <table>
     <tr>
         <td><b>Nobody</b> (Ninguém)</td>
-    </tr>
-    <tr>
-        <td><b>No one</b> (Ninguém)</td>
-    </tr>
-    <tr>
-        <td><b>None</b> (Nenhum - Nenhuma)</td>
-    </tr>
-    <tr>
         <td><b>Nothing</b> (Nada)</td>
     </tr>
     <tr>
-        <td><b>Nowhere</b> (Em nenhum lugar)</td>  
+        <td><b>No one</b> (Ninguém)</td>
+        <td><b>Nowhere</b> (Em nenhum lugar)</td>
     </tr>
     <tr>
-        <td><b>No way</b> (De jeito nenhum)</td>  
+        <td><b>None</b> (Nenhum - Nenhuma)</td>
+        <td><b>No way</b> (De jeito nenhum)</td>
     </tr>
 </table>
 
@@ -436,18 +424,15 @@ Ex: Everything is possible.
 <table>
     <tr>
         <td><b>Everybody</b> (Toda a gente - Todo o mundo)</td>
-    </tr>
-    <tr>
-        <td><b>Everyone</b> (Todos - Todo o mundo)</td>
-    </tr>
-    <tr>
-        <td><b>Everything</b> (Tudo)</td>
-    </tr>
-    <tr>
         <td><b>Everywhere</b> (Em todos os lugares)</td>
     </tr>
     <tr>
-        <td><b>Every way</b> (De todo jeito - De todos os sentidos)</td>  
+        <td><b>Everyone</b> (Todos - Todo o mundo)</td>
+        <td><b>Every way</b> (De todo jeito - De todos os sentidos)</td>
+    </tr>
+    <tr>
+        <td><b>Everything</b> (Tudo)</td>
+        <td><b></b></td>
     </tr>
 </table>
 
