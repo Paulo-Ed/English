@@ -650,3 +650,16 @@ Ex: Is she watching Tv?
 
 Ex: I liked your computer.  
 Ex: She was at house.  
+
+##### NEGATIVE FORM
+
+* Para formar frases negativas no *Simple past*, o verbo ***did*** (a forma no passado do verbo ***do***) é usada como verbo auxiliar juntamente com o ***not***.
+* O verbor principal não sofre modificação sendo utilizado no infinitivo.
+* Podemos usar o ***did*** na forma completa (did not) ou contraída (didn't).
+* O ***did*** não é utilizado na construção de frases utilizando o verbo ***to be***.
+* Estrutura da frase:
+  - Sujeito + did + not + verbo principal + complemento.
+
+Ex: He did not like the teacher.  
+Ex: We didn't have money.  
+
