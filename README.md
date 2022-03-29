@@ -614,7 +614,7 @@ Ex: I am eating now.
 ##### NEGATIVE FORM
 
 * É formado com a adição do ***not*** depois do verbo auxiliar ***to be***.
-* Nas frases negativas, pode-se uasr as formas contraídas do verbo ***to be*** + ***not***, com exceção do ***am***.
+* Nas frases negativas, pode-se usar as formas contraídas do verbo ***to be*** + ***not***, com exceção do ***am***.
 * Estrutura da frase:
   - Sujeito + verbo auxiliar (to be) + not + verbo principal com -ing + complemento.
 
@@ -654,7 +654,7 @@ Ex: She was at house.
 ##### NEGATIVE FORM
 
 * Para formar frases negativas no *Simple past*, o verbo ***did*** (a forma no passado do verbo ***do***) é usada como verbo auxiliar juntamente com o ***not***.
-* O verbor principal não sofre modificação sendo utilizado no infinitivo.
+* O verbo principal não sofre modificação sendo utilizado no infinitivo.
 * Podemos usar o ***did*** na forma completa (did not) ou contraída (didn't).
 * O ***did*** não é utilizado na construção de frases utilizando o verbo ***to be***.
 * Estrutura da frase:
@@ -663,3 +663,12 @@ Ex: She was at house.
 Ex: He did not like the teacher.  
 Ex: We didn't have money.  
 
+##### INTERROGATIVE FORM
+
+* Para formar frases interrogativas no *Simple past*, o verbo ***did*** (a forma no passado do verbo ***do***) é usada como verbo auxiliar.
+* O verbo principal não sofre modificação sendo utilizado no infinitivo.
+* Estrutura da frase:
+  -  Did + sujeito + verbo principal + complemento.
+
+Ex: Did you know about it?  
+Ex: Did she like the english teacher?  
