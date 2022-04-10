@@ -672,3 +672,44 @@ Ex: We didn't have money.
 
 Ex: Did you know about it?  
 Ex: Did she like the english teacher?  
+
+> #### SIMPLE FUTURE
+
+* O *Simple future* é um tempo verbal utilizado para indicar ações que irão ocorrer no futuro.
+* Ele é usado para indicar uma decisão que está sendo tomada no momento da fala, expressar um pedido, uma promessa, um convite ou uma oferta.
+* O *Simple future* pode ser formado utilizando os verbos modais ***will*** e ***shall*** como auxiliares, ou ainda usando o ***going to***.
+
+> ##### Future with will
+
+* O ***will*** é usado para indicar uma ideia de futuro incerto, ou que foi decidido no momento da fala.
+
+##### AFFIRMATIVE FORM
+
+* Para formar a frase no *Simple future* com o ***will*** como auxiliar, basta adiciona-lo antes do verbo principal no infinitivo sem o ***to***.
+* Pode-se utilizar a forma completa, ou a forma contraída ('ll) do verbo ***will***, após pronomes pessoais.
+* Estrutura da frase:
+  -  Sujeito + will + verbo principal sem o to + complemento.
+
+Ex: I will travel tomorrow.  
+Ex: We will go out tonight.  
+
+##### NEGATIVE FORM
+
+* Para criar frases negativas no *Simple future* com o ***will***, adiciona-se o ***not*** antes do verbo principal.
+* Pode-se utilizar o auxiliar na forma completa (will not) e também na forma contraída com o ***won't***.
+
+* Estrutura da frase:
+  -  Sujeito + will + not + verbo principal sem o to + complemento.
+
+Ex: I will not travel tomorrow.  
+Ex: We won't go out tonight. 
+
+##### INTERROGATIVE FORM
+
+* Para formar frases interrogativas no *Simple future*, com o verbo ***will*** basta inverter a posição com o sujeito.
+* O verbo principal não sofre modificação sendo utilizado no infinitivo.
+* Estrutura da frase:
+  -  Will + sujeito + verbo principal sem o to + complemento.
+
+Ex: Will he travel tomorrow?  
+Ex: Will we go out tonight?  
