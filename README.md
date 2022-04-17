@@ -713,3 +713,39 @@ Ex: We won't go out tonight.
 
 Ex: Will he travel tomorrow?  
 Ex: Will we go out tonight?  
+
+> ##### Future with going to
+
+* O ***going to*** é usado para indicar uma ideia de futuro que já está definido e que vai acontecer em um momento próximo.
+
+##### AFFIRMATIVE FORM
+
+* Para formar frases no *Simple future* com o ***going to***, utiliza-se do verbo ***to be*** e após ele adiciona-se o ***going to***, o verbo principal fica no infinitivo sem o ***to***.
+* A frase no *Simple future* com o ***going to*** também possui uma forma abreviada que é utilizando a forma contraída do verbo ***to be***.
+* Estrutura da frase:
+  -  Sujeito + verbo to be + going to + verbo principal sem o to + complemento.
+
+Ex: I am going to travel Brazil tomorrow.  
+Ex: We are going to go out tonight.  
+
+##### NEGATIVE FORM
+
+* Para criar frases negativas no *Simple future* com o ***going to***, usa-se a forma negativa do verbo ***to be*** com o ***not***.
+* Pode-se utilizar a forma negativa completa ou contraída do verbo ***to be***.
+
+* Estrutura da frase:
+  -  Sujeito + verbo to be + not + going to + verbo principal sem o to + complemento.
+
+Ex: I am not going to travel tomorrow.  
+Ex: We aren't going to go out tonight. 
+
+##### INTERROGATIVE FORM
+
+* Para formar frases interrogativas no *Simple future*, com o verbo ***going to*** basta inverter a posição com o sujeito com o verbo ***to be***.
+* O verbo principal não sofre modificação sendo utilizado no infinitivo.
+* Estrutura da frase:
+  -  Verbo to be + sujeito + going to + verbo principal sem o to + complemento.
+
+Ex: is he going to travel tomorrow?  
+Ex: are we going to go out tonight?  
+
