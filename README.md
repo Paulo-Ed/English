@@ -783,3 +783,19 @@ Ex: We shan't go out tonight.
 
 Ex: Shall he travel tomorrow?  
 Ex: Shall we go out tonight?  
+
+## Nouns
+
+* Os substantivos, são a classe de palavras, utilizadas para nomear as coisas em geral, como objetos, lugares, seres vivos e sentimentos.
+* Existem diferentes tipos de substantivos, assim como diferentes características para eles como tipo, gênero e forma.
+
+> #### PROPER NOUNS
+
+* Os substantivos próprios, dão nome aos seres de maneira específica. São exemplos nomes de pessoas, lugares, dias, marcas, títulos profissionais,etc.
+* Para títulos profissionais, só são considerados nomes próprios, quando acompanhados de um nome que o identifica.
+* Substantivos próprios sempre são escritos com a primeira letra em maiúsculo.
+
+Ex: Paulo.  
+Ex: Monday.  
+Ex: President.  
+Ex: Pernambuco.  
