@@ -837,18 +837,18 @@ Ex: goodness.
 
 * São substantivos que podem ser contados ou enumerados.
 
-Ex: car. 
-Ex: dog.  
-Ex: day.  
-Ex: book.  
+Ex: car.   
+Ex: dog.    
+Ex: day.    
+Ex: book.    
 
 ##### UNCOUNTABLE NOUNS
 
 * São substantivos que não podem ser contados ou enumerados, sendo necessário utilizar uma palavra específica para os quantificar.
 
-Ex: coffee.  
-Ex: money. 
-Ex: information.  
+Ex: coffee.    
+Ex: money.   
+Ex: information.    
 
 ##### COMPOUND NOUNS
 
@@ -857,8 +857,8 @@ Ex: information.
 
 * São substantivos que podem ser contados ou enumerados.
 
-Ex: football. 
-Ex: bus stop.  
-Ex: father-in-law.  
+Ex: football.   
+Ex: bus stop.    
+Ex: father-in-law.    
 
 
