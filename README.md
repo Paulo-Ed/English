@@ -799,3 +799,66 @@ Ex: Paulo.
 Ex: Monday.  
 Ex: President.  
 Ex: Pernambuco.  
+
+> #### COMMON NOUNS
+
+* São substantivos que dão nome a coisas em geral.
+* Os substantivos comuns contém alguns subtipos.
+
+Ex: dog.  
+Ex: city.  
+Ex: library.  
+Ex: man.  
+
+##### CONCRETE NOUNS
+
+* São os substantivos que nomeiam coisas concretas, que existêm, seja de forma real ou imaginária.
+
+Ex: hero.  
+Ex: officer.  
+
+##### COLLECTIVE NOUNS
+
+* São substantivos usados para dar nome a um conjunto de seres de uma mesma espécie, grupo ou tipo.
+
+Ex: hive - of bees.  
+Ex: army - of soldiers.  
+
+##### ABSTRACT NOUNS
+
+* São substantivos que nomeiam qualidades e sentimentos.
+ 
+Ex: peace.  
+Ex: anger.  
+Ex: height.  
+Ex: goodness.  
+
+##### COUNTABLE NOUNS
+
+* São substantivos que podem ser contados ou enumerados.
+
+Ex: car. 
+Ex: dog.  
+Ex: day.  
+Ex: book.  
+
+##### UNCOUNTABLE NOUNS
+
+* São substantivos que não podem ser contados ou enumerados, sendo necessário utilizar uma palavra específica para os quantificar.
+
+Ex: coffee.  
+Ex: money. 
+Ex: information.  
+
+##### COMPOUND NOUNS
+
+* São substantivos formados por mais de uma palavra para nomear uma coisa. 
+* Essas palavras podem estar juntas como um único termo, separadas por hífen ou separadas por espaço.
+
+* São substantivos que podem ser contados ou enumerados.
+
+Ex: football. 
+Ex: bus stop.  
+Ex: father-in-law.  
+
+
