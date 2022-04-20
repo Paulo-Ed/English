@@ -861,4 +861,34 @@ Ex: football.
 Ex: bus stop.    
 Ex: father-in-law.    
 
+> #### GENDER OF NOUNS
 
+* Idiomas em que seus substantivos possuem gênero, fazem com que a aplicação de adjetivos possuam uma flexão determinada para se adequar ao gênero e manter o sentido da frase.
+* O inglês não possuem diferença de gêneros para substantivos, porém existem substativos espefícos que possuem formas diferentes de acordo com o gênero biológico.
+
+##### MASCULINE NOUNS
+
+* São substantivos que são utilizados especificamente para seres do gênero masculino.
+ 
+Ex: cock.  
+Ex: man.  
+Ex: dad.  
+Ex: uncle.
+
+##### FEMININE NOUNS
+
+* São substantivos que são utilizados especificamente para seres do gênero feminino.
+
+Ex: aunt.  
+Ex: woman.  
+Ex: chicken.  
+
+##### NEUTRAL GENDER NOUNS
+
+* São substantivos que em relação por exemplo a pessoas, poderm ser usados para referenciar os gêneros masculinos e femininos.
+* O gênero neutro em inglês, também é usado para palavras sem gênero em inglês, são palavras por exemplo que podem ser substituídas pelo ***it***.
+
+Ex: lawyer.  
+Ex: professor.  
+Ex: doctor.  
+Ex: fork.
