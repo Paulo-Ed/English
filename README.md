@@ -835,7 +835,7 @@ Ex: goodness.
 
 ##### COUNTABLE NOUNS
 
-* São substantivos que podem ser contados ou enumerados.
+* São substantivos que podem ser contados ou enumerados e possuem uma forma no plural.
 
 Ex: car.   
 Ex: dog.    
@@ -844,7 +844,7 @@ Ex: book.
 
 ##### UNCOUNTABLE NOUNS
 
-* São substantivos que não podem ser contados ou enumerados, sendo necessário utilizar uma palavra específica para os quantificar.
+* São substantivos que não podem ser contados ou enumerados e não tem uma forma no plural, sendo necessário utilizar uma palavra específica para os quantificar.
 
 Ex: coffee.    
 Ex: money.   
@@ -892,3 +892,29 @@ Ex: lawyer.
 Ex: professor.  
 Ex: doctor.  
 Ex: fork.
+
+> #### PLURAL OF NOUNS
+* A regra geral é adicionar ***-s*** para formar o plural dos substantivos.
+* Para substantivos terminados em ***-y*** precedidos por uma consoante, retira-se o ***-y*** e adiciona-se ***-ies***.
+* Para substantivos terminados em ***-s***, ***-ss***, ***-ch***, ***-sh***, ***-x***, ***-z***, ***-o*** acrecenta-se ***-es***.
+* Para substantivos terminados em ***-ch*** com som de ***k*** acrecenta-se o ***-s***.
+* Para substantivos terminados em ***-o*** precedidos de uma vogal basta adicionar o ***-s***. Alguns substantivos adimitem tanto a forma com final ***-s*** ou ***-es***.
+* Para substantivos terminados em ***-f*** ou ***-fe*** retira-se o ***-f*** ou ***-fe*** e adiciona-se ***-ves***.
+* Existem substantivos irregulares que possuem uma forma no plural diferente da no singular, para elas basta consultar a sua forma no plural.
+
+Ex: apple - apples  
+Ex: table - tables  
+Ex: box - boxes  
+Ex: class - classes  
+Ex: conch - conchs  
+Ex: patriarch - patriarchs  
+Ex: hero - heroes  
+Ex: tomato - tomatoes  
+Ex: baby - babies   
+Ex: fly - flies  
+Ex: thief - thieves  
+Ex: life - lives  
+Ex: foot - feet  
+Ex: man - men  
+Ex: fish - fish  
+Ex: sheep - sheep  
