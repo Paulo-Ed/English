@@ -1,5 +1,4 @@
 # ENGLISH
-
 English grammar.
 
 <br>
@@ -56,7 +55,6 @@ English grammar.
 ## Personal Pronouns
 
 > #### SUBJECT PRONOUNS
-
 * Os *Subject pronouns* são os sujeitos que praticam a ação na frase.
 * Eles substituem nomes próprios ou substantivos na frase.
 * Aparecem no início da frase e são utilizados no singular e no plural.  
@@ -85,7 +83,6 @@ Ex: It is red.
 </table>
 
 > #### OBJECT PRONOUNS
-
 * Os *Object pronouns* são os sujeitos que sofrem a ação na frase.
 * São empregados após verbos e preposições, aparecendo geralmente no meio ou no fim da frase.
 * Não variam em grau, sendo utilizados no singular e no plural.
@@ -117,7 +114,6 @@ Ex: I want to  find it.
 ## Possessive Pronouns
 
 > #### POSSESSIVE ADJECTIVES
-
 * Atuam como adjetivos na frase e são acompanhados por um substantivo.
 * Eles são utilizados para indicar posse.
 * Não são flexionados em grau (singular - plural).
@@ -145,7 +141,6 @@ Ex: His name is Paulo.
 </table>
 
 > #### POSSESSIVE PRONOUNS
-
 * Funcionam como substantivo na frase.
 * Geralmente aparecem no fim da frase, exercendo a função do sujeito.
   
@@ -174,7 +169,6 @@ Ex: This phone is his.
 <br>
 
 ## Demonstrative Pronouns
-
 * São utilizados para indicar algo e mostrar sua posição no espaço.
 * Os *Demonstrative pronouns* não variam em gênero, mas variam em número (singular - plural).
 * São classificados em:
@@ -201,7 +195,6 @@ Ex: Do you like that?
 <br>
 
 ## Relative Pronouns
-
 * Os *Relative pronouns* são utilizados como sujeito ou objeto na frase, em relação ao verbo principal.
 * Eles fazem referência a algo que já foi citado na frase.
 * Possuem duas funções:
@@ -243,7 +236,6 @@ Ex: I don't know what it is.
 <br>
 
 ## Question Words
-
 * São pronomes interrogativos, utilizados para fazer perguntas.
 * Na frase as *Question words* aparecem antes dos verbos auxiliares e/ou verbos modais.
 * Usos:
@@ -288,7 +280,6 @@ Ex: What are you doing?
 <br>
 
 ## Reflexive Pronouns
-
 * São utilizados para indicar uma ação realizada pelo sujeito que incide sobre ele mesmo.
 * Geralmente aparecem após o verbo, concordando com o sujeito da oração.
 * No singular possuem a terminação ***-self*** e no plural ***-selves***.
@@ -298,7 +289,6 @@ Ex: What are you doing?
   - Na função idiomática, o sujeito pratica a ação sozinho. O *Reflexive pronoun* é precedido pela preposição ***by***.
 
 > #### RECIPROCAL PRONOUNS
-
 * São termos utilizados para se referir a mais de uma pessoa ou coisa.
 * O ***each other*** é usado, quando o sujeito referência duas pessoas ou coisas, indicando reciprocidade.
 * O ***one another*** é usado, quando o sujeito quer referênciar mais de duas pessoas ou coisas, também indicando reciprocidade.
@@ -333,7 +323,6 @@ Ex: They kissed one another.
 <br>
 
 ## Indefinite Pronouns
-
 * Os *Indefinite pronouns*, são utilizados para substituir ou acompanhar o substantivo de forma imprecisa ou indeterminada.
 * Podem agir com função de substantivo ou adjetivo na frase.
 * Muitos dos indefinite pronouns são formados na combinação com as palavras ***some, any, no*** e ***every***.
@@ -343,7 +332,6 @@ Ex: They kissed one another.
   - Para indicar lugares terminam com ***-where***.
 
 > #### SOME
-
 * O termo ***some***, quando usado sozinho significa: Algum, Alguns, Um, Uns, Uma, Umas, Alguma, Algumas, Algo, Cerca de, Certo, Certos, Certa, Certas, Um pouco de.
 * O ***some*** e suas variações, são utilizados para frases afirmativas e em alguns casos em frases interrogativas.
 
@@ -367,7 +355,6 @@ Ex: I will get there someway.
 </table>
 
 > #### ANY
-
 * O termo ***any***, quando usado sozinho significa: Qualquer, Quaisquer, Algum, Alguns, Alguma, Algumas, Nenhum, Nenhuma, Um, Uns, Uma, Umas.
 * O ***any*** e suas combinações são utilizados em frases negativas ou interrogativas.
 
@@ -390,7 +377,6 @@ Ex: I didn't hear anything.
 </table>
 
 > #### NO
-
 * O ***no*** é utilizado como adjetivo, o none é usado como substantivo, ambos significam: Nenhum, Nenhuma.
 * São utilizados em frases negativas.
 
@@ -414,7 +400,6 @@ Ex: I have nothing in my purse.
 </table>
 
 > #### EVERY
-
 * O ***every*** siginifica: Todo, Todos, Toda, Todas, Cada.
 * São utilizados para frases afirmativas ou interrogativas.
 
@@ -478,7 +463,6 @@ Ex: Everything is possible.
 ## Articles
 
 > #### DEFINITE ARTICLES
-
 * No inglês, o ***the*** é o único artigo definido, sendo o mesmo tanto no singular como no plural.
 * Ele é usado para se referir a algo específico que já foi mencionado.
 * Usos:
@@ -514,7 +498,6 @@ Ex: The united states of america.
 </table>
 
 > #### INDEFINITE ARTICLES
-
 * Os indefinite articles, são utilizados quando nos referimos a algo em geral, não especificado.
 * São usados apenas no singular.
 * O artigo ***a*** é usado em palavras que começam com uma consoante ou por um som de consoante.
@@ -543,14 +526,12 @@ Ex: This is a dictionary.
 ## Tempos Verbais
 
 > #### SIMPLE PRESENT
-
 * É empregado para indicar ações habituais que ocorrem no presente.
 * Também é utilizado para expressar verdades universais, sentimentos, desejos, opiniões e preferências.
 * Geralmente frases no simple present apresentam expressões de tempo.
 * A conjugação de frases no *Simple present*, variam de acordo com a pessoa verbal, terminação do verbo e tipo de frase (afirmativa - negativa - interrogativa).
 
 ##### AFFIRMATIVE FORM
-
 * A regra geral é usar o verbo conjugado no infinitivo sem o ***to***, para os pronomes ***i, you, we*** e ***they***.
 * Para os pronomes ***he, she*** e ***it*** adiciona-se o ***-s, -es*** ou ***-ies*** ao verbo.
 * Regras específicas:
@@ -564,7 +545,6 @@ Ex: She watches tv series every day.
 Ex: I live in Brazil.  
 
 ##### NEGATIVE FORM
-
 * A forma negativa do *Simple present* é formada com o uso dos verbos auxiliares ***do*** e ***does***.
 * O auxiliar ***do/does*** não é utilizado para o verbo *to be*.
 * O ***do*** é utilizado com os pronomes ***i, you, we*** e ***they***.  
@@ -578,7 +558,6 @@ Ex: I do not live in Brazil.
 Ex: He does not go to the gym on weekends.  
 
 ##### INTERROGATIVE FORM
-
 * A forma interrogativa do *Simple present* é formada com o uso dos verbos auxiliares ***do*** e ***does*** no início da frase.
 * O ***do*** é utilizado com os pronomes ***i, you, we*** e ***they***.  
 * O ***does*** é utilizado como verbo auxiliar dos pronomes ***he, she*** e ***it***.
@@ -591,13 +570,11 @@ Ex: Do you arrive late?
 Ex: Does he live in your house?  
 
 > #### PRESENT CONTINUOS
-
 * É empregado para indicar ações temporárias ou contínuas que estão acontecendo no presente, no momento da fala.
 * É comum frases no *Present continuos*, estarem acompanhadas de advérbios de tempo como ***now***, ***at the moment*** e ***at present***.
 * No português o *Present continuos* corresponde ao gerúndio.
 
 ##### AFFIRMATIVE FORM
-
 * É formado por um verbo principal e um verbo auxiliar.
 * O verbo ***to be*** no *Simple present*, funciona como o verbo auxiliar, enquanto o adiciona-se ***-ing*** ao final do verbo principal.
 * Nas frases afirmativas, pode-se usar as formas contraídas do verbo ***to be***.
@@ -612,7 +589,6 @@ Ex: I am studying english at the moment.
 Ex: I am eating now.
 
 ##### NEGATIVE FORM
-
 * É formado com a adição do ***not*** depois do verbo auxiliar ***to be***.
 * Nas frases negativas, pode-se usar as formas contraídas do verbo ***to be*** + ***not***, com exceção do ***am***.
 * Estrutura da frase:
@@ -622,7 +598,6 @@ Ex: I am not studying english at the moment.
 Ex: She is not watching Tv.  
 
 ##### INTERROGATIVE FORM
-
 * É formado com o verbo auxiliar ***to be*** no início da frase.
 * Estrutura da frase:
   - Verbo auxiliar (to be) + sujeito + verbo principal com -ing + complemento.
@@ -631,12 +606,10 @@ Ex: Are you studying english at the moment?
 Ex: Is she watching Tv?
 
 > #### SIMPLE PAST
-
 * É usado para indicar ações feitas no passado já concluídas, ou seja, coisas que já aconteceram, que começaram e terminaram no passado.
 * É comum o uso de expressões temporais em frases no *Simple past*, como ***yesterday***, ***the day before yesterday***, ***last night***, ***last year***, ***last month***, ***last week*** e ***ago***.
 
 ##### AFFIRMATIVE FORM
-
 * A regra geral é usar o verbo principal no infinitivo sem o ***to*** adicionando ao seu final a terminação ***-ed, -ied*** ou ***-d*** para os verbos regulares.
 * Para os verbos irregulares usa-se a forma do verbo para o passado.
 * Regras específicas:
@@ -652,7 +625,6 @@ Ex: I liked your computer.
 Ex: She was at house.  
 
 ##### NEGATIVE FORM
-
 * Para formar frases negativas no *Simple past*, o verbo ***did*** (a forma no passado do verbo ***do***) é usada como verbo auxiliar juntamente com o ***not***.
 * O verbo principal não sofre modificação sendo utilizado no infinitivo.
 * Podemos usar o ***did*** na forma completa (did not) ou contraída (didn't).
@@ -664,7 +636,6 @@ Ex: He did not like the teacher.
 Ex: We didn't have money.  
 
 ##### INTERROGATIVE FORM
-
 * Para formar frases interrogativas no *Simple past*, o verbo ***did*** (a forma no passado do verbo ***do***) é usada como verbo auxiliar.
 * O verbo principal não sofre modificação sendo utilizado no infinitivo.
 * Estrutura da frase:
@@ -674,17 +645,14 @@ Ex: Did you know about it?
 Ex: Did she like the english teacher?  
 
 > #### SIMPLE FUTURE
-
 * O *Simple future* é um tempo verbal utilizado para indicar ações que irão ocorrer no futuro.
 * Ele é usado para indicar uma decisão que está sendo tomada no momento da fala, expressar um pedido, uma promessa, um convite ou uma oferta.
 * O *Simple future* pode ser formado utilizando os verbos modais ***will*** e ***shall*** como auxiliares, ou ainda usando o ***going to***.
 
 > ##### Future with will
-
 * O ***will*** é usado para indicar uma ideia de futuro incerto, ou que foi decidido no momento da fala.
 
 ##### AFFIRMATIVE FORM
-
 * Para formar a frase no *Simple future* com o ***will*** como auxiliar, basta adiciona-lo antes do verbo principal no infinitivo sem o ***to***.
 * Pode-se utilizar a forma completa, ou a forma contraída ('ll) do verbo ***will***, após pronomes pessoais.
 * Estrutura da frase:
@@ -694,7 +662,6 @@ Ex: I will travel tomorrow.
 Ex: We will go out tonight.  
 
 ##### NEGATIVE FORM
-
 * Para criar frases negativas no *Simple future* com o ***will***, adiciona-se o ***not*** antes do verbo principal.
 * Pode-se utilizar o auxiliar na forma completa (will not) e também na forma contraída com o ***won't***.
 
@@ -705,7 +672,6 @@ Ex: I will not travel tomorrow.
 Ex: We won't go out tonight. 
 
 ##### INTERROGATIVE FORM
-
 * Para formar frases interrogativas no *Simple future*, com o verbo ***will*** basta inverter a posição com o sujeito.
 * O verbo principal não sofre modificação sendo utilizado no infinitivo.
 * Estrutura da frase:
@@ -715,11 +681,9 @@ Ex: Will he travel tomorrow?
 Ex: Will we go out tonight?  
 
 > ##### Future with going to
-
 * O ***going to*** é usado para indicar uma ideia de futuro que já está definido e que vai acontecer em um momento próximo.
 
 ##### AFFIRMATIVE FORM
-
 * Para formar frases no *Simple future* com o ***going to***, utiliza-se do verbo ***to be*** e após ele adiciona-se o ***going to***, o verbo principal fica no infinitivo sem o ***to***.
 * A frase no *Simple future* com o ***going to*** também possui uma forma abreviada que é utilizando a forma contraída do verbo ***to be***.
 * Estrutura da frase:
@@ -729,7 +693,6 @@ Ex: I am going to travel Brazil tomorrow.
 Ex: We are going to go out tonight.  
 
 ##### NEGATIVE FORM
-
 * Para criar frases negativas no *Simple future* com o ***going to***, usa-se a forma negativa do verbo ***to be*** com o ***not***.
 * Pode-se utilizar a forma negativa completa ou contraída do verbo ***to be***.
 
@@ -740,7 +703,6 @@ Ex: I am not going to travel tomorrow.
 Ex: We aren't going to go out tonight. 
 
 ##### INTERROGATIVE FORM
-
 * Para formar frases interrogativas no *Simple future*, com o verbo ***going to*** basta inverter a posição com o sujeito com o verbo ***to be***.
 * O verbo principal não sofre modificação sendo utilizado no infinitivo.
 * Estrutura da frase:
@@ -750,12 +712,10 @@ Ex: is he going to travel tomorrow?
 Ex: are we going to go out tonight?  
 
 > ##### Future with shall
-
 * O ***shall*** é um verbo modal usado para indicar uma ideia de futuro assim como o ***will***, porém ele é menos empregado sendo mais usado em situações formais.
 * Costuma aparecer em perguntas, sugestões e convites, geralmente nas primeiras pessoas do singular.  
 
 ##### AFFIRMATIVE FORM
-
 * Para formar a frase no *Simple future* com o ***shall*** como auxiliar, basta adiciona-lo antes do verbo principal no infinitivo sem o ***to***.
 * Estrutura da frase:
   -  Sujeito + shall + verbo principal sem o to + complemento.
@@ -764,7 +724,6 @@ Ex: I shall travel tomorrow.
 Ex: We shall go out tonight.  
 
 ##### NEGATIVE FORM
-
 * Para criar frases negativas no *Simple future* com o ***shall***, adiciona-se o ***not*** antes do verbo principal.
 * Pode-se utilizar o auxiliar na forma completa (will not) e também na forma contraída com o ***shan't***.
 
@@ -775,7 +734,6 @@ Ex: I shall not travel tomorrow.
 Ex: We shan't go out tonight. 
 
 ##### INTERROGATIVE FORM
-
 * Para formar frases interrogativas no *Simple future*, com o verbo ***shall*** basta inverter a posição com o sujeito.
 * O verbo principal não sofre modificação sendo utilizado no infinitivo.
 * Estrutura da frase:
@@ -785,113 +743,98 @@ Ex: Shall he travel tomorrow?
 Ex: Shall we go out tonight?  
 
 ## Nouns
-
 * Os substantivos, são a classe de palavras, utilizadas para nomear as coisas em geral, como objetos, lugares, seres vivos e sentimentos.
 * Existem diferentes tipos de substantivos, assim como diferentes características para eles como tipo, gênero e forma.
 
 > #### PROPER NOUNS
-
 * Os substantivos próprios, dão nome aos seres de maneira específica. São exemplos nomes de pessoas, lugares, dias, marcas, títulos profissionais,etc.
 * Para títulos profissionais, só são considerados nomes próprios, quando acompanhados de um nome que o identifica.
 * Substantivos próprios sempre são escritos com a primeira letra em maiúsculo.
 
-Ex: Paulo.  
-Ex: Monday.  
-Ex: President.  
-Ex: Pernambuco.  
+Ex: Paulo  
+Ex: Monday  
+Ex: President  
+Ex: Pernambuco   
 
 > #### COMMON NOUNS
-
 * São substantivos que dão nome a coisas em geral.
 * Os substantivos comuns contém alguns subtipos.
 
-Ex: dog.  
-Ex: city.  
-Ex: library.  
-Ex: man.  
+Ex: dog  
+Ex: city  
+Ex: library  
+Ex: man  
 
 ##### CONCRETE NOUNS
-
 * São os substantivos que nomeiam coisas concretas, que existêm, seja de forma real ou imaginária.
 
-Ex: hero.  
-Ex: officer.  
+Ex: hero  
+Ex: officer  
 
 ##### COLLECTIVE NOUNS
-
 * São substantivos usados para dar nome a um conjunto de seres de uma mesma espécie, grupo ou tipo.
 
-Ex: hive - of bees.  
-Ex: army - of soldiers.  
+Ex: hive - of bees  
+Ex: army - of soldiers  
 
 ##### ABSTRACT NOUNS
-
 * São substantivos que nomeiam qualidades e sentimentos.
  
-Ex: peace.  
-Ex: anger.  
-Ex: height.  
-Ex: goodness.  
+Ex: peace  
+Ex: anger  
+Ex: height  
+Ex: goodness   
 
 ##### COUNTABLE NOUNS
-
 * São substantivos que podem ser contados ou enumerados e possuem uma forma no plural.
 
-Ex: car.   
-Ex: dog.    
-Ex: day.    
-Ex: book.    
+Ex: car   
+Ex: dog    
+Ex: day    
+Ex: book    
 
 ##### UNCOUNTABLE NOUNS
-
 * São substantivos que não podem ser contados ou enumerados e não tem uma forma no plural, sendo necessário utilizar uma palavra específica para os quantificar.
 
-Ex: coffee.    
-Ex: money.   
-Ex: information.    
+Ex: coffee    
+Ex: money   
+Ex: information    
 
 ##### COMPOUND NOUNS
-
 * São substantivos formados por mais de uma palavra para nomear uma coisa. 
 * Essas palavras podem estar juntas como um único termo, separadas por hífen ou separadas por espaço.
 
-* São substantivos que podem ser contados ou enumerados.
-
-Ex: football.   
-Ex: bus stop.    
-Ex: father-in-law.    
+Ex: football   
+Ex: bus stop    
+Ex: father-in-law    
 
 > #### GENDER OF NOUNS
-
 * Idiomas em que seus substantivos possuem gênero, fazem com que a aplicação de adjetivos possuam uma flexão determinada para se adequar ao gênero e manter o sentido da frase.
 * O inglês não possuem diferença de gêneros para substantivos, porém existem substativos espefícos que possuem formas diferentes de acordo com o gênero biológico.
 
 ##### MASCULINE NOUNS
-
 * São substantivos que são utilizados especificamente para seres do gênero masculino.
  
-Ex: cock.  
-Ex: man.  
-Ex: dad.  
-Ex: uncle.
+Ex: cock  
+Ex: man  
+Ex: dad  
+Ex: uncle
 
 ##### FEMININE NOUNS
-
 * São substantivos que são utilizados especificamente para seres do gênero feminino.
 
-Ex: aunt.  
-Ex: woman.  
-Ex: chicken.  
+Ex: aunt  
+Ex: woman  
+Ex: chicken  
 
 ##### NEUTRAL GENDER NOUNS
-
 * São substantivos que em relação por exemplo a pessoas, poderm ser usados para referenciar os gêneros masculinos e femininos.
 * O gênero neutro em inglês, também é usado para palavras sem gênero em inglês, são palavras por exemplo que podem ser substituídas pelo ***it***.
 
-Ex: lawyer.  
-Ex: professor.  
-Ex: doctor.  
-Ex: fork.
+Ex: lawyer  
+Ex: professor  
+Ex: doctor  
+Ex: fork
 
 > #### PLURAL OF NOUNS
 * A regra geral é adicionar ***-s*** para formar o plural dos substantivos.
