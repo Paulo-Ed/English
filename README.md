@@ -864,403 +864,192 @@ Ex: sheep - sheep
 
 <table>
     <tr>
-        <td><b>act</b></td>
-        <td>ato</td>
-        <td><b>ground</b></td>
-        <td>chão</td> 
-        <td><b>shoe</b></td>
-        <td>sapato</td>   
+        <td><b>act</b> (ato)</td>
+        <td><b>cow</b> (vaca)</td>     
+        <td><b>head</b> (cabeça)</td>
+        <td><b>night</b> (noite)</td>
+        <td><b>sound</b> (som)</td>  
     </tr>
     <tr>
-        <td><b>apple</b></td>
-        <td>maçã</td>
-        <td><b>hand</b></td>
-        <td>mão</td>
-        <td><b>sister</b></td>
-        <td>irmã</td>    
+        <td><b>apple</b> (maçã)</td>
+        <td><b>day</b> (dia)</td>      
+        <td><b>help</b> (ajuda)</td>
+        <td><b>number</b> (número)</td>
+        <td><b>spell</b> (feitiço)</td>
     </tr>
     <tr>
-        <td><b>animal</b></td>
-        <td>animal</td>  
-        <td><b>head</b></td>
-        <td>cabeça</td>
-        <td><b>show</b></td>
-        <td>espetáculo - show</td>  
+        <td><b>animal</b> (animal)</td>
+        <td><b>dog</b> (cachorro)</td> 
+        <td><b>hill</b> (montanha)</td>
+        <td><b>paper</b> (papel)</td> 
+        <td><b>squirrel</b> (esquilo)</td>
     </tr>
     <tr>
-        <td><b>baby</b></td>
-        <td>bebê</td>   
-        <td><b>help</b></td>
-        <td>ajuda</td> 
-        <td><b>song</b></td>
-        <td>música</td>
+        <td><b>baby</b> (bebê)</td>
+        <td><b>doll</b> (boneca)</td>  
+        <td><b>home</b> (casa - lar)</td>
+        <td><b>party</b> (festa)</td>
+        <td><b>stick</b> (pau)</td> 
     </tr>
     <tr>
-        <td><b>back</b></td>
-        <td>costas - parte de trás</td>
-        <td><b>hill</b></td>
-        <td>montanha</td>
-        <td><b>sound</b></td>
-        <td>são</td>    
+        <td><b>back</b> (costas - parte de trás)</td>
+        <td><b>door</b> (porta)</td>
+        <td><b>hope</b> (esperança)</td>
+        <td><b>people</b> (pessoas - povo)</td>
+        <td><b>street</b> (rua)</td> 
     </tr>
     <tr>
-        <td><b>ball</b></td>
-        <td>bola</td>   
-        <td><b>home</b></td>
-        <td>casa - lar</td>
-        <td><b>spell</b></td>
-        <td>feitiço</td> 
+        <td><b>ball</b> (bola)</td>
+        <td><b>duck</b> (pato)</td>   
+        <td><b>horse</b> (cavalo)</td>
+        <td><b>picture</b> (foto - imagem)</td>
+        <td><b>sun</b> (sol)</td>
     </tr>
     <tr>
-        <td><b>bear</b></td>
-        <td>urso</td>    
-        <td><b>hope</b></td>
-        <td>esperança</td>
-        <td><b>squirrel</b></td>
-        <td>esquilo</td>
+        <td><b>bear</b> (urso)</td>
+        <td><b>edge</b> (borda - beira)</td>    
+        <td><b>house</b> (casa)</td>
+        <td><b>point</b> (ponto)</td>
+        <td><b>table</b> (mesa)</td>
     </tr>
     <tr>
-        <td><b>bell</b></td>
-        <td>sino - campainha</td>
-        <td><b>horse</b></td>
-        <td>cavalo</td>
-        <td><b>stick</b></td>
-        <td>pau</td>    
+        <td><b>bell</b> (sino - campainha)</td>
+        <td><b>egg</b> (ovo)</td>
+        <td><b>job</b> (emprego - trabalho)</td>
+        <td><b>pig</b> (porco)</td>
+        <td><b>thing</b> (coisa)</td>
     </tr>
     <tr>
-        <td><b>bird</b></td>
-        <td>pássaro</td>  
-        <td><b>house</b></td>
-        <td>casa</td> 
-        <td><b>street</b></td>
-        <td>rua</td> 
+        <td><b>bird</b> (pássaro)</td>
+        <td><b>eye</b> (olho)</td>
+        <td><b>kind</b> (tipo)</td>
+        <td><b>port</b> (porto)</td>
+        <td><b>time</b> (tempo - hora - época)</td>
     </tr>
     <tr>
-        <td><b>birthday</b></td>
-        <td>aniversário</td> 
-        <td><b>job</b></td>
-        <td>emprego - trabalho</td>
-        <td><b>sun</b></td>
-        <td>sol</td>   
+        <td><b>birthday</b> (aniversário)</td>
+        <td><b>farm</b> (fazenda)</td>
+        <td><b>kitty</b> (filhote de gato)</td>
+        <td><b>place</b> (lugar)</td>
+        <td><b>top</b> (topo)</td>
     </tr>
     <tr>
-        <td><b>boat</b></td>
-        <td>barco</td>  
-        <td><b>kind</b></td>
-        <td>tipo</td>
-        <td><b>table</b></td>
-        <td>mesa</td>  
+        <td><b>boat</b> (barco)</td>
+        <td><b>farmer</b> (fazendeiro)</td>
+        <td><b>land</b> (terra)</td>
+        <td><b>rabbit</b> coelho</td>
+        <td><b>toy</b> (brinquedo)</td>   
     </tr>
     <tr>
-        <td><b>box</b></td>
-        <td>caixa</td>
-        <td><b>kitty</b></td>
-        <td>filhote de gato</td>
-        <td><b>thing</b></td>
-        <td>coisa</td>    
+        <td><b>box</b> (caixa)</td>
+        <td><b>father</b> (pai)</td>
+        <td><b>leg</b> (perna)</td>
+        <td><b>rain</b> (chuva)</td>
+        <td><b>tree</b> (árvore)</td>
     </tr>
     <tr>
-        <td><b>boy</b></td>
-        <td>menino</td> 
-        <td><b>land</b></td>
-        <td>terra</td> 
-        <td><b>time</b></td>
-        <td>tempo - hora - época</td>  
+        <td><b>boy</b> (menino)</td>
+        <td><b>feet</b> (pés)</td>
+        <td><b>letter</b> (carta)</td>
+        <td><b>result</b> (resultado)</td>
+        <td><b>try</b> (tentativa)</td>  
     </tr>
     <tr>
-        <td><b>bread</b></td>
-        <td>pão</td>  
-        <td><b>leg</b></td>
-        <td>perna</td>
-        <td><b>top</b></td>
-        <td>topo</td>  
+        <td><b>bread</b> (pão)</td>
+        <td><b>fire</b> (fogo)</td> 
+        <td><b>line</b> (linha)</td>
+        <td><b>right</b> (direito)</td>
+        <td><b>turn</b> (vez)</td>
     </tr>
     <tr>
-        <td><b>brother</b></td>
-        <td>irmão</td>
-        <td><b>letter</b></td>
-        <td>carta</td>
-        <td><b>toy</b></td>
-        <td>brinquedo</td>    
+        <td><b>brother</b> (irmão)</td>
+        <td><b>fish</b> (peixe)</td>
+        <td><b>look</b> (olhar - olhada - visual)</td>
+        <td><b>ring</b> (anel)</td>
+        <td><b>watch</b> (relógio)</td>
     </tr>
     <tr>
-        <td><b>cake</b></td>
-        <td>bolo</td>  
-        <td><b>line</b></td>
-        <td>linha</td>
-        <td><b>tree</b></td>
-        <td>árvore</td>  
+        <td><b>cake</b> (bolo)</td>
+        <td><b>floor</b> (chão)</td>
+        <td><b>man</b> (homem)</td>
+        <td><b>root</b> (raiz)</td>
+        <td><b>water</b> (água)</td>
     </tr>
     <tr>
-        <td><b>call</b></td>
-        <td>chamada</td> 
-        <td><b>look</b></td>
-        <td>olhar - olhada - visual</td>
-        <td><b>try</b></td>
-        <td>tentativa</td>   
+        <td><b>call</b> (chamada)</td>
+        <td><b>flower</b> (flor)</td> 
+        <td><b>men</b> (homens)</td>
+        <td><b>Santa claus</b> (Papai Noel)</td>
+        <td><b>way</b> (maneira - jeito - caminho)</td>  
     </tr>
     <tr>
-        <td><b>car</b></td>
-        <td>carro</td>    
-        <td><b>man</b></td>
-        <td>homem</td>
-        <td><b>turn</b></td>
-        <td>vez</td>
+        <td><b>car</b> (carro)</td>
+        <td><b>form</b> (forma - formato - formulário)</td>   
+        <td><b>metal</b> (metal)</td>
+        <td><b>school</b> (escola)</td>
+        <td><b>weather</b> (tempo - clima)</td>
     </tr>
     <tr>
-        <td><b>cat</b></td>
-        <td>gato</td>  
-        <td><b>men</b></td>
-        <td>homens</td>
-        <td><b>watch</b></td>
-        <td>relógio</td>  
+        <td><b>cat</b> (gato)</td>
+        <td><b>game</b> (jogo)</td>
+        <td><b>milk</b> (leite)</td>
+        <td><b>seed</b> (semente)</td>
+        <td><b>wind</b> (vento)</td>
     </tr>
     <tr>
-        <td><b>cause</b></td>
-        <td>causa</td>  
-        <td><b>metal</b></td>
-        <td>metal</td>
-        <td><b>water</b></td>
-        <td>água</td>  
+        <td><b>cause</b> (causa)</td>
+        <td><b>garden</b> (jardim)</td>
+        <td><b>money</b> (dinheiro)</td>
+        <td><b>sentence</b> (pena - frase)</td>
+        <td><b>window</b> (janela)</td>
     </tr>
     <tr>
-        <td><b>chair</b></td>
-        <td>cadeira</td> 
-        <td><b>milk</b></td>
-        <td>leite</td>
-        <td><b>way</b></td>
-        <td>maneira - jeito - caminho</td>   
+        <td><b>chair</b> (cadeira)</td>
+        <td><b>girl</b> (menina)</td>
+        <td><b>month</b> (mês)</td>
+        <td><b>set</b> (conjunto)</td> 
+        <td><b>wood</b> (madeira)</td>
     </tr>
     <tr>
-        <td><b>chicken</b></td>
-        <td>galinha - frango</td>    
-        <td><b>money</b></td>
-        <td>dinheiro</td>
-        <td><b>weather</b></td>
-        <td>tempo - clima</td>
+        <td><b>chicken</b> (galinha - frango)</td>
+        <td><b>glass</b> (vidro - copo)</td> 
+        <td><b>morning</b> (manhã)</td>
+        <td><b>sheep</b> (ovelha)</td>
+        <td><b>word</b> (palavra)</td>
     </tr>
     <tr>
-        <td><b>children</b></td>
-        <td>crianças</td> 
-        <td><b>month</b></td>
-        <td>mês</td>   
-        <td><b>wind</b></td>
-        <td>vendo</td>
+        <td><b>children</b> (crianças)</td>
+        <td><b>goodbye</b> (tchau - adeus)</td>
+        <td><b>mother</b> (mãe)</td>
+        <td><b>shoe</b> (sapato)</td>
+        <td><b>work</b> (trabalho)</td>
     </tr>
     <tr>
-        <td><b>christmas</b></td>
-        <td>natal</td>  
-        <td><b>morning</b></td>
-        <td>manhã</td> 
-        <td><b>window</b></td>
-        <td>janela</td> 
+        <td><b>christmas</b> (natal)</td>
+        <td><b>grass</b> (grama)</td>
+        <td><b>name</b> (nome)</td>
+        <td><b>sister</b> (irmã)</td>
+        <td><b>year</b> (ano)</td>
     </tr>
     <tr>
-        <td><b>coat</b></td>
-        <td>casaco</td>   
-        <td><b>mother</b></td>
-        <td>mãe</td>
-        <td><b>wood</b></td>
-        <td>madeira</td> 
-    </tr>
-    <tr>
-        <td><b>corn</b></td>
-        <td>milho</td>  
-        <td><b>name</b></td>
-        <td>nome</td> 
-        <td><b>word</b></td>
-        <td>palavra</td> 
-    </tr>
-    <tr>
-        <td><b>cow</b></td>
-        <td>vaca</td> 
-        <td><b>need</b></td>
-        <td>necessidade</td>
-        <td><b>work</b></td>
-        <td>trabalho</td>   
-    </tr>
-    <tr>
-        <td><b>day</b></td>
-        <td>dia</td> 
-        <td><b>nest</b></td>
-        <td>ninho</td>  
-        <td><b>year</b></td>
-        <td>ano</td> 
-    </tr>
-    <tr>
-        <td><b>dog</b></td>
-        <td>cachorro</td> 
-        <td><b>night</b></td>
-        <td>noite</td>
-        <td><b></b></td>
-        <td></td>   
-    </tr>
-    <tr>
-        <td><b>doll</b></td>
-        <td>boneca</td> 
-        <td><b>number</b></td>
-        <td>número</td> 
-        <td><b></b></td>
-        <td></td>  
-    </tr>
-    <tr>
-        <td><b>door</b></td>
-        <td>porta</td>  
-        <td><b>paper</b></td>
-        <td>papel</td> 
-        <td><b></b></td>
-        <td></td> 
-    </tr>
-    <tr>
-        <td><b>duck</b></td>
-        <td>pato</td> 
-        <td><b>party</b></td>
-        <td>festa</td> 
-        <td><b></b></td>
-        <td></td>  
-    </tr>
-    <tr>
-        <td><b>edge</b></td>
-        <td>borda - beira</td>  
-        <td><b>people</b></td>
-        <td>pessoas - povo</td> 
-        <td><b></b></td>
-        <td></td> 
-    </tr>
-    <tr>
-        <td><b>egg</b></td>
-        <td>ovo</td> 
-        <td><b>picture</b></td>
-        <td>foto - imagem</td> 
-        <td><b></b></td>
-        <td></td> 
-    </tr>
-    <tr>
-        <td><b>eye</b></td>
-        <td>olho</td>  
-        <td><b>point</b></td>
-        <td>ponto</td>  
-        <td><b></b></td>
+        <td><b>coat</b> (casaco)</td>
+        <td><b>ground</b> (chão)</td>  
+        <td><b>need</b> (necessidade)</td>
+        <td><b>show</b> (espetáculo - show)</td>
         <td></td>
     </tr>
     <tr>
-        <td><b>farm</b></td>
-        <td>fazenda</td> 
-        <td><b>pig</b></td>
-        <td>porco</td>  
-        <td><b></b></td>
-        <td></td> 
-    </tr>
-    <tr>
-        <td><b>farmer</b></td>
-        <td>fazendeiro</td>
-        <td><b>port</b></td>
-        <td>porto</td> 
-        <td><b></b></td>
-        <td></td>   
-    </tr>
-    <tr>
-        <td><b>father</b></td>
-        <td>pai</td> 
-        <td><b>place</b></td>
-        <td>lugar</td>
-        <td><b></b></td>
-        <td></td>   
-    </tr>
-    <tr>
-        <td><b>feet</b></td>
-        <td>pés</td> 
-        <td><b>rabbit</b></td>
-        <td>coelho</td>   
-        <td><b></b></td>
+        <td><b>corn</b> (milho)</td>
+        <td><b>hand</b> (mão)</td>
+        <td><b>nest</b> (ninho)</td>
+        <td><b>song</b> (música)</td> 
         <td></td>
-    </tr>
-    <tr>
-        <td><b>fire</b></td>
-        <td>fogo</td>  
-        <td><b>rain</b></td>
-        <td>chuva</td>  
-        <td><b></b></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><b>fish</b></td>
-        <td>peixe</td> 
-        <td><b>result</b></td>
-        <td>resultado</td>   
-        <td><b></b></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><b>floor</b></td>
-        <td>chão</td>
-        <td><b>right</b></td>
-        <td>direito</td> 
-        <td><b></b></td>
-        <td></td>   
-    </tr>
-    <tr>
-        <td><b>flower</b></td>
-        <td>flor</td>    
-        <td><b>ring</b></td>
-        <td>anel</td>
-        <td><b></b></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><b>form</b></td>
-        <td>forma - formato - formulário</td> 
-        <td><b>root</b></td>
-        <td>raiz</td>  
-        <td><b></b></td>
-        <td></td> 
-    </tr>
-    <tr>
-        <td><b>game</b></td>
-        <td>jogo</td>  
-        <td><b>Santa claus</b></td>
-        <td>Papai Noel</td> 
-        <td><b></b></td>
-        <td></td> 
-    </tr>
-    <tr>
-        <td><b>garden</b></td>
-        <td>jardim</td>    
-        <td><b>school</b></td>
-        <td>escola</td>
-        <td><b></b></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><b>girl</b></td>
-        <td>menina</td>    
-        <td><b>seed</b></td>
-        <td>semente</td>
-        <td><b></b></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><b>glass</b></td>
-        <td>vidro - copo</td> 
-        <td><b>sentence</b></td>
-        <td>pena - frase</td> 
-        <td><b></b></td>
-        <td></td>  
-    </tr>
-    <tr>
-        <td><b>goodbye</b></td>
-        <td>tchau - adeus</td> 
-        <td><b>set</b></td>
-        <td>conjunto</td> 
-        <td><b></b></td>
-        <td></td>  
-    </tr>
-    <tr>
-        <td><b>grass</b></td>
-        <td>grama</td>
-        <td><b>sheep</b></td>
-        <td>ovelha</td> 
-        <td><b></b></td>
-        <td></td>   
     </tr>
 </table>
+
+<br>
+
+## Adjectives
+* Os *Adjetives*, são a classe de palavras que dão característica para os substantivos, seja para expressar uma qualidade, um defeito ou uma condição. 
+* Os *Adjectives* em inglês não variam em relação a gênero(masculino e feminino) ou número(singular e plural).
+* Em inglês os geralmente são posicionados antes do substantivo, porém aparecem após o substantivo no caso de verbos de ligação(vindo após o verbo) ou quando há pronomes indefinedos na frase(vindo após o pronome indefinido).
