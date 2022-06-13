@@ -1072,3 +1072,116 @@ Ex: She and me are excellent people.
 Ex: John looks tired. (Adjetivo após o verbo de ligação)  
 Ex: There is something useful here. (Adjetivo após pronome indefinido)  
 Ex: He has a brand new red car. (dois adjetivos na frase)
+
+<table>
+    <tr>
+        <td><b>adorable</b> (adorável)</td>
+        <td><b>organized</b> (organizado)</td>     
+        <td><b>angry</b> (furioso)</td> 
+    </tr>
+    <tr>
+        <td><b>friendly</b> (amigável)</td>
+        <td><b>optimistic</b> (otimista)</td>      
+        <td><b>fat</b> (gordo)</td>
+    </tr>
+    <tr>
+        <td><b>short</b> (baixo)</td>
+        <td><b>patient</b> (paciente)</td> 
+        <td><b>big</b> (grande)</td>
+    </tr>
+    <tr>
+        <td><b>kind</b> (bondoso)</td>
+        <td><b>small</b> (pequeno)</td>  
+        <td><b>honest</b> (honesto)</td>
+    </tr>
+    <tr>
+        <td><b>tired</b> (cansado)</td>
+        <td><b>sloppy</b> (relaxado)</td>
+        <td><b>naive</b> (ingênuo)</td> 
+    </tr>
+    <tr>
+        <td><b>boring</b> (chato)</td>
+        <td><b>romantic</b> (romântico)</td>   
+        <td><b>envious</b> (invejoso)</td>
+    </tr>
+    <tr>
+        <td><b>determinated</b> (determinado)</td>
+        <td><b>wise</b> (sábio)</td>    
+        <td><b>fair</b> (justo)</td>
+    </tr>
+    <tr>
+        <td><b>abisent-minded</b> (distraído)</td>
+        <td><b>nice</b> (simpático)</td>
+        <td><b>open-minded</b> (liberal)</td>
+    </tr>
+    <tr>
+        <td><b>selfish</b> (egoísta)</td>
+        <td><b>talented</b> (talentoso)</td>
+        <td><b>thin</b> (magro)</td>
+    </tr>
+    <tr>
+        <td><b>smart</b> (esperto)</td>
+        <td><b>shy</b> (tímido)</td>
+        <td><b>crabby</b> (mal-humorado)</td>
+    </tr>
+    <tr>
+        <td><b>happy</b> (feliz)</td>
+        <td><b>useful</b> (útil)</td>
+        <td><b>neurotic</b> (neutótico)</td>   
+    </tr>
+    <tr>
+        <td><b>faithful</b> (fiel)</td>
+        <td><b>joyful</b> (alegre)</td>
+        <td><b>proud</b> (orgulhoso)</td>
+    </tr>
+    <tr>
+        <td><b>generous</b> (generoso)</td>
+        <td><b>tall</b> (alto)</td>
+        <td><b>daring</b> (ousado)</td> 
+    </tr>
+    <tr>
+        <td><b>delicious</b> (gostoso)</td>
+        <td><b>handsome</b> (bonito)</td> 
+        <td><b>heavy</b> (pesado)</td>
+    </tr>
+    <tr>
+        <td><b>skillful</b> (habilidoso)</td>
+        <td><b>pretty</b> (bonita)</td>
+        <td><b>poor</b> (pobre)</td>
+    </tr>
+    <tr>
+        <td><b>horrible</b> (horrível)</td>
+        <td><b>caring</b> (carinhoso)</td>
+        <td><b>reserved</b> (reservado)</td>
+    </tr>
+    <tr>
+        <td><b>insecure</b> (inseguro)</td>
+        <td><b>jealous</b> (ciumento)</td> 
+        <td><b>rich</b> (rico)</td>
+    </tr>
+    <tr>
+        <td><b>irritating</b> (irritante)</td>
+        <td><b>fearless</b> (destemido)</td>   
+        <td><b>healthy</b> (saudável)</td>
+    </tr>
+    <tr>
+        <td><b>loyal</b> (leal)</td>
+        <td><b>sick</b> (doente)</td>
+        <td><b>lucky</b> (sortudo)</td>
+    </tr>
+    <tr>
+        <td><b>gorgeous</b> (lindo)</td>
+        <td><b>funny</b> (engraçado)</td>
+        <td><b>stubborn</b> (teimoso)</td>
+    </tr>
+    <tr>
+        <td><b>mean</b> (maldoso)</td>
+        <td><b>studious</b> (estudioso)</td>
+        <td><b>sad</b> (triste)</td>
+    </tr>
+    <tr>
+        <td><b>modest</b> (modesto)</td>
+        <td><b>ugly</b> (feio)</td> 
+        <td><b>agressive</b> (violento)</td>
+    </tr>
+</table>
