@@ -1185,3 +1185,90 @@ Ex: He has a brand new red car. (dois adjetivos na frase)
         <td><b>agressive</b> (violento)</td>
     </tr>
 </table>
+
+> #### GRAU DOS ADJETIVOS
+* Os adjetivos variam em sua forma pra indicar uma característica a algo de forma normal, por meio de uma comparação ou por intensificação.
+
+##### GRAU NORMAL
+* Indica uma atribuição com o adjetivo na sua forma básica.
+
+Ex: The house is old.  
+Ex: The car is red.  
+Ex: The tower is tall.  
+
+##### GRAU COMPARATIVO
+* No grau comparativo o adjetivo atribuído, é comparado a um outro ser ou a vários seres.
+* Para estabelecer uma comparação são utilizados algumas expressões como auxiliares:
+    - as + adjective + as: (tão ... quanto)
+    - more + adjective + than: (mais ... do que)
+    - less + adjective + than: (menos ... do que)
+* Para adjetivos formados por palavras curtas adiciona-se ao adjetivo a terminação ***-er*** juntamente com o ***than***.
+
+Ex: I am more smart than your think.  
+Ex: My father is as tall as my mother.  
+Ex: She is less beautiful than you.  
+Ex: My uncle is shorter than my father.  
+Ex: Mike is taller than Will.    
+
+<table>
+    <tr>
+        <td><b>ADJECTIVE</b></td>
+        <td><b>COMPARATIVE</b></td>      
+    </tr>
+    <tr>
+        <td><b>big</b> (grande)</td>
+        <td><b>bigger than</b> (maior do que)</td>      
+    </tr>
+    <tr>
+        <td><b>cute</b> (fofo)</td>
+        <td><b>cuter than</b> (mais fofo do que)</td> 
+    </tr>
+    <tr>
+        <td><b>easy</b> (fácil)</td>
+        <td><b>easier than</b> (mais fácil do que)</td>  
+    </tr>
+    <tr>
+        <td><b>hard</b> (difícil)</td>
+        <td><b>harder than</b> (mais difícil do que)</td>
+    </tr>
+    <tr>
+        <td><b>large</b> (amplo)</td>
+        <td><b>larger than</b> (mais amplo do que)</td> 
+    </tr>
+    <tr>
+        <td><b>long</b> (comprido)</td>
+        <td><b>loger than</b> (mais comprido do que)</td> 
+    </tr>
+    <tr>
+        <td><b>new</b> (novo)</td>
+        <td><b>newer than</b> (mais novo do que)</td>
+    </tr>
+    <tr>
+        <td><b>nice</b> (legal)</td>
+        <td><b>nicer than</b> (mais legal do que)</td>
+    </tr>
+    <tr>
+        <td><b>tall</b> (alto)</td>
+        <td><b>taller than</b> (mais alto do que)</td>
+    </tr>
+    <tr>
+        <td><b>short</b> (baixo)</td>
+        <td><b>shorter than</b> (mais baixo do que)</td> 
+    </tr>
+    <tr>
+        <td><b>small</b> (pequeno)</td>
+        <td><b>smaller than</b> (menor do que)</td>
+    </tr>
+    <tr>
+        <td><b>strong</b> (forte)</td>
+        <td><b>stronger than</b> (mais forte do que)</td>
+    </tr>
+    <tr>
+        <td><b>old</b> (velho)</td>
+        <td><b>older than</b> (mais velho do que)</td> 
+    </tr>
+    <tr>
+        <td><b>young</b> (jovem)</td>
+        <td><b>younger than</b> (mais jovem do que)</td>
+    </tr>
+</table>
