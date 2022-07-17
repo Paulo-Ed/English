@@ -1202,7 +1202,11 @@ Ex: The tower is tall.
     - as + adjective + as: (tão ... quanto)
     - more + adjective + than: (mais ... do que)
     - less + adjective + than: (menos ... do que)
-* Para adjetivos formados por palavras curtas adiciona-se ao adjetivo a terminação ***-er*** juntamente com o ***than***.
+* Para adjetivos formados por palavras com uma ou duas sílabas a regra geral é, adiciona-se ao adjetivo a terminação ***-er*** juntamente com o ***than***.
+* Para adjetivos terminados em ***-e*** adiciona-se apenas a terminação ***-r*** juntamente com o ***than***.
+* Para adjetivos de até duas sílabas terminados em vogal + consoante dobra-se a consoante e adiciona-se ao adjetivo a terminação ***-er*** juntamente com o ***than***, com exceção dos substantivos ***new*** e ***clean*** em que não se dobra a consoante.
+* Para adjetivos de até duas sílabas terminados em consoante + ***-y***, substitui-se o ***-y*** por ***-i*** e adiciona-se ao adjetivo a terminação ***-er*** juntamente com o ***than***.
+* Para adjetivos formados por palavras longas o adjetivo não sofre modificação, nesses casos utiliza-se o auxiliar com o ***than***.
 
 Ex: I am more smart than your think.  
 Ex: My father is as tall as my mother.  
@@ -1210,65 +1214,95 @@ Ex: She is less beautiful than you.
 Ex: My uncle is shorter than my father.  
 Ex: Mike is taller than Will.    
 
+##### GRAU SUPERLATIVO
+* No grau superlativo o adjetivo é utilizado para intensificar a qualidade do substantivo a ele atribuído.
+* Para estabelecer uma comparação são utilizados algumas expressões como auxiliares:
+    - the most + adjective: (a/o mais) para definir superiodidade
+    - the least + adjective: (a/o menos) para definir inferioridade
+* Para adjetivos formados por palavras por uma ou duas sílabas, a regra geral para formar o superlativo é com o ***the*** antes do adjetivo, juntamente coma adição da terminação ***-est***.
+* Para adjetivos de até duas sílabas terminados em ***-e*** adiciona-se o ***the*** antes do adjetivo e a terminação ***-st***.
+* Para adjetivos de até duas sílabas terminados em vogal + consoante dobra-se a consoante, adiciona-se o ***the*** antes do adjetivo e a terminação ***-est***.
+* Para adjetivos de até duas sílabas terminados em consoante + ***-y***, substitui-se o ***-y*** por ***-i***, adiciona-se o ***the*** antes do adjetivo e a terminação ***-est***.
+* Para adjetivos formados por palavras longas o adjetivo não sofre modificação, nesses casos utiliza-se o a palavra ***most*** como auxiliar para estabelecer a intensificação da qualidade no adjetivo.
+
+Ex: She is the most beautiful girl, that i know.  
+Ex: He is the oldest stundent.  
+Ex: This car is the fasttest the world.  
+
 <table>
     <tr>
         <td><b>ADJECTIVE</b></td>
-        <td><b>COMPARATIVE</b></td>      
+        <td><b>COMPARATIVE</b></td>
+        <td><b>SUPERLATIVE</b></td>        
     </tr>
     <tr>
         <td><b>big</b> (grande)</td>
-        <td><b>bigger than</b> (maior do que)</td>      
+        <td><b>bigger than</b> (maior do que)</td>
+        <td><b>the biggest</b> (o maior)</td>       
     </tr>
     <tr>
         <td><b>cute</b> (fofo)</td>
-        <td><b>cuter than</b> (mais fofo do que)</td> 
+        <td><b>cuter than</b> (mais fofo do que)</td>
+        <td><b>the cutest</b> (o mais fofo)</td> 
     </tr>
     <tr>
         <td><b>easy</b> (fácil)</td>
-        <td><b>easier than</b> (mais fácil do que)</td>  
+        <td><b>easier than</b> (mais fácil do que)</td>
+        <td><b>the easiest</b> (o mais fácil)</td>   
     </tr>
     <tr>
         <td><b>hard</b> (difícil)</td>
         <td><b>harder than</b> (mais difícil do que)</td>
+        <td><b>the hardest</b> (o mais difícil)</td>
     </tr>
     <tr>
         <td><b>large</b> (amplo)</td>
-        <td><b>larger than</b> (mais amplo do que)</td> 
+        <td><b>larger than</b> (mais amplo do que)</td>
+        <td><b>the largest</b> (o mais amplo)</td>  
     </tr>
     <tr>
         <td><b>long</b> (comprido)</td>
-        <td><b>loger than</b> (mais comprido do que)</td> 
+        <td><b>longer than</b> (mais comprido do que)</td>
+        <td><b>the longest</b> (o mais comprido)</td>  
     </tr>
     <tr>
         <td><b>new</b> (novo)</td>
         <td><b>newer than</b> (mais novo do que)</td>
+        <td><b>the newest</b> (o mais novo)</td>
     </tr>
     <tr>
         <td><b>nice</b> (legal)</td>
         <td><b>nicer than</b> (mais legal do que)</td>
+        <td><b>the nicest</b> (o mais legal)</td>
     </tr>
     <tr>
         <td><b>tall</b> (alto)</td>
         <td><b>taller than</b> (mais alto do que)</td>
+        <td><b>the tallest</b> (mais alto)</td>
     </tr>
     <tr>
         <td><b>short</b> (baixo)</td>
-        <td><b>shorter than</b> (mais baixo do que)</td> 
+        <td><b>shorter than</b> (mais baixo do que)</td>
+        <td><b>the shortest</b> (o mais baixo)</td> 
     </tr>
     <tr>
         <td><b>small</b> (pequeno)</td>
         <td><b>smaller than</b> (menor do que)</td>
+        <td><b>the smallest</b> (o menor)</td>
     </tr>
     <tr>
         <td><b>strong</b> (forte)</td>
         <td><b>stronger than</b> (mais forte do que)</td>
+        <td><b>the strongest</b> (o mais forte)</td>
     </tr>
     <tr>
         <td><b>old</b> (velho)</td>
-        <td><b>older than</b> (mais velho do que)</td> 
+        <td><b>older than</b> (mais velho do que)</td>
+        <td><b>the oldest</b> (o mais velho)</td> 
     </tr>
     <tr>
         <td><b>young</b> (jovem)</td>
         <td><b>younger than</b> (mais jovem do que)</td>
+        <td><b>the youngest</b> (o mais jovem)</td>
     </tr>
 </table>
