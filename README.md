@@ -1306,3 +1306,5 @@ Ex: This car is the fasttest the world.
         <td><b>the youngest</b> (o mais jovem)</td>
     </tr>
 </table>
+
+## Numbers
