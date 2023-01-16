@@ -33,7 +33,7 @@ Ex: She is not a old woman.
 Ex: They are not in Xangai.  
 
 ##### INTERROGATIVE FORM
-* Para a forma interrogativa do verbo ***to be*** basta inverter a ordem entre o verbo e o sujeito da frase.
+* Para a forma interrogativa do verbo ***to be*** deve-se posicionar o verbo antes do sujeito da frase.
 * Estrutura da frase:
   - Verbo to be + sujeito + complemento.
 
