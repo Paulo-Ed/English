@@ -4,6 +4,7 @@ English grammar.
 <br>
 
 ## Personal Pronouns
+* No inglês todas as frases possuem um sujeito.
 
 > #### SUBJECT PRONOUNS
 * Os *Subject pronouns* são os sujeitos que praticam a ação na frase.
@@ -13,6 +14,7 @@ English grammar.
 * Na primeira pessoa o sujeito da frase se refere a pessoa que está falando.
 * Na segunda pessoa o sujeito da frase se refere a pessoa com quem se está falando.
 * E na terceira pessoa o sujeito da frase se refere a pessoa sobre quem se está falando.  
+* Na 3ª pessoa do singular o pronomes ***He*** e ***She*** são usados para se referir a pessoas no masculino e feminino respectivamente. Já o ***It*** é utilizado como sujeitos em frases que fazem referencia a objetos. Também é utilizado em frases que possuem um sujeito impessoal (que trazem novas informações).
     
 Ex: He is very tall.    
 Ex: It is red.
@@ -20,7 +22,7 @@ Ex: It is red.
 <table>
     <tr>
         <td><b>I</b> (Eu)</td>
-        <td><b>It</b> (Ele - Ela)</td>
+        <td><b>It</b> (Ele - Ela - Isto)</td>
     </tr>
      <tr>
         <td><b>You</b> (Você - Tú)</td>

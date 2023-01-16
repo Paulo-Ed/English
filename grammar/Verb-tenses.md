@@ -6,7 +6,7 @@ English grammar.
 ## Verb Tenses
 
 > #### SIMPLE PRESENT
-* É empregado para indicar ações habituais que ocorrem no presente.
+* É empregado para indicar ações habituais que ocorrem no presente ou informações factuais.
 * Também é utilizado para expressar verdades universais, sentimentos, desejos, opiniões e preferências.
 * Geralmente frases no simple present apresentam expressões de tempo.
 * A conjugação de frases no *Simple present*, variam de acordo com a pessoa verbal, terminação do verbo e tipo de frase (afirmativa - negativa - interrogativa).
