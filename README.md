@@ -54,10 +54,10 @@ English grammar.
 
 ## SUMMARY
 
-* [Pronouns](Pronouns.md)
-* [Articles](Articles.md)
-* [Verb To be](Verb-to-be.md)
-* [Verb Tenses](Verb-tenses.md)
-* [Nouns](Nouns.md)
-* [Adjectives](Adjectives.md)
-* [Numbers](Numbers.md)
+* [Pronouns](grammar/Pronouns.md)
+* [Articles](grammar/Articles.md)
+* [Verb To be](grammar/Verb-to-be.md)
+* [Verb Tenses](grammar/Verb-tenses.md)
+* [Nouns](grammar/Nouns.md)
+* [Adjectives](grammar/Adjectives.md)
+* [Numbers](grammar/Numbers.md)
