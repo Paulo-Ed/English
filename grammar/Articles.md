@@ -42,7 +42,7 @@ Ex: The united states of america.
 
 > #### INDEFINITE ARTICLES
 * Os indefinite articles, são utilizados quando nos referimos a algo em geral, não especificado.
-* São usados apenas no singular.
+* São usados apenas em frases no singular.
 * O artigo ***a*** é usado em palavras que começam com uma consoante ou por um som de consoante.
 * O artigo ***an*** é usado em palavras que começam com uma vogal, ou por um som de vogal.
 * Outros usos:
