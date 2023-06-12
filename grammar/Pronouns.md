@@ -14,7 +14,7 @@ English grammar.
 * Na primeira pessoa o sujeito da frase se refere a pessoa que está falando.
 * Na segunda pessoa o sujeito da frase se refere a pessoa com quem se está falando.
 * E na terceira pessoa o sujeito da frase se refere a pessoa sobre quem se está falando.  
-* Na 3ª pessoa do singular o pronomes ***He*** e ***She*** são usados para se referir a pessoas no masculino e feminino respectivamente. Já o ***It*** é utilizado como sujeitos em frases que fazem referencia a objetos. Também é utilizado em frases que possuem um sujeito impessoal (que trazem novas informações).
+* Na 3ª pessoa do singular o pronomes ***He*** e ***She*** são usados para se referir a pessoas no masculino e feminino respectivamente. Já o ***It*** é utilizado como sujeito em frases que fazem referencia a objetos ou coisas. Também é utilizado em frases que possuem um sujeito impessoal (que trazem novas informações).
     
 Ex: He is very tall.    
 Ex: It is red.
