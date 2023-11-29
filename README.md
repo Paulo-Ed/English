@@ -1,7 +1,9 @@
 # ENGLISH
-English grammar.
+Study of the english language.
 
-## SUMMARY
+## Sumary
+
+> #### GRAMMAR
 
 * [The Alphabet](grammar/Alphabet.md)
 * [Pronouns](grammar/Pronouns.md)
@@ -11,3 +13,5 @@ English grammar.
 * [Nouns](grammar/Nouns.md)
 * [Adjectives](grammar/Adjectives.md)
 * [Numbers](grammar/Numbers.md)
+
+> #### VOCABULARY AND OTHER QUESTIONS
