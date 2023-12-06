@@ -5,7 +5,7 @@ Study of the english language.
 
 > ### Grammar
 
-* [The Alphabet](grammar/Alphabet.md)
+* [The Alphabet](grammar/alphabet.md)
 * [Pronouns](grammar/Pronouns.md)
 * [Articles](grammar/Articles.md)
 * [Verb To be](grammar/Verb-to-be.md)
