@@ -15,3 +15,5 @@ Study of the english language.
 * [Numbers](grammar/Numbers.md)
 
 > ### Vocabulary
+
+* [Daily Phrases](vocabulary/daily-phrases.md)
