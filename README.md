@@ -1,9 +1,9 @@
-# ENGLISH
+# English
 Study of the english language.
 
-## Sumary
+## SUMARY
 
-> #### GRAMMAR
+> ### Grammar
 
 * [The Alphabet](grammar/Alphabet.md)
 * [Pronouns](grammar/Pronouns.md)
@@ -14,4 +14,4 @@ Study of the english language.
 * [Adjectives](grammar/Adjectives.md)
 * [Numbers](grammar/Numbers.md)
 
-> #### VOCABULARY AND OTHER QUESTIONS
+> ### Vocabulary
