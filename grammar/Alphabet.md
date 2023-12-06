@@ -1,6 +1,6 @@
 # The alphabet
 
-|Letter (Song)|Letter (Song)|Letter (Song)|Letter (Song)|Letter (Song)|Letter (Song)|
+|Letter (Sound)|Letter (Sound)|Letter (Sound)|Letter (Sound)|Letter (Sound)|Letter (Sound)|
 |-------------|-------------|-------------|-------------|-------------|-------------|
 | A (Ei)      | F (Éf)      | K (Kei)     | P (Pi)      | U (Iú)      | Z  (Zi/Zéd) |
 | B (Bi)      | G (Dji)     | L (Él)      | Q (Quiu)    | V (Vi)      | 
