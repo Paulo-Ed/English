@@ -6,13 +6,13 @@ Study of the english language.
 > ### Grammar
 
 * [The Alphabet](grammar/alphabet.md)
-* [Pronouns](grammar/Pronouns.md)
-* [Articles](grammar/Articles.md)
-* [Verb To be](grammar/Verb-to-be.md)
-* [Verb Tenses](grammar/Verb-tenses.md)
-* [Nouns](grammar/Nouns.md)
-* [Adjectives](grammar/Adjectives.md)
-* [Numbers](grammar/Numbers.md)
+* [Pronouns](grammar/pronouns.md)
+* [Articles](grammar/articles.md)
+* [Verb To be](grammar/verb-to-be.md)
+* [Verb Tenses](grammar/verb-tenses.md)
+* [Nouns](grammar/nouns.md)
+* [Adjectives](grammar/adjectives.md)
+* [Numbers](grammar/numbers.md)
 
 > ### Vocabulary
 
