@@ -1,20 +1,20 @@
-# ENGLISH
+# English
 English grammar.
 
 <br>
 
-## Personal Pronouns
+## PERSONAL PRONOUNS
 * No inglês todas as frases possuem um sujeito.
 
-> #### SUBJECT PRONOUNS
-* Os *Subject pronouns* são os sujeitos que praticam a ação na frase.
+> ### Subject pronouns
+* Os ***subject pronouns*** são os sujeitos que praticam a ação na frase.
 * Eles substituem nomes próprios ou substantivos na frase.
 * Aparecem no início da frase e são utilizados no singular e no plural.  
 * Variam em gênero (masculino, feminino e neutro).
 * Na primeira pessoa o sujeito da frase se refere a pessoa que está falando.
 * Na segunda pessoa o sujeito da frase se refere a pessoa com quem se está falando.
 * E na terceira pessoa o sujeito da frase se refere a pessoa sobre quem se está falando.  
-* Na 3ª pessoa do singular o pronomes ***He*** e ***She*** são usados para se referir a pessoas no masculino e feminino respectivamente. Já o ***It*** é utilizado como sujeito em frases que fazem referencia a objetos ou coisas. Também é utilizado em frases que possuem um sujeito impessoal (que trazem novas informações).
+* Na 3ª pessoa do singular o pronomes ***he*** e ***she*** são usados para se referir a pessoas no masculino e feminino respectivamente. Já o ***it*** é utilizado como sujeito em frases que fazem referencia a objetos ou coisas. Também é utilizado em frases que possuem um sujeito impessoal (que trazem novas informações).
     
 Ex: He is very tall.    
 Ex: It is red.
@@ -38,8 +38,8 @@ Ex: It is red.
     </tr>
 </table>
 
-> #### OBJECT PRONOUNS
-* Os *Object pronouns* são os sujeitos que sofrem a ação na frase.
+> ### Object pronouns
+* Os ***object pronouns*** são os sujeitos que sofrem a ação na frase.
 * São empregados após verbos e preposições, aparecendo geralmente no meio ou no fim da frase.
 * Não variam em grau, sendo utilizados no singular e no plural.
 
@@ -67,9 +67,9 @@ Ex: I want to  find it.
 
 <br>
 
-## Possessive Pronouns
+## POSSESSIVE PRONOUNS
 
-> #### POSSESSIVE ADJECTIVES
+> ### Possessive adjectives
 * Atuam como adjetivos na frase e são acompanhados por um substantivo.
 * Eles são utilizados para indicar posse.
 * Não são flexionados em grau (singular - plural).
@@ -96,7 +96,7 @@ Ex: His name is Paulo.
     </tr>
 </table>
 
-> #### POSSESSIVE PRONOUNS
+> ### Possessive pronouns
 * Funcionam como substantivo na frase.
 * Geralmente aparecem no fim da frase, exercendo a função do sujeito.
   
@@ -124,12 +124,12 @@ Ex: This phone is his.
 
 <br>
 
-## Demonstrative Pronouns
+## DEMONSTRATIVE PRONOUNS
 * São utilizados para indicar algo e mostrar sua posição no espaço.
-* Os *Demonstrative pronouns* não variam em gênero, mas variam em número (singular - plural).
+* Os ***demonstrative pronouns*** não variam em gênero, mas variam em número (singular - plural).
 * São classificados em:
-  - *Demonstrative pronouns*, quando tem a função de substituir o substantivo na frase. Ele surge antes do verbo ou sozinho na frase.
-  - *Demonstrative adjectives*, quando tem a função de atribuir qualidade ao substantivo o descrevendo. Ele surge antes do substantivo.
+  - ***Demonstrative pronouns***, quando tem a função de substituir o substantivo na frase. Ele surge antes do verbo ou sozinho na frase.
+  - ***Demonstrative adjectives***, quando tem a função de atribuir qualidade ao substantivo o descrevendo. Ele surge antes do substantivo.
 * O ***this*** é usado para indicar algo próximo de quem fala, o ***these*** é a sua forma no plural.
 * O ***that*** é usado para indicar algo longe de quem fala, o ***those*** é sua forma no plural.
 
@@ -150,12 +150,12 @@ Ex: Do you like that?
 
 <br>
 
-## Relative Pronouns
-* Os *Relative pronouns* são utilizados como sujeito ou objeto na frase, em relação ao verbo principal.
+## RELATIVE PRONOUNS
+* Os ***relative pronouns*** são utilizados como sujeito ou objeto na frase, em relação ao verbo principal.
 * Eles fazem referência a algo que já foi citado na frase.
 * Possuem duas funções:
-  - Na função de sujeito, os *relative pronouns* são acompanhados por um verbo.
-  - Na função de objeto, os *relative pronouns* são seguidos por um substantivo ou pronome.  
+  - Na função de sujeito, os ***relative pronouns*** são acompanhados por um verbo.
+  - Na função de objeto, os ***relative pronouns*** são seguidos por um substantivo ou pronome.  
 * Usos:
   - O ***who*** e o ***whom*** são utilizados para indicar pessoas.
   - O ***which*** é utilizado para coisas.
@@ -164,7 +164,7 @@ Ex: Do you like that?
   - O ***where*** faz referência a lugares.
   - O ***when*** é utilizado para indicar tempo.
   - O ***what*** faz referência ao sujeito ou objeto.
-* Os *Relative pronouns* também são utilizados como pronomes interrogativos.
+* Os ***relative pronouns*** também são utilizados como pronomes interrogativos.
 
 Ex: The man who lives here is a programmer.  
 Ex: I know where the books are.  
@@ -191,9 +191,9 @@ Ex: I don't know what it is.
 
 <br>
 
-## Question Words
+## QUESTION WORDS
 * São pronomes interrogativos, utilizados para fazer perguntas.
-* Na frase as *Question words* aparecem antes dos verbos auxiliares e/ou verbos modais.
+* Na frase as ***question words*** aparecem antes dos verbos auxiliares e/ou verbos modais.
 * Usos:
   - O ***what*** é utilizado para perguntas gerais que possuem uma resposta aberta.
   - O ***which*** é utilizado para perguntas com um conjunto de respostas definidas por quem realiza a pergunta.
@@ -235,16 +235,16 @@ Ex: What are you doing?
 
 <br>
 
-## Reflexive Pronouns
+## REFLEXIVE PRONOUNS
 * São utilizados para indicar uma ação realizada pelo sujeito que incide sobre ele mesmo.
 * Geralmente aparecem após o verbo, concordando com o sujeito da oração.
 * No singular possuem a terminação ***-self*** e no plural ***-selves***.
 * Classificação:
-  - Na função reflexiva, a ação do verbo cai sobre o próprio sujeito. O *Reflexive pronoun* vem após o sujeito.
-  - Na função enfática, o pronome da ênfase ao sujeito da ação. O *Reflexive pronoun* vem após o sujeito, ou após o objeto da frase.
-  - Na função idiomática, o sujeito pratica a ação sozinho. O *Reflexive pronoun* é precedido pela preposição ***by***.
+  - Na função reflexiva, a ação do verbo cai sobre o próprio sujeito. O ***reflexive pronoun*** vem após o sujeito.
+  - Na função enfática, o pronome da ênfase ao sujeito da ação. O ***reflexive pronoun*** vem após o sujeito, ou após o objeto da frase.
+  - Na função idiomática, o sujeito pratica a ação sozinho. O ***reflexive pronoun*** é precedido pela preposição ***by***.
 
-> #### RECIPROCAL PRONOUNS
+> ### Reciprocal pronouns
 * São termos utilizados para se referir a mais de uma pessoa ou coisa.
 * O ***each other*** é usado, quando o sujeito referência duas pessoas ou coisas, indicando reciprocidade.
 * O ***one another*** é usado, quando o sujeito quer referênciar mais de duas pessoas ou coisas, também indicando reciprocidade.
@@ -278,8 +278,8 @@ Ex: They kissed one another.
 
 <br>
 
-## Indefinite Pronouns
-* Os *Indefinite pronouns*, são utilizados para substituir ou acompanhar o substantivo de forma imprecisa ou indeterminada.
+## INDEFINITE PRONOUNS
+* Os ***indefinite pronouns***, são utilizados para substituir ou acompanhar o substantivo de forma imprecisa ou indeterminada.
 * Podem agir com função de substantivo ou adjetivo na frase.
 * Muitos dos indefinite pronouns são formados na combinação com as palavras ***some, any, no*** e ***every***.
 * Usos:
@@ -287,7 +287,7 @@ Ex: They kissed one another.
   - Para indicar coisas terminam com ***-thing***.
   - Para indicar lugares terminam com ***-where***.
 
-> #### SOME
+> ### Some
 * O termo ***some***, quando usado sozinho significa: Algum, Alguns, Um, Uns, Uma, Umas, Alguma, Algumas, Algo, Cerca de, Certo, Certos, Certa, Certas, Um pouco de.
 * O ***some*** e suas variações, são utilizados para frases afirmativas e em alguns casos em frases interrogativas.
 
@@ -310,7 +310,7 @@ Ex: I will get there someway.
     </tr>
 </table>
 
-> #### ANY
+> ### Any
 * O termo ***any***, quando usado sozinho significa: Qualquer, Quaisquer, Algum, Alguns, Alguma, Algumas, Nenhum, Nenhuma, Um, Uns, Uma, Umas.
 * O ***any*** e suas combinações são utilizados em frases negativas ou interrogativas.
 
@@ -332,7 +332,7 @@ Ex: I didn't hear anything.
     </tr>
 </table>
 
-> #### NO
+> ### No
 * O ***no*** é utilizado como adjetivo, o none é usado como substantivo, ambos significam: Nenhum, Nenhuma.
 * São utilizados em frases negativas.
 
@@ -355,7 +355,7 @@ Ex: I have nothing in my purse.
     </tr>
 </table>
 
-> #### EVERY
+> ### Every
 * O ***every*** siginifica: Todo, Todos, Toda, Todas, Cada.
 * São utilizados para frases afirmativas ou interrogativas.
 
@@ -377,7 +377,7 @@ Ex: Everything is possible.
     </tr>
 </table>
 
-> #### OTHER INDEFINITE PRONOUNS
+> ### Other indefinite pronouns
 
 <table>
     <tr>
