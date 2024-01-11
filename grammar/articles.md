@@ -35,10 +35,11 @@ Ex: I like to play the piano.
 Ex: The jacksons are a famous family.  
 Ex: The united states of america.  
 
-|Definite Artible|
-|-------------|
-|**The** (O - Os - A - As)|
-
+<table>
+    <tr>
+        <td><b>The</b> (O - Os - A - As)</td>
+    </tr>
+</table>
 
 > #### INDEFINITE ARTICLES
 * Os indefinite articles, são utilizados quando nos referimos a algo em geral, não especificado.
@@ -55,9 +56,14 @@ Ex: He is a professor.
 Ex: She is eating an apple.  
 Ex: This is a dictionary.  
 
-|Indefinite Artible|
-|-------------|
-|**A** (Um - Uma)|
-|**An** (Um - Uma)|
+<table>
+    <tr>
+        <td><b>A</b> (Um - Uma)</td>
+    </tr>
+    <tr>
+        <td><b>An</b> (Um - Uma)</td>
+    </tr>
+</table>
+
 
 
