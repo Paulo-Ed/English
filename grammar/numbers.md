@@ -1,6 +1,6 @@
-# ENGLISH
+# English
 English grammar.
 
 <br>
 
-## Numbers
+## NUMBERS
