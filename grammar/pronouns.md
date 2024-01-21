@@ -281,9 +281,9 @@ Ex: They kissed one another.
 ## INDEFINITE PRONOUNS
 * Os ***indefinite pronouns***, são utilizados para substituir ou acompanhar o substantivo de forma imprecisa ou indeterminada.
 * Podem agir com função de substantivo ou adjetivo na frase.
-* Muitos dos indefinite pronouns são formados na combinação com as palavras ***some, any, no*** e ***every***.
+* Muitos dos ***indefinite pronouns*** são formados na combinação com as palavras ***some, any, no*** e ***every***.
 * Usos:
-  - Para indicar pessoas os indefinite pronouns terminam com ***-body*** ou ***-one***.
+  - Para indicar pessoas os ***indefinite pronouns*** terminam com ***-body*** ou ***-one***.
   - Para indicar coisas terminam com ***-thing***.
   - Para indicar lugares terminam com ***-where***.
 
@@ -333,7 +333,7 @@ Ex: I didn't hear anything.
 </table>
 
 > ### No
-* O ***no*** é utilizado como adjetivo, o none é usado como substantivo, ambos significam: Nenhum, Nenhuma.
+* O ***no*** é utilizado como adjetivo, o ***none*** é usado como substantivo, ambos significam: Nenhum, Nenhuma.
 * São utilizados em frases negativas.
 
 Ex: Diana threw a party, but nobody showed up.  
