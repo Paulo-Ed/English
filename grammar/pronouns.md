@@ -253,7 +253,7 @@ Ex: I looked at myself in the mirror.
 Ex: She hurt herself.  
 Ex: We amused ourselves.  
 Ex: They are proud of themselves.  
-Ex: Did tou go to school by yourselves?  
+Ex: Did you go to school by yourselves?  
 Ex: Natalie and John kissed each other.  
 Ex: They kissed one another.  
 
