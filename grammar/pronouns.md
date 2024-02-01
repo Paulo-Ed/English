@@ -19,25 +19,6 @@ English grammar.
 Ex: He is very tall.    
 Ex: It is red.
 
-<table>
-    <tr>
-        <td><b>I</b> (Eu)</td>
-        <td><b>It</b> (Ele - Ela - Isto)</td>
-    </tr>
-     <tr>
-        <td><b>You</b> (Você - Tú)</td>
-        <td><b>We</b> (Nós)</td>
-    </tr>
-     <tr>
-        <td><b>He</b> (Ele)</td>
-        <td><b>You</b> (Vocês - Vós)</td>
-    </tr>
-     <tr>
-        <td><b>She</b> (Ela)</td>
-        <td><b>They</b> (Eles - Elas)</td>
-    </tr>
-</table>
-
 > ### Object pronouns
 * Os ***object pronouns*** são os sujeitos que sofrem a ação na frase.
 * São empregados após verbos e preposições, aparecendo geralmente no meio ou no fim da frase.
@@ -46,24 +27,16 @@ Ex: It is red.
 Ex: I like her.  
 Ex: I want to  find it.
 
-<table>
-    <tr>
-        <td><b>Me</b> (me - mim - comigo)</td>
-        <td><b>It</b> (ele - ela - o - a - lhe - lo - la - no - na)</td>
-    </tr>
-     <tr>
-        <td><b>You</b> (te - ti - lhe - o - você - contigo)</td>
-        <td><b>Us</b> (nós - no - conosco)</td>
-    </tr>
-     <tr>
-        <td><b>Him</b> (ele - lhe - o - lo - no)</td>
-        <td><b>You</b> (vocês - conosco - lhes - los - nos - os - as)</td>
-    </tr>
-     <tr>
-        <td><b>Her</b> (ela - lhe - a - la - na)</td>
-        <td><b>Them</b> (eles - elas - os - as - los - las - nos - nas - lhes)</td>
-    </tr>
-</table>
+| Subject pronouns         | Object pronouns                                                 |
+| ------------------------ | --------------------------------------------------------------- |
+| **I** (Eu)               | **Me** (me - mim - comigo)                                      |
+| **You** (Você - Tú)      | **You** (te - ti - lhe - o - você - contigo)                    |
+| **He** (Ele)             | **Him** (ele - lhe - o - lo - no)                               |
+| **She** (Ela)            | **Her** (ela - lhe - a - la - na)                               |
+| **It** (Ele - Ela - Isto)| **It** (ele - ela - o - a - lhe - lo - la - no - na)            |
+| **We** (Nós)             | **Us** (nós - no - conosco)                                     |
+| **You** (Vocês - Vós)    | **You** (vocês - conosco - lhes - los - nos - os - as)          |
+| **They** (Eles - Elas)   | **Them** (eles - elas - os - as - los - las - nos - nas - lhes) |
 
 <br>
 
@@ -77,25 +50,6 @@ Ex: I want to  find it.
 Ex: Her mother is old.  
 Ex: His name is Paulo.
 
-<table>
-    <tr>
-        <td><b>My</b> (Meu - Minha)</td>
-        <td><b>Its</b> (Dele - Dela)</td>
-    </tr>
-     <tr>
-        <td><b>Your</b> (Teu - Tua)</td>
-        <td><b>Our</b> (Nosso - Nossa)</td>
-    </tr>
-     <tr>
-        <td><b>His</b> (Dele)</td>
-        <td><b>Your</b> (Nosso - Nossa - Seu - Sua - De vocês)</td>
-    </tr>
-     <tr>
-        <td><b>Her</b> (Dela)</td>
-        <td><b>Their</b> (Deles - Delas)</td>
-    </tr>
-</table>
-
 > ### Possessive pronouns
 * Funcionam como substantivo na frase.
 * Geralmente aparecem no fim da frase, exercendo a função do sujeito.
@@ -103,24 +57,16 @@ Ex: His name is Paulo.
 Ex: The girl is mine.  
 Ex: This phone is his.
 
-<table>
-    <tr>
-        <td><b>Mine</b> (Meu - Minha)</td>
-        <td><b>Its</b> (Dele - Dela)</td>
-    </tr>
-     <tr>
-        <td><b>Yours</b> (Teu - Tua - Seu - Sua)</td>
-        <td><b>Ours</b> (Nosso - Nossa)</td>
-    </tr>
-     <tr>
-        <td><b>His</b> (Dele)</td>
-        <td><b>Yours</b> (Nosso - Nossa - Seu - Sua - De vocês)</td>
-    </tr>
-     <tr>
-        <td><b>Hers</b> (Dela)</td>
-        <td><b>Theirs</b> (Deles - Delas)</td>
-    </tr>
-</table>
+| Possessive adjectives                           | Possessive pronouns                              |
+| ----------------------------------------------- | ------------------------------------------------ |
+| **My** (Meu - Minha)                            | **Mine** (Meu - Minha)                           |
+| **Your** (Teu - Tua)                            | **Yours** (Teu - Tua - Seu - Sua)                |
+| **His** (Dele)                                  | **His** (Dele)                                   |
+| **Her** (Dela)                                  | **Hers** (Dela)                                  |
+| **Its** (Dele - Dela)                           | **Its** (Dele - Dela)                            |
+| **Our** (Nosso - Nossa)                         | **Ours** (Nosso - Nossa)                         |
+| **Your** (Nosso - Nossa - Seu - Sua - De vocês) | **Yours** (Nosso - Nossa - Seu - Sua - De vocês) |
+| **Their** (Deles - Delas)                       | **Theirs** (Deles - Delas)                       |
 
 <br>
 

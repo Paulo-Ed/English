@@ -12,7 +12,7 @@ English grammar.
 * No ***simple present*** o verbo ***to be*** tem três flexões: ***am***, ***is*** e ***are***.
 * O ***am*** é usado na 1ª pessoa do singular para o pronome ***i***.
 * O ***is*** é usado na 3ª pessoa do singular para os ***he***, ***she*** e ***it***.
-* O ***are*** é usado nas demais pessoas verbais (2ª singular/ 1ª, 2ª e 3ª pessoa do plural).
+* O ***are*** é usado nas demais pessoas verbais (***you***, ***we***, ***they***).
 
 #### Affirmative form
 * Na forma afirmativa basta usar o verbo ***to be*** em sua respectiva flexão de acordo com o sujeito seguida do complemento.

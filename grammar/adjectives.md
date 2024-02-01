@@ -9,14 +9,14 @@ English grammar.
 * Em inglês os ***adjectives*** geralmente são posicionados antes do substantivo, porém aparecem após o substantivo no caso de verbos de ligação (vindo após o verbo) ou quando há pronomes indefinidos na frase (vindo após o pronome indefinido).
 * Quando a frase possui mais de dois ***adjectives*** deve-se posiciona-los na ordem: ***opinion*** > ***size*** > ***age*** > ***shape*** > ***color*** > ***origen*** > ***religion*** > ***material*** > ***purpose*** > ***noun***.
 * Classificação dos adjetivos:
-  - ***Opinion***: Expressam ideia ou opinião.
-  - ***Size***: Expressam tamanho.
-  - ***Age***: Expressam idade.
-  - ***Shape***: Expressam a forma.
-  - ***Color***: Expressam a cor.
-  - ***Origen***: Expressam a origem ou nacionalidade.
-  - ***Religion***: Expressam a religião.
-  - ***Material***: Expressam o tipo do material.
+  - ***Opinion***: Expressam ideia ou opinião;
+  - ***Size***: Expressam tamanho;
+  - ***Age***: Expressam idade;
+  - ***Shape***: Expressam a forma;
+  - ***Color***: Expressam a cor;
+  - ***Origen***: Expressam a origem ou nacionalidade;
+  - ***Religion***: Expressam a religião;
+  - ***Material***: Expressam o tipo do material;
   - ***Purpose***: Expressam o propósito.
 
 Ex: I have a new job.  
