@@ -73,26 +73,31 @@ Ex: This phone is his.
 ## DEMONSTRATIVE PRONOUNS
 * São utilizados para indicar algo e mostrar sua posição no espaço.
 * Os ***demonstrative pronouns*** não variam em gênero, mas variam em número (singular - plural).
-* São classificados em:
-  - ***Demonstrative pronouns***, quando tem a função de substituir o substantivo na frase. Ele surge antes do verbo ou sozinho na frase.
-  - ***Demonstrative adjectives***, quando tem a função de atribuir qualidade ao substantivo o descrevendo. Ele surge antes do substantivo.
 * O ***this*** é usado para indicar algo próximo de quem fala, o ***these*** é a sua forma no plural.
 * O ***that*** é usado para indicar algo longe de quem fala, o ***those*** é sua forma no plural.
 
-Ex: This computer is mine.  
-Ex: Those pens are mine.  
+> ### Demonstrative pronouns
+* Substituem o substantivo na frase.
+* Ele surge antes do verbo ou sozinho na frase.
+* Estrutura da frase:
+  - ***Demonstrative pronoun*** + verbo + complemento.
+
+Ex: That is my car.  
 Ex: Do you like that?  
 
-<table>
-    <tr>
-        <td><b>This</b> (Este - Esta - Isto)</td>
-        <td><b>These</b> (Estes - Estas)</td>
-    </tr>
-     <tr>
-        <td><b>That</b> (Esse - Essa - Isso - Aquele - Aquela - Aquilo)</td>
-        <td><b>Those</b> (Esses - Essas - Aqueles - Aquelas)</td>
-    </tr>
-</table>
+> ### Demonstrative adjectives
+* Tem a função de atribuir qualidade ao substantivo o descrevendo. 
+* Ele surge antes do substantivo.
+* Estrutura da frase:
+  - ***Demonstrative adjective*** + substantivo + complemento.
+
+Ex: This computer is mine.  
+Ex: Those pens are mine.  
+
+| Demonstrative pronouns (Singular)                        | Demonstrative pronouns (Plural)               |
+| -------------------------------------------------------- | --------------------------------------------- |
+| **This** (Este - Esta - Isto)                            | **These** (Estes - Estas)                     |
+| **That** (Esse - Essa - Isso - Aquele - Aquela - Aquilo) | **Those** (Esses - Essas - Aqueles - Aquelas) |
 
 <br>
 
