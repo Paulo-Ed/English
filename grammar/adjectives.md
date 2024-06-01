@@ -1,9 +1,8 @@
-# English
-English grammar.
+# Adjectives
 
 <br>
 
-## ADJECTIVES
+## DEFINITION
 * Os ***adjetives***, são a classe de palavras que dão característica para os substantivos, seja para expressar uma qualidade, um defeito, uma condição ou uma opinião. 
 * Os ***adjectives*** em inglês não variam em relação a gênero (masculino e feminino) ou número (singular e plural).
 * Em inglês os ***adjectives*** geralmente são posicionados antes do substantivo, porém aparecem após o substantivo no caso de verbos de ligação (vindo após o verbo) ou quando há pronomes indefinidos na frase (vindo após o pronome indefinido).

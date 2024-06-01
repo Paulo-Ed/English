@@ -1,9 +1,6 @@
-# English 
-English grammar.
+# The Alphabet
 
 <br>
-
-## THE ALPHABET
 
 | Letter (Sound) | Letter (Sound) | Letter (Sound) | Letter (Sound) | Letter (Sound)   | Letter (Sound) |
 |----------------|----------------|----------------|----------------|------------------|----------------|

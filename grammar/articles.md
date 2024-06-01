@@ -1,9 +1,8 @@
-# English
-English grammar.
+# Articles
 
 <br>
 
-## ARTICLES
+## DEFINITION
 * Os artigos definidos em inglês são três: ***a***, ***an*** e ***the*** sendo sempre utilizados antes de um substantivo.
 
 > ### Definite articles
@@ -35,13 +34,11 @@ Ex: I like to play the piano.
 Ex: The jacksons are a famous family.  
 Ex: The united states of america.  
 
-<table>
-    <tr>
-        <td><b>The</b> (O - Os - A - As)</td>
-    </tr>
-</table>
+| DEFINITE ARTICLES         |
+|-------------------------- |
+| **The** (O - Os - A - As) |
 
-> #### INDEFINITE ARTICLES
+> ### Indefinite articles
 * Os indefinite articles, são utilizados quando nos referimos a algo em geral, não especificado.
 * São usados apenas para substantivos no singular.
 * O artigo ***a*** é usado em palavras que começam com uma consoante ou por um som de consoante.
@@ -56,14 +53,12 @@ Ex: He is a professor.
 Ex: She is eating an apple.  
 Ex: This is a dictionary.  
 
-<table>
-    <tr>
-        <td><b>A</b> (Um - Uma)</td>
-    </tr>
-    <tr>
-        <td><b>An</b> (Um - Uma)</td>
-    </tr>
-</table>
+
+| INDEFINITE ARTICLES    |
+|----------------------- |
+| **A**(Um - Uma)        |
+| **An** (Um - Uma)      |
+
 
 
 
