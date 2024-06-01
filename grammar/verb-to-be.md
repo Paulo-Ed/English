@@ -1,9 +1,8 @@
-# English
-English grammar.
+# Verb To Be
 
 <br>
 
-## VERB TO BE
+## DEFINITION
 * O verbo ***to be*** é um dos mais utilizados ao se falar inglês e seu significado pode ser traduzido como ser ou estar. Para identificar qual dos dois sentidos o verbo significa é necessário entender o contexto em que a mensagem é expressa.
 * O verbo ***to be*** é um verbo irregular.
 * O seu uso nas formação de frases ele pode ser utilizado como verbo principal, ou ter a função de verbo auxiliar em alguns tempos verbais.

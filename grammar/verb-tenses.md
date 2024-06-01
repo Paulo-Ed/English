@@ -1,17 +1,14 @@
-# English
-English grammar.
+# Verb Tenses
 
 <br>
 
-## VERB TENSES
-
-> ### Simple present
+## SIMPLE PRESENT
 * É empregado para indicar ações habituais que ocorrem no presente ou informações factuais.
 * Também é utilizado para expressar verdades universais, sentimentos, desejos, opiniões e preferências.
 * Geralmente frases no simple present apresentam expressões de tempo.
 * A conjugação de frases no ***simple present***, variam de acordo com a pessoa verbal, terminação do verbo e tipo de frase (afirmativa - negativa - interrogativa).
 
-#### Affirmative form
+> ### Affirmative form
 * A regra geral é usar o verbo conjugado no infinitivo sem o ***to***, para os pronomes ***i, you, we*** e ***they***.
 * Para os pronomes ***he, she*** e ***it*** adiciona-se o ***-s, -es*** ou ***-ies*** ao verbo.
 * Regras específicas:
@@ -24,7 +21,7 @@ English grammar.
 Ex: She watches tv series every day.  
 Ex: I live in Brazil.  
 
-#### Negative form
+> ### Negative form
 * A forma negativa do ***simple present*** é formada com o uso dos verbos auxiliares ***do*** e ***does***.
 * O auxiliar ***do/does*** não é utilizado para o verbo *to be*.
 * O ***do*** é utilizado com os pronomes ***i, you, we*** e ***they***.  
@@ -37,7 +34,7 @@ Ex: I live in Brazil.
 Ex: I do not live in Brazil.  
 Ex: He does not go to the gym on weekends.  
 
-#### Interrogative form
+> ### Interrogative form
 * A forma interrogativa do ***simple present*** é formada com o uso dos verbos auxiliares ***do*** e ***does*** no início da frase.
 * O ***do*** é utilizado com os pronomes ***i, you, we*** e ***they***.  
 * O ***does*** é utilizado como verbo auxiliar dos pronomes ***he, she*** e ***it***.
@@ -49,12 +46,12 @@ Ex: He does not go to the gym on weekends.
 Ex: Do you arrive late?  
 Ex: Does he live in your house?  
 
-> ### Present continuos
+## PRESENT CONTINUOS
 * É empregado para indicar ações temporárias ou contínuas que estão acontecendo no presente, no momento da fala.
 * É comum frases no ***present continuos***, estarem acompanhadas de advérbios de tempo como ***now***, ***at the moment*** e ***at present***.
 * No português o ***present continuos*** corresponde ao gerúndio.
 
-#### Affirmative form
+> ### Affirmative form
 * É formado por um verbo principal e um verbo auxiliar.
 * O verbo ***to be*** no ***simple present***, funciona como o verbo auxiliar, enquanto o adiciona-se ***-ing*** ao final do verbo principal.
 * Nas frases afirmativas, pode-se usar as formas contraídas do verbo ***to be***.
@@ -68,7 +65,7 @@ Ex: Does he live in your house?
 Ex: I am studying english at the moment.  
 Ex: I am eating now.
 
-#### Negative form
+> ### Negative form
 * É formado com a adição do ***not*** depois do verbo auxiliar ***to be***.
 * Nas frases negativas, pode-se usar as formas contraídas do verbo ***to be*** + ***not***, com exceção do ***am***.
 * Estrutura da frase:
@@ -77,7 +74,7 @@ Ex: I am eating now.
 Ex: I am not studying english at the moment.  
 Ex: She is not watching Tv.  
 
-#### Interrogative form
+> ### Interrogative form
 * É formado com o verbo auxiliar ***to be*** no início da frase.
 * Estrutura da frase:
   - Verbo auxiliar (to be) + sujeito + verbo principal com ***-ing*** + complemento.
@@ -85,11 +82,11 @@ Ex: She is not watching Tv.
 Ex: Are you studying english at the moment?  
 Ex: Is she watching Tv?
 
-> ### Simple past
+## SIMPLE PAST
 * É usado para indicar ações feitas no passado já concluídas, ou seja, coisas que já aconteceram, que começaram e terminaram no passado.
 * É comum o uso de expressões temporais em frases no ***simple past***, como ***yesterday***, ***the day before yesterday***, ***last night***, ***last year***, ***last month***, ***last week*** e ***ago***.
 
-#### Affirmative form
+> ### Affirmative form
 * A regra geral é usar o verbo principal no infinitivo sem o ***to*** adicionando ao seu final a terminação ***-ed, -ied*** ou ***-d*** para os verbos regulares.
 * Para os verbos irregulares usa-se a forma do verbo para o passado.
 * Regras específicas:
@@ -104,7 +101,7 @@ Ex: Is she watching Tv?
 Ex: I liked your computer.  
 Ex: She was at house.  
 
-#### Negative form
+> ### Negative form
 * Para formar frases negativas no ***simple past***, o verbo ***did*** (a forma no passado do verbo ***do***) é usada como verbo auxiliar juntamente com o ***not***.
 * O verbo principal não sofre modificação sendo utilizado no infinitivo.
 * Podemos usar o ***did*** na forma completa (did not) ou contraída (didn't).
@@ -115,7 +112,7 @@ Ex: She was at house.
 Ex: He did not like the teacher.  
 Ex: We didn't have money.  
 
-#### Interrogative form
+> ### Interrogative form
 * Para formar frases interrogativas no ***simple past***, o verbo ***did*** (a forma no passado do verbo ***do***) é usada como verbo auxiliar.
 * O verbo principal não sofre modificação sendo utilizado no infinitivo.
 * Estrutura da frase:
@@ -124,15 +121,15 @@ Ex: We didn't have money.
 Ex: Did you know about it?  
 Ex: Did she like the english teacher?  
 
-> ### Simple future
+## SIMPLE FUTURE
 * O ***simple future*** é um tempo verbal utilizado para indicar ações que irão ocorrer no futuro.
 * Ele é usado para indicar uma decisão que está sendo tomada no momento da fala, expressar um pedido, uma promessa, um convite ou uma oferta.
 * O ***simple future*** pode ser formado utilizando os verbos modais ***will*** e ***shall*** como auxiliares, ou ainda usando o ***going to***.
 
-#### Future with will
+> ### Future with will
 * O ***will*** é usado para indicar uma ideia de futuro incerto, ou que foi decidido no momento da fala.
 
-##### Affirmative form
+#### Affirmative form
 * Para formar a frase no ***simple future*** com o ***will*** como auxiliar, basta adiciona-lo antes do verbo principal no infinitivo sem o ***to***.
 * Pode-se utilizar a forma completa, ou a forma contraída ('ll) do verbo ***will***, após pronomes pessoais.
 * Estrutura da frase:
@@ -141,7 +138,7 @@ Ex: Did she like the english teacher?
 Ex: I will travel tomorrow.  
 Ex: We will go out tonight.  
 
-##### Negative form
+#### Negative form
 * Para criar frases negativas no ***simple future*** com o ***will***, adiciona-se o ***not*** antes do verbo principal.
 * Pode-se utilizar o auxiliar na forma completa (will not) e também na forma contraída com o ***won't***.
 * Estrutura da frase:
@@ -150,7 +147,7 @@ Ex: We will go out tonight.
 Ex: I will not travel tomorrow.  
 Ex: We won't go out tonight. 
 
-##### Interrogative form
+#### Interrogative form
 * Para formar frases interrogativas no ***simple future***, com o verbo ***will*** basta inverter a posição com o sujeito.
 * O verbo principal não sofre modificação sendo utilizado no infinitivo.
 * Estrutura da frase:
@@ -159,10 +156,10 @@ Ex: We won't go out tonight.
 Ex: Will he travel tomorrow?  
 Ex: Will we go out tonight?  
 
-#### Future with going to
+> ### Future with going to
 * O ***going to*** é usado para indicar uma ideia de futuro que já está definido e que vai acontecer em um momento próximo.
 
-##### Affirmative form
+#### Affirmative form
 * Para formar frases no ***simple future*** com o ***going to***, utiliza-se do verbo ***to be*** e após ele adiciona-se o ***going to***, o verbo principal fica no infinitivo sem o ***to***.
 * A frase no ***simple future*** com o ***going to*** também possui uma forma abreviada que é utilizando a forma contraída do verbo ***to be***.
 * Estrutura da frase:
@@ -171,7 +168,7 @@ Ex: Will we go out tonight?
 Ex: I am going to travel Brazil tomorrow.  
 Ex: We are going to go out tonight.  
 
-##### Negative form
+#### Negative form
 * Para criar frases negativas no ***simple future*** com o ***going to***, usa-se a forma negativa do verbo ***to be*** com o ***not***.
 * Pode-se utilizar a forma negativa completa ou contraída do verbo ***to be***.
 * Estrutura da frase:
@@ -180,7 +177,7 @@ Ex: We are going to go out tonight.
 Ex: I am not going to travel tomorrow.  
 Ex: We aren't going to go out tonight. 
 
-##### Interrogative form
+#### Interrogative form
 * Para formar frases interrogativas no ***simple future***, com o verbo ***going to*** basta inverter a posição com o sujeito com o verbo ***to be***.
 * O verbo principal não sofre modificação sendo utilizado no infinitivo.
 * Estrutura da frase:
@@ -189,11 +186,11 @@ Ex: We aren't going to go out tonight.
 Ex: is he going to travel tomorrow?  
 Ex: are we going to go out tonight?  
 
-#### Future with shall
+> ### Future with shall
 * O ***shall*** é um verbo modal usado para indicar uma ideia de futuro assim como o ***will***, porém ele é menos empregado sendo mais usado em situações formais.
 * Costuma aparecer em perguntas, sugestões e convites, geralmente nas primeiras pessoas do singular.  
 
-##### Affirmative form
+#### Affirmative form
 * Para formar a frase no ***simple future*** com o ***shall*** como auxiliar, basta adiciona-lo antes do verbo principal no infinitivo sem o ***to***.
 * Estrutura da frase:
   -  Sujeito + ***shall*** + verbo principal sem o to + complemento.
@@ -201,7 +198,7 @@ Ex: are we going to go out tonight?
 Ex: I shall travel tomorrow.  
 Ex: We shall go out tonight.  
 
-##### Negative form
+#### Negative form
 * Para criar frases negativas no ***simple future*** com o ***shall***, adiciona-se o ***not*** antes do verbo principal.
 * Pode-se utilizar o auxiliar na forma completa (will not) e também na forma contraída com o ***shan't***.
 * Estrutura da frase:
@@ -210,7 +207,7 @@ Ex: We shall go out tonight.
 Ex: I shall not travel tomorrow.  
 Ex: We shan't go out tonight. 
 
-##### Interrogative form
+#### Interrogative form
 * Para formar frases interrogativas no ***simple future***, com o verbo ***shall*** basta inverter a posição com o sujeito.
 * O verbo principal não sofre modificação sendo utilizado no infinitivo.
 * Estrutura da frase:
