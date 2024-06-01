@@ -120,7 +120,7 @@ Ex: The man who lives here is a programmer.
 Ex: I know where the books are.  
 Ex: I don't know what it is.  
 
-| Relative pronouns                                                                |
+| RELATIVE PRONOUNS                                                                |
 | -------------------------------------------------------------------------------- |
 | ***Who*** (Quem - Que - O qual)                                                  |
 | ***Whom*** (Quem)                                                                |
@@ -147,7 +147,7 @@ Ex: I don't know what it is.
 Ex: Who is he?  
 Ex: What are you doing?
 
-| Relative pronouns                  |
+| QUESTIONS WORDS                    |
 | ---------------------------------- |
 | ***Who*** (Quem)                   |
 | ***Whom*** (Quem)                  |
