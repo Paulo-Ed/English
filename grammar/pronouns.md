@@ -226,7 +226,6 @@ Ex: I will get there someway.
 | ***Somewhere*** (Em algum lugar)  |
 | ***Someway*** (De alguma maneira) |
 
-
 > ### Any
 * O termo ***any***, quando usado sozinho significa: Qualquer, Quaisquer, Algum, Alguns, Alguma, Algumas, Nenhum, Nenhuma, Um, Uns, Uma, Umas.
 * O ***any*** e suas combinações são utilizados em frases negativas ou interrogativas.
@@ -234,20 +233,13 @@ Ex: I will get there someway.
 Ex: I would go anywhere with you.  
 Ex: I didn't hear anything.  
 
-<table>
-    <tr>
-        <td><b>Anybody</b> (Ninguém)</td>
-        <td><b>Anywhere</b> (Qualquer lugar)</td>
-    </tr>
-    <tr>
-        <td><b>Anyone</b> (Qualquer um - Ninguém)</td>
-        <td><b>Anyway</b> (De qualquer forma - De qualquer jeito)</td>
-    </tr>
-    <tr>
-        <td><b>Anything</b> (Nada)</td>
-        <td><b></b></td>
-    </tr>
-</table>
+| VARIATIONS OF ANY                                    |
+| ---------------------------------------------------- |
+| ***Anybody*** (Ninguém)                              |
+| ***Anyone*** (Qualquer um - Ninguém)                 |
+| ***Anything*** (Nada)                                |
+| ***Anywhere*** (Qualquer lugar)                      |
+| ***Anyway*** (De qualquer forma - De qualquer jeito) |
 
 > ### No
 * O ***no*** é utilizado como adjetivo, o ***none*** é usado como substantivo, ambos significam: Nenhum, Nenhuma.
@@ -257,20 +249,14 @@ Ex: Diana threw a party, but nobody showed up.
 Ex: None of these apples is ripe.  
 Ex: I have nothing in my purse.  
 
-<table>
-    <tr>
-        <td><b>Nobody</b> (Ninguém)</td>
-        <td><b>Nothing</b> (Nada)</td>
-    </tr>
-    <tr>
-        <td><b>No one</b> (Ninguém)</td>
-        <td><b>Nowhere</b> (Em nenhum lugar)</td>
-    </tr>
-    <tr>
-        <td><b>None</b> (Nenhum - Nenhuma)</td>
-        <td><b>No way</b> (De jeito nenhum)</td>
-    </tr>
-</table>
+| VARIATIONS OF SOME              |
+| ------------------------------- |
+| ***Nobody*** (Ninguém)          |
+| ***No one*** (Ninguém)          |
+| ***None*** (Nenhum - Nenhuma)   |
+| ***Nothing*** (Nada)            |
+| ***Nowhere*** (Em nenhum lugar) |
+| ***No way*** (De jeito nenhum)  |
 
 > ### Every
 * O ***every*** siginifica: Todo, Todos, Toda, Todas, Cada.
@@ -279,54 +265,31 @@ Ex: I have nothing in my purse.
 Ex: Everybody hates Chris.  
 Ex: Everything is possible.  
 
-<table>
-    <tr>
-        <td><b>Everybody</b> (Toda a gente - Todo o mundo)</td>
-        <td><b>Everywhere</b> (Em todos os lugares)</td>
-    </tr>
-    <tr>
-        <td><b>Everyone</b> (Todos - Todo o mundo)</td>
-        <td><b>Every way</b> (De todo jeito - De todos os sentidos)</td>
-    </tr>
-    <tr>
-        <td><b>Everything</b> (Tudo)</td>
-        <td><b></b></td>
-    </tr>
-</table>
+| VARIATIONS OF EVERY                                    |
+| ------------------------------------------------------ |
+| ***Everybody*** (Toda a gente - Todo o mundo)          |
+| ***Everyone*** (Todos - Todo o mundo)                  |
+| ***Everything*** (Tudo)                                |
+| ***Everywhere*** (Em todos os lugares)                 |
+| ***Every way*** (De todo jeito - De todos os sentidos) |
 
 > ### Other indefinite pronouns
 
-<table>
-    <tr>
-        <td><b>One</b> (Algum - Alguma - A gente - Certo - Um certo)</td>
-        <td><b>Such</b> (Tal - Tais)</td>
-    </tr>
-    <tr>
-        <td><b>All</b> (Tudo - Todo - Todos - Toda - Todas)</td>
-        <td><b>Other</b> (Outro - Outros - Outra - Outras)</td> 
-    </tr>
-    <tr>
-        <td><b>Much</b> (Muito - Muitas)</td>
-        <td><b>Another</b> (Outro - Outra)</td>
-    </tr>
-    <tr>
-        <td><b>Many</b> (Muitos - Muitas)</td>
-        <td><b>Either</b> (Um ou outro - Uma ou outra - Cada)</td>
-    </tr>
-    <tr>
-        <td><b>Little</b> (Pouco - Pouca)</td>
-        <td><b>Neither</b> (Nem um nem outro - Nem uma nem outra - Nenhum dos dois - Nenhuma das duas)</td>
-    </tr>
-    <tr>
-        <td><b>Few</b> (Poucos - Poucas)</td>
-        <td><b>Enough</b> (Bastante - Suficiente)</td>
-    </tr>
-    <tr>
-        <td><b>Fewer</b> (Menos)</td>
-        <td><b>Several</b> (Vários - Várias)</td>
-    </tr>
-    <tr>
-        <td><b>Each</b> (Cada)</td>
-        <td><b>Both</b> (Ambos - Ambas)</td>
-    </tr>
-</table>
+| OTHER INDEFINITE PRONOUNS                                                                |
+| ----------------------------------------------------------------------------------------- |
+| ***One*** (Algum - Alguma - A gente - Certo - Um certo)                                   |
+| ***All*** (Tudo - Todo - Todos - Toda - Todas)                                            |
+| ***Much*** (Muito - Muitas)                                                               |
+| ***Many*** (Muitos - Muitas)                                                              |
+| ***Little*** (Pouco - Pouca)                                                              |
+| ***Few*** (Poucos - Poucas)                                                               |
+| ***Fewer*** (Menos)                                                                       |
+| ***Each*** (Cada)                                                                         |
+| ***Such*** (Tal - Tais)                                                                   |
+| ***Other*** (Outro - Outros - Outra - Outras)                                             |
+| ***Another*** (Outro - Outra)                                                             |
+| ***Either*** (Um ou outro - Uma ou outra - Cada)                                          |
+| ***Neither*** (Nem um nem outro - Nem uma nem outra - Nenhum dos dois - Nenhuma das duas) |
+| ***Enough*** (Bastante - Suficiente)                                                      |
+| ***Several*** (Vários - Várias)                                                           |
+| ***Both*** (Ambos - Ambas)                                                                |
