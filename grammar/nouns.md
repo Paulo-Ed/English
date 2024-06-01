@@ -1,11 +1,12 @@
-# English
-English grammar.
+# Nouns
 
 <br>
 
-## NOUNS
+## DEFINITION
 * Os substantivos, são a classe de palavras utilizadas para nomear as coisas em geral, como objetos, lugares, seres vivos e sentimentos.
 * Existem diferentes tipos de substantivos, assim como diferentes características para eles como tipo, gênero e forma.
+
+## NOUN TYPES
 
 > ### Proper nouns
 * Os substantivos próprios, dão nome aos seres de maneira específica. São exemplos nomes de pessoas, lugares, dias, marcas, títulos profissionais, etc.
@@ -69,11 +70,11 @@ Ex: football
 Ex: bus stop    
 Ex: father-in-law    
 
-> ### Gender of nouns
+## GENDER OF NOUNS
 * Idiomas em que seus substantivos possuem gênero, fazem com que a aplicação de adjetivos possuam uma flexão determinada para se adequar ao gênero e manter o sentido da frase.
 * O inglês não possuem diferença de gêneros para substantivos, porém existem substantivos espefícos que possuem formas diferentes de acordo com o gênero biológico.
 
-#### Masculine nouns
+> ### Masculine nouns
 * São substantivos que são utilizados especificamente para seres do gênero masculino.
  
 Ex: cock  
@@ -81,14 +82,14 @@ Ex: man
 Ex: dad  
 Ex: uncle
 
-#### Feminine nouns
+> ### Feminine nouns
 * São substantivos que são utilizados especificamente para seres do gênero feminino.
 
 Ex: aunt  
 Ex: woman  
 Ex: chicken  
 
-#### Neutral gender nouns
+> ### Neutral gender nouns
 * São substantivos que em relação por exemplo a pessoas, poderm ser usados para referenciar os gêneros masculinos e femininos.
 * O gênero neutro em inglês, também é usado para palavras sem gênero em inglês, são palavras por exemplo que podem ser substituídas pelo ***it***.
 
@@ -97,7 +98,7 @@ Ex: professor
 Ex: doctor  
 Ex: fork
 
-> ### Plural of nouns
+## PLURAL OF NOUNS
 * A regra geral é adicionar ***-s*** para formar o plural dos substantivos.
 * Para substantivos terminados em ***-y*** precedidos por uma consoante, retira-se o ***-y*** e adiciona-se ***-ies***.
 * Para substantivos terminados em ***-s***, ***-ss***, ***-ch***, ***-sh***, ***-x***, ***-z***, ***-o*** acrecenta-se ***-es***.
