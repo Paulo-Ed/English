@@ -120,16 +120,16 @@ Ex: The man who lives here is a programmer.
 Ex: I know where the books are.  
 Ex: I don't know what it is.  
 
-| Relative pronouns                                                              |
-| ------------------------------------------------------------------------------ |
-| **Who** (Quem - Que - O qual)                                                  |
-| **Whom** (Quem)                                                                |
-| **Whose** (Cujo - Cuja - Cujos - Cujas)                                        |
-| **Which** (Que - O qual - O que)                                               |
-| **Where** (Onde - Em que - No que - No qual - Na qual - Nos quais - Nas quais) |
-| **When** (Quando - Em que - No qual - Na qual - Nos quais - Nas quais)         |
-| **That** (Que)                                                                 |
-| **What** (O que)                                                               |
+| Relative pronouns                                                                |
+| -------------------------------------------------------------------------------- |
+| ***Who*** (Quem - Que - O qual)                                                  |
+| ***Whom*** (Quem)                                                                |
+| ***Whose*** (Cujo - Cuja - Cujos - Cujas)                                        |
+| ***Which*** (Que - O qual - O que)                                               |
+| ***Where*** (Onde - Em que - No que - No qual - Na qual - Nos quais - Nas quais) |
+| ***When*** (Quando - Em que - No qual - Na qual - Nos quais - Nas quais)         |
+| ***That*** (Que)                                                                 |
+| ***What*** (O que)                                                               |
 
 <br>
 
