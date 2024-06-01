@@ -34,9 +34,9 @@ Ex: I like to play the piano.
 Ex: The jacksons are a famous family.  
 Ex: The united states of america.  
 
-| DEFINITE ARTICLES         |
-|-------------------------- |
-| **The** (O - Os - A - As) |
+| DEFINITE ARTICLES           |
+|---------------------------- |
+| ***The*** (O - Os - A - As) |
 
 > ### Indefinite articles
 * Os indefinite articles, são utilizados quando nos referimos a algo em geral, não especificado.
@@ -54,10 +54,10 @@ Ex: She is eating an apple.
 Ex: This is a dictionary.  
 
 
-| INDEFINITE ARTICLES    |
-|----------------------- |
-| **A**(Um - Uma)        |
-| **An** (Um - Uma)      |
+| INDEFINITE ARTICLES       |
+|-------------------------- |
+| ***A*** (Um - Uma)        |
+| ***An*** (Um - Uma)       |
 
 
 
