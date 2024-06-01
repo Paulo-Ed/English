@@ -1,10 +1,9 @@
-# English
-English grammar.
+# Pronouns
 
 <br>
 
 ## PERSONAL PRONOUNS
-* No inglês todas as frases possuem um sujeito.
+* No inglês todas as frases possuem um sujeito. Os ***pernosal pronouns*** substituem ou acompanham o sujeito na frase.
 
 > ### Subject pronouns
 * Os ***subject pronouns*** são os sujeitos que praticam a ação na frase.
@@ -121,24 +120,16 @@ Ex: The man who lives here is a programmer.
 Ex: I know where the books are.  
 Ex: I don't know what it is.  
 
-<table>
-    <tr>
-        <td><b>Who</b> (Quem - Que - O qual)</td>
-        <td><b>Where</b> (Onde - Em que - No que - No qual - Na qual - Nos quais - Nas quais)</td>
-    </tr>
-    <tr>
-        <td><b>Whom</b> (Quem)</td>
-        <td><b>When</b> (Quando - Em que - No qual - Na qual - Nos quais - Nas quais)</td>
-    </tr>
-    <tr>
-        <td><b>Whose</b> (Cujo - Cuja - Cujos - Cujas)</td>
-        <td><b>That</b> (Que)</td>
-    </tr>
-    <tr>
-        <td><b>Which</b> (Que - O qual - O que)</td>
-        <td><b>What</b> (O que)</td>
-    </tr>
-</table>
+| Relative pronouns                                                              |
+| ------------------------------------------------------------------------------ |
+| **Who** (Quem - Que - O qual)                                                  |
+| **Whom** (Quem)                                                                |
+| **Whose** (Cujo - Cuja - Cujos - Cujas)                                        |
+| **Which** (Que - O qual - O que)                                               |
+| **Where** (Onde - Em que - No que - No qual - Na qual - Nos quais - Nas quais) |
+| **When** (Quando - Em que - No qual - Na qual - Nos quais - Nas quais)         |
+| **That** (Que)                                                                 |
+| **What** (O que)                                                               |
 
 <br>
 
