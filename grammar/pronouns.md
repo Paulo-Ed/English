@@ -188,24 +188,16 @@ Ex: Did you go to school by yourselves?
 Ex: Natalie and John kissed each other.  
 Ex: They kissed one another.  
 
-<table>
-    <tr>
-        <td><b>Myself</b> (A mim mesmo - Me)</td>
-        <td><b>Itself</b> (A si mesmo - A si mesma - Se)</td>
-    </tr>
-    <tr>
-        <td><b>Yourself</b> (A ti - A você mesmo - A você mesma - Te - Se)</td>
-        <td><b>Ourselves</b> (A nós mesmos - A nós mesmas - Nos)</td>
-    </tr>
-    <tr>
-        <td><b>Himself</b> (A si - A ele mesmo - Se)</td>
-        <td><b>Yourselves</b> (A vós - A vocês mesmos - A vocês mesmas - Vós - Se)</td>
-    </tr>
-    <tr>
-        <td><b>Herself</b> (A si - A ela mesma - Se)</td>
-        <td><b>Themselves</b> (A si - A eles mesmos - A elas mesmas - Se)</td>
-    </tr>
-</table>
+| RECIPROCAL PRONOUNS                                                   |
+| --------------------------------------------------------------------- |
+| ***Myself*** (A mim mesmo - Me)                                       |
+| ***Yourself*** (A ti - A você mesmo - A você mesma - Te - Se)         |
+| ***Himself*** (A si - A ele mesmo - Se)                               |
+| ***Herself*** (A si - A ela mesma - Se)                               |
+| ***Itself*** (A si mesmo - A si mesma - Se)                           |
+| ***Ourselves*** (A nós mesmos - A nós mesmas - Nos)                   |
+| ***Yourselves*** (A vós - A vocês mesmos - A vocês mesmas - Vós - Se) |
+| ***Themselves*** (A si - A eles mesmos - A elas mesmas - Se)          |
 
 <br>
 
@@ -226,20 +218,14 @@ Ex: Somewhere in Brazil.
 Ex: We are looking for something to eat.  
 Ex: I will get there someway.  
 
-<table>
-    <tr>
-        <td><b>Somebody</b> (Alguém)</td>
-        <td><b>Somewhere</b> (Em algum lugar)
-    </tr>
-    <tr>
-        <td><b>Someone</b> (Alguém)</td>
-        <td><b>Someway</b> (De alguma maneira)
-    </tr>
-    <tr>
-        <td><b>Something</b> (Algo)</td>
-        <td><b></b></td>
-    </tr>
-</table>
+| VARIATIONS OF SOME                |
+| --------------------------------- |
+| ***Somebody*** (Alguém)           |
+| ***Someone*** (Alguém)            |
+| ***Something*** (Algo)            |
+| ***Somewhere*** (Em algum lugar)  |
+| ***Someway*** (De alguma maneira) |
+
 
 > ### Any
 * O termo ***any***, quando usado sozinho significa: Qualquer, Quaisquer, Algum, Alguns, Alguma, Algumas, Nenhum, Nenhuma, Um, Uns, Uma, Umas.
