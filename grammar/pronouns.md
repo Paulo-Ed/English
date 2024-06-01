@@ -26,16 +26,16 @@ Ex: It is red.
 Ex: I like her.  
 Ex: I want to  find it.
 
-| Subject pronouns         | Object pronouns                                                 |
-| ------------------------ | --------------------------------------------------------------- |
-| **I** (Eu)               | **Me** (me - mim - comigo)                                      |
-| **You** (Você - Tú)      | **You** (te - ti - lhe - o - você - contigo)                    |
-| **He** (Ele)             | **Him** (ele - lhe - o - lo - no)                               |
-| **She** (Ela)            | **Her** (ela - lhe - a - la - na)                               |
-| **It** (Ele - Ela - Isto)| **It** (ele - ela - o - a - lhe - lo - la - no - na)            |
-| **We** (Nós)             | **Us** (nós - no - conosco)                                     |
-| **You** (Vocês - Vós)    | **You** (vocês - conosco - lhes - los - nos - os - as)          |
-| **They** (Eles - Elas)   | **Them** (eles - elas - os - as - los - las - nos - nas - lhes) |
+| SUBJECT PRONOUNS            | OBJECT PRONOUNS                                                   |
+| --------------------------- | ----------------------------------------------------------------- |
+| ***I*** (Eu)                | ***Me*** (me - mim - comigo)                                      |
+| ***You*** (Você - Tú)       | ***You*** (te - ti - lhe - o - você - contigo)                    |
+| ***He*** (Ele)              | ***Him*** (ele - lhe - o - lo - no)                               |
+| ***She*** (Ela)             | ***Her*** (ela - lhe - a - la - na)                               |
+| ***It*** (Ele - Ela - Isto) | ***It*** (ele - ela - o - a - lhe - lo - la - no - na)            |
+| ***We*** (Nós)              | ***Us*** (nós - no - conosco)                                     |
+| ***You*** (Vocês - Vós)     | ***You*** (vocês - conosco - lhes - los - nos - os - as)          |
+| ***They*** (Eles - Elas)    | ***Them*** (eles - elas - os - as - los - las - nos - nas - lhes) |
 
 <br>
 
@@ -56,16 +56,16 @@ Ex: His name is Paulo.
 Ex: The girl is mine.  
 Ex: This phone is his.
 
-| Possessive adjectives                           | Possessive pronouns                              |
-| ----------------------------------------------- | ------------------------------------------------ |
-| **My** (Meu - Minha)                            | **Mine** (Meu - Minha)                           |
-| **Your** (Teu - Tua)                            | **Yours** (Teu - Tua - Seu - Sua)                |
-| **His** (Dele)                                  | **His** (Dele)                                   |
-| **Her** (Dela)                                  | **Hers** (Dela)                                  |
-| **Its** (Dele - Dela)                           | **Its** (Dele - Dela)                            |
-| **Our** (Nosso - Nossa)                         | **Ours** (Nosso - Nossa)                         |
-| **Your** (Nosso - Nossa - Seu - Sua - De vocês) | **Yours** (Nosso - Nossa - Seu - Sua - De vocês) |
-| **Their** (Deles - Delas)                       | **Theirs** (Deles - Delas)                       |
+| POSSESSIVE ADJECTIVES                             | POSSESSIVE PRONOUNS                                |
+| ------------------------------------------------- | -------------------------------------------------- |
+| ***My*** (Meu - Minha)                            | ***Mine*** (Meu - Minha)                           |
+| ***Your*** (Teu - Tua)                            | ***Yours*** (Teu - Tua - Seu - Sua)                |
+| ***His*** (Dele)                                  | ***His*** (Dele)                                   |
+| ***Her*** (Dela)                                  | ***Hers*** (Dela)                                  |
+| ***Its*** (Dele - Dela)                           | ***Its*** (Dele - Dela)                            |
+| ***Our*** (Nosso - Nossa)                         | ***Ours*** (Nosso - Nossa)                         |
+| ***Your*** (Nosso - Nossa - Seu - Sua - De vocês) | ***Yours*** (Nosso - Nossa - Seu - Sua - De vocês) |
+| ***Their*** (Deles - Delas)                       | ***Theirs*** (Deles - Delas)                       |
 
 <br>
 
@@ -93,10 +93,10 @@ Ex: Do you like that?
 Ex: This computer is mine.  
 Ex: Those pens are mine.  
 
-| Demonstrative pronouns (Singular)                        | Demonstrative pronouns (Plural)               |
-| -------------------------------------------------------- | --------------------------------------------- |
-| **This** (Este - Esta - Isto)                            | **These** (Estes - Estas)                     |
-| **That** (Esse - Essa - Isso - Aquele - Aquela - Aquilo) | **Those** (Esses - Essas - Aqueles - Aquelas) |
+| DEMONSTRATIVE PRONOUNS (SINGULAR)                          | DEMONSTRATIVE PRONOUNS (PLURAL)                 |
+| ---------------------------------------------------------- | ----------------------------------------------- |
+| ***This*** (Este - Esta - Isto)                            | ***These*** (Estes - Estas)                     |
+| ***That*** (Esse - Essa - Isso - Aquele - Aquela - Aquilo) | ***Those*** (Esses - Essas - Aqueles - Aquelas) |
 
 <br>
 
