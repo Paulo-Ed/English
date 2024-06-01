@@ -147,33 +147,22 @@ Ex: I don't know what it is.
 Ex: Who is he?  
 Ex: What are you doing?
 
-<table>
-    <tr>
-        <td><b>Who</b> (Quem)</td>
-        <td><b>What</b> (O que - Que - Qual)</td>
-        <td><b>How many</b> (Quantos - Quantas)</td>
-    </tr>
-    <tr>
-        <td><b>Whom</b> (Quem)</td>
-        <td><b>Where</b> (Onde)</td>
-        <td><b>How much</b> (Quanto)</td>
-    </tr>
-    <tr>
-        <td><b>Whose</b> (De quem)</td>
-        <td><b>When</b> (Quando)</td>
-        <td><b>How long</b> (Quanto tempo)</td>
-    </tr>
-    <tr>
-        <td><b>Why</b> (Por que)</td>
-        <td><b>How</b> (Como)</td>
-        <td><b>How far</b> (Quão longe)</td>
-    </tr>
-    <tr>
-        <td><b>Which</b> (Qual - Quais)</td>
-        <td><b>How old</b> (Quantos anos)</td>
-        <td><b></b></td>
-    </tr>
-</table>
+| Relative pronouns                  |
+| ---------------------------------- |
+| ***Who*** (Quem)                   |
+| ***Whom*** (Quem)                  |
+| ***Whose*** (De quem)              |
+| ***Why*** (Por que)                |
+| ***Which*** (Qual - Quais)         |
+| ***What*** (O que - Que - Qual)    |
+| ***Where*** (Onde)                 |
+| ***When*** (Quando)                |
+| ***How*** (Como)                   |
+| ***How many*** (Quantos - Quantas) |
+| ***How much*** (Quanto)            |
+| ***How long*** (Quanto tempo)      |
+| ***How far*** (Quão longe)         |
+| ***How old*** (Quantos anos)       |
 
 <br>
 
