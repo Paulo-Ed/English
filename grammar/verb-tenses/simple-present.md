@@ -38,7 +38,7 @@ Ex: He does not go to the gym on weekends.
 * A forma interrogativa do ***simple present*** é formada com o uso dos verbos auxiliares ***do*** e ***does*** no início da frase.
 * O ***do*** é utilizado com os pronomes ***i, you, we*** e ***they***.  
 * O ***does*** é utilizado como verbo auxiliar dos pronomes ***he, she*** e ***it***.
-* Na forma interrogativa do *Simple present*, o verbo sempre é usado no infinitivo sem o ***to***, mesmo quando usado na terceira pessoa do singular.
+* Na forma interrogativa do ***simple present***, o verbo sempre é usado no infinitivo sem o ***to***, mesmo quando usado na terceira pessoa do singular.
 * O ***do/does*** também é utilizado para se dar respostas curtas.
 * Estrutura da frase:
   - Verbo auxiliar + sujeito + verbo principal + complemento.
